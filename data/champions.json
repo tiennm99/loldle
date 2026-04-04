@@ -1,503 +1,83 @@
 [
     {
-        "id": "Nilah",
-        "name": "Nilah",
-        "title": "the Joy Unbound",
-        "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 4,
+        "id": "Aatrox",
+        "name": "Aatrox",
+        "title": "the Darkin Blade",
+        "resource": "Blood Well",
+        "genre": "Fighter",
+        "skinCount": 13,
         "image": {
-            "full": "Nilah.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 144,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
-        "id": "Gnar",
-        "name": "Gnar",
-        "title": "the Missing Link",
-        "resource": "Rage",
-        "genre": "Fighter,Tank",
-        "skinCount": 11,
-        "image": {
-            "full": "Gnar.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 432,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "freljord"
-    },
-    {
-        "id": "Ornn",
-        "name": "Ornn",
-        "title": "The Fire below the Mountain",
-        "resource": "Mana",
-        "genre": "Tank",
-        "skinCount": 6,
-        "image": {
-            "full": "Ornn.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 384,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "freljord"
-    },
-    {
-        "id": "Rengar",
-        "name": "Rengar",
-        "title": "the Pridestalker",
-        "resource": "Ferocity",
-        "genre": "Assassin,Fighter",
-        "skinCount": 9,
-        "image": {
-            "full": "Rengar.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 0,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ixtal"
-    },
-    {
-        "id": "Teemo",
-        "name": "Teemo",
-        "title": "the Swift Scout",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 16,
-        "image": {
-            "full": "Teemo.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 288,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "bandle-city"
-    },
-    {
-        "id": "Draven",
-        "name": "Draven",
-        "title": "the Glorious Executioner",
-        "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 15,
-        "image": {
-            "full": "Draven.png",
+            "full": "Aatrox.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
-            "x": 336,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "noxus"
-    },
-    {
-        "id": "Fiora",
-        "name": "Fiora",
-        "title": "the Grand Duelist",
-        "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 17,
-        "image": {
-            "full": "Fiora.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 192,
+            "x": 0,
             "y": 0
         },
-        "gender": "female",
+        "gender": "male",
         "attackType": "close",
-        "region": "demacia"
-    },
-    {
-        "id": "Nami",
-        "name": "Nami",
-        "title": "the Tidecaller",
-        "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 15,
-        "image": {
-            "full": "Nami.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 384,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
         "region": "runeterra"
     },
     {
-        "id": "Sona",
-        "name": "Sona",
-        "title": "Maven of the Strings",
-        "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 16,
-        "image": {
-            "full": "Sona.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 336,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "demacia"
-    },
-    {
-        "id": "Viego",
-        "name": "Viego",
-        "title": "The Ruined King",
-        "resource": "None",
-        "genre": "Fighter,Assassin",
-        "skinCount": 8,
-        "image": {
-            "full": "Viego.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 48,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "shadow-isles"
-    },
-    {
-        "id": "Aurora",
-        "name": "Aurora",
-        "title": "the Witch Between Worlds",
+        "id": "Ahri",
+        "name": "Ahri",
+        "title": "the Nine-Tailed Fox",
         "resource": "Mana",
         "genre": "Mage,Assassin",
-        "skinCount": 3,
+        "skinCount": 22,
         "image": {
-            "full": "Aurora.png",
+            "full": "Ahri.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
-            "x": 96,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "freljord"
-    },
-    {
-        "id": "Mel",
-        "name": "Mel",
-        "title": "the Soul's Reflection",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 3,
-        "image": {
-            "full": "Mel.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
             "x": 48,
-            "y": 96
+            "y": 0
         },
         "gender": "female",
         "attackType": "range",
-        "region": "noxus"
+        "region": "ionia"
     },
     {
-        "id": "Nidalee",
-        "name": "Nidalee",
-        "title": "the Bestial Huntress",
-        "resource": "Mana",
-        "genre": "Assassin,Mage",
-        "skinCount": 17,
+        "id": "Akali",
+        "name": "Akali",
+        "title": "the Rogue Assassin",
+        "resource": "Energy",
+        "genre": "Assassin",
+        "skinCount": 22,
         "image": {
-            "full": "Nidalee.png",
+            "full": "Akali.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion3.png",
+            "sprite": "champion0.png",
             "w": 48,
             "x": 96,
             "y": 0
         },
         "gender": "female",
-        "attackType": "range",
-        "region": "ixtal"
-    },
-    {
-        "id": "Gragas",
-        "name": "Gragas",
-        "title": "the Rabble Rouser",
-        "resource": "Mana",
-        "genre": "Fighter,Mage",
-        "skinCount": 15,
-        "image": {
-            "full": "Gragas.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 0,
-            "y": 48
-        },
-        "gender": "male",
         "attackType": "close",
-        "region": "freljord"
-    },
-    {
-        "id": "Hecarim",
-        "name": "Hecarim",
-        "title": "the Shadow of War",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 13,
-        "image": {
-            "full": "Hecarim.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 144,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "shadow-isles"
-    },
-    {
-        "id": "Jhin",
-        "name": "Jhin",
-        "title": "the Virtuoso",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 13,
-        "image": {
-            "full": "Jhin.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 144,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "range",
         "region": "ionia"
     },
     {
-        "id": "Samira",
-        "name": "Samira",
-        "title": "the Desert Rose",
+        "id": "Akshan",
+        "name": "Akshan",
+        "title": "the Rogue Sentinel",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 7,
+        "skinCount": 4,
         "image": {
-            "full": "Samira.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 192,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "noxus"
-    },
-    {
-        "id": "Taric",
-        "name": "Taric",
-        "title": "the Shield of Valoran",
-        "resource": "Mana",
-        "genre": "Support,Tank",
-        "skinCount": 8,
-        "image": {
-            "full": "Taric.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 240,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "mount-targon"
-    },
-    {
-        "id": "Zeri",
-        "name": "Zeri",
-        "title": "The Spark of Zaun",
-        "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 7,
-        "image": {
-            "full": "Zeri.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 336,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "zaun"
-    },
-    {
-        "id": "Corki",
-        "name": "Corki",
-        "title": "the Daring Bombardier",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 12,
-        "image": {
-            "full": "Corki.png",
+            "full": "Akshan.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
-            "x": 192,
-            "y": 96
+            "x": 144,
+            "y": 0
         },
         "gender": "male",
-        "attackType": "range",
-        "region": "bandle-city"
-    },
-    {
-        "id": "Taliyah",
-        "name": "Taliyah",
-        "title": "the Stoneweaver",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 7,
-        "image": {
-            "full": "Taliyah.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 144,
-            "y": 48
-        },
-        "gender": "female",
         "attackType": "range",
         "region": "shurima"
-    },
-    {
-        "id": "Kalista",
-        "name": "Kalista",
-        "title": "the Spear of Vengeance",
-        "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 7,
-        "image": {
-            "full": "Kalista.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 288,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "shadow-isles"
-    },
-    {
-        "id": "Lillia",
-        "name": "Lillia",
-        "title": "the Bashful Bloom",
-        "resource": "Mana",
-        "genre": "Fighter,Mage",
-        "skinCount": 6,
-        "image": {
-            "full": "Lillia.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 96,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "Vayne",
-        "name": "Vayne",
-        "title": "the Night Hunter",
-        "resource": "Mana",
-        "genre": "Marksman,Assassin",
-        "skinCount": 19,
-        "image": {
-            "full": "Vayne.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 288,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "demacia"
-    },
-    {
-        "id": "Velkoz",
-        "name": "Vel'Koz",
-        "title": "the Eye of the Void",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 7,
-        "image": {
-            "full": "Velkoz.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 384,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "void"
     },
     {
         "id": "Alistar",
@@ -520,403 +100,83 @@
         "region": "runeterra"
     },
     {
-        "id": "Ashe",
-        "name": "Ashe",
-        "title": "the Frost Archer",
-        "resource": "Mana",
-        "genre": "Marksman,Support",
-        "skinCount": 20,
+        "id": "Ambessa",
+        "name": "Ambessa",
+        "title": "Matriarch of War",
+        "resource": "Energy",
+        "genre": "Fighter,Assassin",
+        "skinCount": 2,
         "image": {
-            "full": "Ashe.png",
+            "full": "Ambessa.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
-            "x": 0,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "freljord"
-    },
-    {
-        "id": "Evelynn",
-        "name": "Evelynn",
-        "title": "Agony's Embrace",
-        "resource": "Mana",
-        "genre": "Assassin,Mage",
-        "skinCount": 17,
-        "image": {
-            "full": "Evelynn.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 48,
+            "x": 240,
             "y": 0
         },
         "gender": "female",
         "attackType": "close",
-        "region": "runeterra"
-    },
-    {
-        "id": "Fiddlesticks",
-        "name": "Fiddlesticks",
-        "title": "the Ancient Fear",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 13,
-        "image": {
-            "full": "Fiddlesticks.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 144,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
-        "id": "Graves",
-        "name": "Graves",
-        "title": "the Outlaw",
-        "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 14,
-        "image": {
-            "full": "Graves.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 48,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "bilgewater"
-    },
-    {
-        "id": "Leblanc",
-        "name": "LeBlanc",
-        "title": "the Deceiver",
-        "resource": "Mana",
-        "genre": "Assassin,Mage",
-        "skinCount": 14,
-        "image": {
-            "full": "Leblanc.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 432,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "range",
         "region": "noxus"
     },
     {
-        "id": "Poppy",
-        "name": "Poppy",
-        "title": "Keeper of the Hammer",
+        "id": "Amumu",
+        "name": "Amumu",
+        "title": "the Sad Mummy",
         "resource": "Mana",
-        "genre": "Tank,Fighter",
-        "skinCount": 13,
-        "image": {
-            "full": "Poppy.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 0,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "demacia"
-    },
-    {
-        "id": "Seraphine",
-        "name": "Seraphine",
-        "title": "the Starry-Eyed Songstress",
-        "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 11,
-        "image": {
-            "full": "Seraphine.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 336,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "piltover"
-    },
-    {
-        "id": "Tristana",
-        "name": "Tristana",
-        "title": "the Yordle Gunner",
-        "resource": "Mana",
-        "genre": "Marksman,Assassin",
-        "skinCount": 17,
-        "image": {
-            "full": "Tristana.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 384,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "bandle-city"
-    },
-    {
-        "id": "Twitch",
-        "name": "Twitch",
-        "title": "the Plague Rat",
-        "resource": "Mana",
-        "genre": "Marksman,Assassin",
+        "genre": "Tank,Support",
         "skinCount": 15,
         "image": {
-            "full": "Twitch.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 96,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "zaun"
-    },
-    {
-        "id": "Ezreal",
-        "name": "Ezreal",
-        "title": "the Prodigal Explorer",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 22,
-        "image": {
-            "full": "Ezreal.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 96,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "piltover"
-    },
-    {
-        "id": "LeeSin",
-        "name": "Lee Sin",
-        "title": "the Blind Monk",
-        "resource": "Energy",
-        "genre": "Fighter,Assassin",
-        "skinCount": 20,
-        "image": {
-            "full": "LeeSin.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 0,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "MasterYi",
-        "name": "Master Yi",
-        "title": "the Wuju Bladesman",
-        "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 18,
-        "image": {
-            "full": "MasterYi.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 0,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "Trundle",
-        "name": "Trundle",
-        "title": "the Troll King",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 9,
-        "image": {
-            "full": "Trundle.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 432,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "freljord"
-    },
-    {
-        "id": "DrMundo",
-        "name": "Dr. Mundo",
-        "title": "the Madman of Zaun",
-        "resource": "None",
-        "genre": "Tank,Fighter",
-        "skinCount": 12,
-        "image": {
-            "full": "DrMundo.png",
+            "full": "Amumu.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
-            "x": 384,
-            "y": 96
+            "x": 288,
+            "y": 0
         },
         "gender": "male",
-        "attackType": "close",
-        "region": "zaun"
-    },
-    {
-        "id": "Janna",
-        "name": "Janna",
-        "title": "the Storm's Fury",
-        "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 17,
-        "image": {
-            "full": "Janna.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 432,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "zaun"
-    },
-    {
-        "id": "Milio",
-        "name": "Milio",
-        "title": "The Gentle Flame",
-        "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 4,
-        "image": {
-            "full": "Milio.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 96,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "ixtal"
-    },
-    {
-        "id": "Naafiri",
-        "name": "Naafiri",
-        "title": "the Hound of a Hundred Bites",
-        "resource": "Mana",
-        "genre": "Assassin,Fighter",
-        "skinCount": 4,
-        "image": {
-            "full": "Naafiri.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 336,
-            "y": 96
-        },
-        "gender": "female",
         "attackType": "close",
         "region": "shurima"
     },
     {
-        "id": "Ryze",
-        "name": "Ryze",
-        "title": "the Rune Mage",
+        "id": "Anivia",
+        "name": "Anivia",
+        "title": "the Cryophoenix",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 15,
+        "skinCount": 13,
         "image": {
-            "full": "Ryze.png",
+            "full": "Anivia.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion3.png",
+            "sprite": "champion0.png",
             "w": 48,
-            "x": 144,
-            "y": 96
+            "x": 336,
+            "y": 0
         },
-        "gender": "male",
+        "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
+        "region": "freljord"
     },
     {
-        "id": "Shaco",
-        "name": "Shaco",
-        "title": "the Demon Jester",
+        "id": "Annie",
+        "name": "Annie",
+        "title": "the Dark Child",
         "resource": "Mana",
-        "genre": "Assassin",
-        "skinCount": 16,
+        "genre": "Mage,Support",
+        "skinCount": 18,
         "image": {
-            "full": "Shaco.png",
+            "full": "Annie.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion3.png",
+            "sprite": "champion0.png",
             "w": 48,
-            "x": 432,
-            "y": 96
+            "x": 384,
+            "y": 0
         },
-        "gender": "male",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
-        "id": "Zaahen",
-        "name": "Zaahen",
-        "title": "The Unsundered",
-        "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 2,
-        "image": {
-            "full": "Zaahen.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 192,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
+        "gender": "female",
+        "attackType": "range",
         "region": "runeterra"
     },
     {
@@ -940,123 +200,83 @@
         "region": "mount-targon"
     },
     {
-        "id": "Ivern",
-        "name": "Ivern",
-        "title": "the Green Father",
+        "id": "Ashe",
+        "name": "Ashe",
+        "title": "the Frost Archer",
         "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 6,
-        "image": {
-            "full": "Ivern.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 384,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "TahmKench",
-        "name": "Tahm Kench",
-        "title": "The River King",
-        "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 7,
-        "image": {
-            "full": "TahmKench.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 96,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "bilgewater"
-    },
-    {
-        "id": "Caitlyn",
-        "name": "Caitlyn",
-        "title": "the Sheriff of Piltover",
-        "resource": "Mana",
-        "genre": "Marksman",
+        "genre": "Marksman,Support",
         "skinCount": 20,
         "image": {
-            "full": "Caitlyn.png",
+            "full": "Ashe.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
             "x": 0,
-            "y": 96
+            "y": 48
         },
         "gender": "female",
         "attackType": "range",
-        "region": "piltover"
+        "region": "freljord"
     },
     {
-        "id": "Darius",
-        "name": "Darius",
-        "title": "the Hand of Noxus",
+        "id": "AurelionSol",
+        "name": "Aurelion Sol",
+        "title": "The Star Forger",
         "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 16,
+        "genre": "Mage",
+        "skinCount": 6,
         "image": {
-            "full": "Darius.png",
+            "full": "AurelionSol.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
-            "x": 240,
-            "y": 96
+            "x": 48,
+            "y": 48
         },
         "gender": "male",
-        "attackType": "close",
-        "region": "noxus"
+        "attackType": "range",
+        "region": "mount-targon"
     },
     {
-        "id": "Yuumi",
-        "name": "Yuumi",
-        "title": "the Magical Cat",
+        "id": "Aurora",
+        "name": "Aurora",
+        "title": "the Witch Between Worlds",
         "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 10,
+        "genre": "Mage,Assassin",
+        "skinCount": 3,
         "image": {
-            "full": "Yuumi.png",
+            "full": "Aurora.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion5.png",
+            "sprite": "champion0.png",
+            "w": 48,
+            "x": 96,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "freljord"
+    },
+    {
+        "id": "Azir",
+        "name": "Azir",
+        "title": "the Emperor of the Sands",
+        "resource": "Mana",
+        "genre": "Mage,Marksman",
+        "skinCount": 8,
+        "image": {
+            "full": "Azir.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion0.png",
             "w": 48,
             "x": 144,
             "y": 48
         },
-        "gender": "female",
-        "attackType": "close",
-        "region": "bandle-city"
-    },
-    {
-        "id": "Amumu",
-        "name": "Amumu",
-        "title": "the Sad Mummy",
-        "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 15,
-        "image": {
-            "full": "Amumu.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 288,
-            "y": 0
-        },
         "gender": "male",
-        "attackType": "close",
+        "attackType": "range",
         "region": "shurima"
     },
     {
@@ -1080,326 +300,6 @@
         "region": "runeterra"
     },
     {
-        "id": "Katarina",
-        "name": "Katarina",
-        "title": "the Sinister Blade",
-        "resource": "None",
-        "genre": "Assassin,Mage",
-        "skinCount": 19,
-        "image": {
-            "full": "Katarina.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 0,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "noxus"
-    },
-    {
-        "id": "TwistedFate",
-        "name": "Twisted Fate",
-        "title": "the Card Master",
-        "resource": "Mana",
-        "genre": "Mage,Marksman",
-        "skinCount": 17,
-        "image": {
-            "full": "TwistedFate.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 48,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "bilgewater"
-    },
-    {
-        "id": "Irelia",
-        "name": "Irelia",
-        "title": "the Blade Dancer",
-        "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 16,
-        "image": {
-            "full": "Irelia.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 336,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "Jax",
-        "name": "Jax",
-        "title": "Grandmaster at Arms",
-        "resource": "Mana",
-        "genre": "Fighter",
-        "skinCount": 17,
-        "image": {
-            "full": "Jax.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 48,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
-        "id": "Senna",
-        "name": "Senna",
-        "title": "the Redeemer",
-        "resource": "Mana",
-        "genre": "Support,Marksman",
-        "skinCount": 11,
-        "image": {
-            "full": "Senna.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 288,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
-        "id": "Soraka",
-        "name": "Soraka",
-        "title": "the Starchild",
-        "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 18,
-        "image": {
-            "full": "Soraka.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 384,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "mount-targon"
-    },
-    {
-        "id": "Swain",
-        "name": "Swain",
-        "title": "the Noxian Grand General",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 10,
-        "image": {
-            "full": "Swain.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 432,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "noxus"
-    },
-    {
-        "id": "Talon",
-        "name": "Talon",
-        "title": "the Blade's Shadow",
-        "resource": "Mana",
-        "genre": "Assassin",
-        "skinCount": 13,
-        "image": {
-            "full": "Talon.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 192,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "noxus"
-    },
-    {
-        "id": "Ziggs",
-        "name": "Ziggs",
-        "title": "the Hexplosives Expert",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 12,
-        "image": {
-            "full": "Ziggs.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 384,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "zaun"
-    },
-    {
-        "id": "Ekko",
-        "name": "Ekko",
-        "title": "the Boy Who Shattered Time",
-        "resource": "Mana",
-        "genre": "Assassin,Mage",
-        "skinCount": 13,
-        "image": {
-            "full": "Ekko.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 432,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "zaun"
-    },
-    {
-        "id": "JarvanIV",
-        "name": "Jarvan IV",
-        "title": "the Exemplar of Demacia",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 16,
-        "image": {
-            "full": "JarvanIV.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 0,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "demacia"
-    },
-    {
-        "id": "Kayle",
-        "name": "Kayle",
-        "title": "the Righteous",
-        "resource": "Mana",
-        "genre": "Mage,Marksman",
-        "skinCount": 18,
-        "image": {
-            "full": "Kayle.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 48,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "demacia"
-    },
-    {
-        "id": "Nocturne",
-        "name": "Nocturne",
-        "title": "the Eternal Nightmare",
-        "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 11,
-        "image": {
-            "full": "Nocturne.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 192,
-            "y": 0
-        },
-        "gender": "divers",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
-        "id": "Nunu",
-        "name": "Nunu \u0026 Willump",
-        "title": "the Boy and His Yeti",
-        "resource": "Mana",
-        "genre": "Tank,Mage",
-        "skinCount": 13,
-        "image": {
-            "full": "Nunu.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 240,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "freljord"
-    },
-    {
-        "id": "Orianna",
-        "name": "Orianna",
-        "title": "the Lady of Clockwork",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 13,
-        "image": {
-            "full": "Orianna.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 336,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "piltover"
-    },
-    {
-        "id": "Aatrox",
-        "name": "Aatrox",
-        "title": "the Darkin Blade",
-        "resource": "Blood Well",
-        "genre": "Fighter",
-        "skinCount": 13,
-        "image": {
-            "full": "Aatrox.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 0,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
         "id": "Belveth",
         "name": "Bel'Veth",
         "title": "the Empress of the Void",
@@ -1420,219 +320,19 @@
         "region": "void"
     },
     {
-        "id": "Illaoi",
-        "name": "Illaoi",
-        "title": "the Kraken Priestess",
+        "id": "Blitzcrank",
+        "name": "Blitzcrank",
+        "title": "the Great Steam Golem",
         "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 6,
-        "image": {
-            "full": "Illaoi.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 288,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "bilgewater"
-    },
-    {
-        "id": "Kaisa",
-        "name": "Kai'Sa",
-        "title": "Daughter of the Void",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
+        "genre": "Tank,Support",
         "skinCount": 16,
         "image": {
-            "full": "Kaisa.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 240,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "void"
-    },
-    {
-        "id": "Lissandra",
-        "name": "Lissandra",
-        "title": "the Ice Witch",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 10,
-        "image": {
-            "full": "Lissandra.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 144,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "freljord"
-    },
-    {
-        "id": "Vladimir",
-        "name": "Vladimir",
-        "title": "the Crimson Reaper",
-        "resource": "Crimson Rush",
-        "genre": "Mage,Fighter",
-        "skinCount": 14,
-        "image": {
-            "full": "Vladimir.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 144,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "noxus"
-    },
-    {
-        "id": "Volibear",
-        "name": "Volibear",
-        "title": "the Relentless Storm",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 11,
-        "image": {
-            "full": "Volibear.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 192,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "freljord"
-    },
-    {
-        "id": "Yasuo",
-        "name": "Yasuo",
-        "title": "the Unforgiven",
-        "resource": "Flow",
-        "genre": "Fighter,Assassin",
-        "skinCount": 18,
-        "image": {
-            "full": "Yasuo.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 432,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "Diana",
-        "name": "Diana",
-        "title": "Scorn of the Moon",
-        "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 15,
-        "image": {
-            "full": "Diana.png",
+            "full": "Blitzcrank.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
             "x": 288,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "mount-targon"
-    },
-    {
-        "id": "Heimerdinger",
-        "name": "Heimerdinger",
-        "title": "the Revered Inventor",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 10,
-        "image": {
-            "full": "Heimerdinger.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 192,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "piltover"
-    },
-    {
-        "id": "Malzahar",
-        "name": "Malzahar",
-        "title": "the Prophet of the Void",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 14,
-        "image": {
-            "full": "Malzahar.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 384,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "void"
-    },
-    {
-        "id": "Pyke",
-        "name": "Pyke",
-        "title": "the Bloodharbor Ripper",
-        "resource": "Mana",
-        "genre": "Support,Assassin",
-        "skinCount": 13,
-        "image": {
-            "full": "Pyke.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 48,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "bilgewater"
-    },
-    {
-        "id": "Zac",
-        "name": "Zac",
-        "title": "the Secret Weapon",
-        "resource": "None",
-        "genre": "Tank,Fighter",
-        "skinCount": 7,
-        "image": {
-            "full": "Zac.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 240,
             "y": 48
         },
         "gender": "male",
@@ -1640,19 +340,19 @@
         "region": "zaun"
     },
     {
-        "id": "Zilean",
-        "name": "Zilean",
-        "title": "the Chronokeeper",
+        "id": "Brand",
+        "name": "Brand",
+        "title": "the Burning Vengeance",
         "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 9,
+        "genre": "Mage,Support",
+        "skinCount": 13,
         "image": {
-            "full": "Zilean.png",
+            "full": "Brand.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion5.png",
+            "sprite": "champion0.png",
             "w": 48,
-            "x": 432,
+            "x": 336,
             "y": 48
         },
         "gender": "male",
@@ -1680,584 +380,44 @@
         "region": "freljord"
     },
     {
-        "id": "Kled",
-        "name": "Kled",
-        "title": "the Cantankerous Cavalier",
-        "resource": "Courage",
-        "genre": "Fighter",
-        "skinCount": 5,
-        "image": {
-            "full": "Kled.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 288,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "noxus"
-    },
-    {
-        "id": "Leona",
-        "name": "Leona",
-        "title": "the Radiant Dawn",
-        "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 18,
-        "image": {
-            "full": "Leona.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 48,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "mount-targon"
-    },
-    {
-        "id": "XinZhao",
-        "name": "Xin Zhao",
-        "title": "the Seneschal of Demacia",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 12,
-        "image": {
-            "full": "XinZhao.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 384,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "demacia"
-    },
-    {
-        "id": "Cassiopeia",
-        "name": "Cassiopeia",
-        "title": "the Serpent's Embrace",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 10,
-        "image": {
-            "full": "Cassiopeia.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 96,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "noxus"
-    },
-    {
-        "id": "Hwei",
-        "name": "Hwei",
-        "title": "the Visionary",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 3,
-        "image": {
-            "full": "Hwei.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 240,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "ionia"
-    },
-    {
-        "id": "Karthus",
-        "name": "Karthus",
-        "title": "the Deathsinger",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 11,
-        "image": {
-            "full": "Karthus.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 384,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "shadow-isles"
-    },
-    {
-        "id": "Kayn",
-        "name": "Kayn",
-        "title": "the Shadow Reaper",
-        "resource": "Mana",
+        "id": "Briar",
+        "name": "Briar",
+        "title": "the Restrained Hunger",
+        "resource": "Fury",
         "genre": "Fighter,Assassin",
-        "skinCount": 8,
-        "image": {
-            "full": "Kayn.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 96,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "Kindred",
-        "name": "Kindred",
-        "title": "The Eternal Hunters",
-        "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 9,
-        "image": {
-            "full": "Kindred.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 240,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
-        "id": "Shyvana",
-        "name": "Shyvana",
-        "title": "the Half-Dragon",
-        "resource": "Fury",
-        "genre": "Fighter,Mage",
-        "skinCount": 9,
-        "image": {
-            "full": "Shyvana.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 48,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "demacia"
-    },
-    {
-        "id": "Akali",
-        "name": "Akali",
-        "title": "the Rogue Assassin",
-        "resource": "Energy",
-        "genre": "Assassin",
-        "skinCount": 22,
-        "image": {
-            "full": "Akali.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 96,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "MissFortune",
-        "name": "Miss Fortune",
-        "title": "the Bounty Hunter",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 23,
-        "image": {
-            "full": "MissFortune.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 144,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "bilgewater"
-    },
-    {
-        "id": "Renekton",
-        "name": "Renekton",
-        "title": "the Butcher of the Sands",
-        "resource": "Fury",
-        "genre": "Fighter,Tank",
-        "skinCount": 16,
-        "image": {
-            "full": "Renekton.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 432,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "shurima"
-    },
-    {
-        "id": "Skarner",
-        "name": "Skarner",
-        "title": "the Primordial Sovereign",
-        "resource": "Mana",
-        "genre": "Tank,Fighter",
-        "skinCount": 7,
-        "image": {
-            "full": "Skarner.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 240,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ixtal"
-    },
-    {
-        "id": "Smolder",
-        "name": "Smolder",
-        "title": "the Fiery Fledgling",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 3,
-        "image": {
-            "full": "Smolder.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 288,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
-        "id": "Udyr",
-        "name": "Udyr",
-        "title": "the Spirit Walker",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 7,
-        "image": {
-            "full": "Udyr.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 144,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "freljord"
-    },
-    {
-        "id": "Zyra",
-        "name": "Zyra",
-        "title": "Rise of the Thorns",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 13,
-        "image": {
-            "full": "Zyra.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 48,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "ixtal"
-    },
-    {
-        "id": "Quinn",
-        "name": "Quinn",
-        "title": "Demacia's Wings",
-        "resource": "Mana",
-        "genre": "Marksman,Assassin",
-        "skinCount": 7,
-        "image": {
-            "full": "Quinn.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 144,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "demacia"
-    },
-    {
-        "id": "Sion",
-        "name": "Sion",
-        "title": "The Undead Juggernaut",
-        "resource": "Mana",
-        "genre": "Tank,Fighter",
-        "skinCount": 11,
-        "image": {
-            "full": "Sion.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 144,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "noxus"
-    },
-    {
-        "id": "Sylas",
-        "name": "Sylas",
-        "title": "the Unshackled",
-        "resource": "Mana",
-        "genre": "Mage,Assassin",
-        "skinCount": 10,
-        "image": {
-            "full": "Sylas.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 0,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "demacia"
-    },
-    {
-        "id": "Xayah",
-        "name": "Xayah",
-        "title": "the Rebel",
-        "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 13,
-        "image": {
-            "full": "Xayah.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 288,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "ionia"
-    },
-    {
-        "id": "Akshan",
-        "name": "Akshan",
-        "title": "the Rogue Sentinel",
-        "resource": "Mana",
-        "genre": "Marksman,Assassin",
         "skinCount": 4,
         "image": {
-            "full": "Akshan.png",
+            "full": "Briar.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
-            "x": 144,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "shurima"
-    },
-    {
-        "id": "Lux",
-        "name": "Lux",
-        "title": "the Lady of Luminosity",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 23,
-        "image": {
-            "full": "Lux.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 288,
+            "x": 432,
             "y": 48
         },
         "gender": "female",
-        "attackType": "range",
-        "region": "demacia"
-    },
-    {
-        "id": "Rammus",
-        "name": "Rammus",
-        "title": "the Armordillo",
-        "resource": "Mana",
-        "genre": "Tank",
-        "skinCount": 12,
-        "image": {
-            "full": "Rammus.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 240,
-            "y": 48
-        },
-        "gender": "male",
         "attackType": "close",
-        "region": "shurima"
+        "region": "noxus"
     },
     {
-        "id": "Singed",
-        "name": "Singed",
-        "title": "the Mad Chemist",
+        "id": "Caitlyn",
+        "name": "Caitlyn",
+        "title": "the Sheriff of Piltover",
         "resource": "Mana",
-        "genre": "Tank,Mage",
-        "skinCount": 13,
+        "genre": "Marksman",
+        "skinCount": 20,
         "image": {
-            "full": "Singed.png",
+            "full": "Caitlyn.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 96,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "zaun"
-    },
-    {
-        "id": "Zoe",
-        "name": "Zoe",
-        "title": "the Aspect of Twilight",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 10,
-        "image": {
-            "full": "Zoe.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
+            "sprite": "champion0.png",
             "w": 48,
             "x": 0,
             "y": 96
         },
         "gender": "female",
         "attackType": "range",
-        "region": "mount-targon"
-    },
-    {
-        "id": "Gwen",
-        "name": "Gwen",
-        "title": "The Hallowed Seamstress",
-        "resource": "Mana",
-        "genre": "Fighter",
-        "skinCount": 6,
-        "image": {
-            "full": "Gwen.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 96,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "shadow-isles"
-    },
-    {
-        "id": "Maokai",
-        "name": "Maokai",
-        "title": "the Twisted Treant",
-        "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 11,
-        "image": {
-            "full": "Maokai.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 432,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "shadow-isles"
-    },
-    {
-        "id": "Renata",
-        "name": "Renata Glasc",
-        "title": "the Chem-Baroness",
-        "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 6,
-        "image": {
-            "full": "Renata.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 384,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "zaun"
-    },
-    {
-        "id": "Xerath",
-        "name": "Xerath",
-        "title": "the Magus Ascendant",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 9,
-        "image": {
-            "full": "Xerath.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 336,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "shurima"
+        "region": "piltover"
     },
     {
         "id": "Camille",
@@ -2280,64 +440,304 @@
         "region": "piltover"
     },
     {
-        "id": "Ahri",
-        "name": "Ahri",
-        "title": "the Nine-Tailed Fox",
+        "id": "Cassiopeia",
+        "name": "Cassiopeia",
+        "title": "the Serpent's Embrace",
         "resource": "Mana",
-        "genre": "Mage,Assassin",
-        "skinCount": 22,
+        "genre": "Mage",
+        "skinCount": 10,
         "image": {
-            "full": "Ahri.png",
+            "full": "Cassiopeia.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
-            "x": 48,
-            "y": 0
+            "x": 96,
+            "y": 96
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ionia"
-    },
-    {
-        "id": "Ambessa",
-        "name": "Ambessa",
-        "title": "Matriarch of War",
-        "resource": "Energy",
-        "genre": "Fighter,Assassin",
-        "skinCount": 2,
-        "image": {
-            "full": "Ambessa.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 240,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "close",
         "region": "noxus"
     },
     {
-        "id": "Azir",
-        "name": "Azir",
-        "title": "the Emperor of the Sands",
+        "id": "Chogath",
+        "name": "Cho'Gath",
+        "title": "the Terror of the Void",
         "resource": "Mana",
-        "genre": "Mage,Marksman",
-        "skinCount": 8,
+        "genre": "Tank,Mage",
+        "skinCount": 12,
         "image": {
-            "full": "Azir.png",
+            "full": "Chogath.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion0.png",
             "w": 48,
             "x": 144,
-            "y": 48
+            "y": 96
+        },
+        "gender": "divers",
+        "attackType": "close",
+        "region": "void"
+    },
+    {
+        "id": "Corki",
+        "name": "Corki",
+        "title": "the Daring Bombardier",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 12,
+        "image": {
+            "full": "Corki.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion0.png",
+            "w": 48,
+            "x": 192,
+            "y": 96
         },
         "gender": "male",
         "attackType": "range",
-        "region": "shurima"
+        "region": "bandle-city"
+    },
+    {
+        "id": "Darius",
+        "name": "Darius",
+        "title": "the Hand of Noxus",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 16,
+        "image": {
+            "full": "Darius.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion0.png",
+            "w": 48,
+            "x": 240,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "noxus"
+    },
+    {
+        "id": "Diana",
+        "name": "Diana",
+        "title": "Scorn of the Moon",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 15,
+        "image": {
+            "full": "Diana.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion0.png",
+            "w": 48,
+            "x": 288,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "mount-targon"
+    },
+    {
+        "id": "DrMundo",
+        "name": "Dr. Mundo",
+        "title": "the Madman of Zaun",
+        "resource": "None",
+        "genre": "Tank,Fighter",
+        "skinCount": 12,
+        "image": {
+            "full": "DrMundo.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion0.png",
+            "w": 48,
+            "x": 384,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "zaun"
+    },
+    {
+        "id": "Draven",
+        "name": "Draven",
+        "title": "the Glorious Executioner",
+        "resource": "Mana",
+        "genre": "Marksman",
+        "skinCount": 15,
+        "image": {
+            "full": "Draven.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion0.png",
+            "w": 48,
+            "x": 336,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "noxus"
+    },
+    {
+        "id": "Ekko",
+        "name": "Ekko",
+        "title": "the Boy Who Shattered Time",
+        "resource": "Mana",
+        "genre": "Assassin,Mage",
+        "skinCount": 13,
+        "image": {
+            "full": "Ekko.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion0.png",
+            "w": 48,
+            "x": 432,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "zaun"
+    },
+    {
+        "id": "Elise",
+        "name": "Elise",
+        "title": "the Spider Queen",
+        "resource": "Mana",
+        "genre": "Assassin,Mage",
+        "skinCount": 10,
+        "image": {
+            "full": "Elise.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 0,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "shadow-isles"
+    },
+    {
+        "id": "Evelynn",
+        "name": "Evelynn",
+        "title": "Agony's Embrace",
+        "resource": "Mana",
+        "genre": "Assassin,Mage",
+        "skinCount": 17,
+        "image": {
+            "full": "Evelynn.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 48,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "Ezreal",
+        "name": "Ezreal",
+        "title": "the Prodigal Explorer",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 22,
+        "image": {
+            "full": "Ezreal.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 96,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "piltover"
+    },
+    {
+        "id": "Fiddlesticks",
+        "name": "Fiddlesticks",
+        "title": "the Ancient Fear",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 13,
+        "image": {
+            "full": "Fiddlesticks.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 144,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "Fiora",
+        "name": "Fiora",
+        "title": "the Grand Duelist",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 17,
+        "image": {
+            "full": "Fiora.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 192,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "demacia"
+    },
+    {
+        "id": "Fizz",
+        "name": "Fizz",
+        "title": "the Tidal Trickster",
+        "resource": "Mana",
+        "genre": "Assassin,Fighter",
+        "skinCount": 14,
+        "image": {
+            "full": "Fizz.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 240,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "bilgewater"
+    },
+    {
+        "id": "Galio",
+        "name": "Galio",
+        "title": "the Colossus",
+        "resource": "Mana",
+        "genre": "Tank,Mage",
+        "skinCount": 11,
+        "image": {
+            "full": "Galio.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 288,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "demacia"
     },
     {
         "id": "Gangplank",
@@ -2380,64 +780,264 @@
         "region": "demacia"
     },
     {
-        "id": "Varus",
-        "name": "Varus",
-        "title": "the Arrow of Retribution",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 16,
+        "id": "Gnar",
+        "name": "Gnar",
+        "title": "the Missing Link",
+        "resource": "Rage",
+        "genre": "Fighter,Tank",
+        "skinCount": 11,
         "image": {
-            "full": "Varus.png",
+            "full": "Gnar.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion4.png",
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 432,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "freljord"
+    },
+    {
+        "id": "Gragas",
+        "name": "Gragas",
+        "title": "the Rabble Rouser",
+        "resource": "Mana",
+        "genre": "Fighter,Mage",
+        "skinCount": 15,
+        "image": {
+            "full": "Gragas.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 0,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "freljord"
+    },
+    {
+        "id": "Graves",
+        "name": "Graves",
+        "title": "the Outlaw",
+        "resource": "Mana",
+        "genre": "Marksman",
+        "skinCount": 14,
+        "image": {
+            "full": "Graves.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 48,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "bilgewater"
+    },
+    {
+        "id": "Gwen",
+        "name": "Gwen",
+        "title": "The Hallowed Seamstress",
+        "resource": "Mana",
+        "genre": "Fighter",
+        "skinCount": 6,
+        "image": {
+            "full": "Gwen.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 96,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "shadow-isles"
+    },
+    {
+        "id": "Hecarim",
+        "name": "Hecarim",
+        "title": "the Shadow of War",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 13,
+        "image": {
+            "full": "Hecarim.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 144,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "shadow-isles"
+    },
+    {
+        "id": "Heimerdinger",
+        "name": "Heimerdinger",
+        "title": "the Revered Inventor",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 10,
+        "image": {
+            "full": "Heimerdinger.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 192,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "piltover"
+    },
+    {
+        "id": "Hwei",
+        "name": "Hwei",
+        "title": "the Visionary",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 3,
+        "image": {
+            "full": "Hwei.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
             "w": 48,
             "x": 240,
-            "y": 96
+            "y": 48
         },
         "gender": "male",
         "attackType": "range",
         "region": "ionia"
     },
     {
-        "id": "Briar",
-        "name": "Briar",
-        "title": "the Restrained Hunger",
-        "resource": "Fury",
-        "genre": "Fighter,Assassin",
-        "skinCount": 4,
-        "image": {
-            "full": "Briar.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 432,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "noxus"
-    },
-    {
-        "id": "Galio",
-        "name": "Galio",
-        "title": "the Colossus",
+        "id": "Illaoi",
+        "name": "Illaoi",
+        "title": "the Kraken Priestess",
         "resource": "Mana",
-        "genre": "Tank,Mage",
-        "skinCount": 11,
+        "genre": "Fighter,Tank",
+        "skinCount": 6,
         "image": {
-            "full": "Galio.png",
+            "full": "Illaoi.png",
             "group": "champion",
             "h": 48,
             "sprite": "champion1.png",
             "w": 48,
             "x": 288,
-            "y": 0
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "bilgewater"
+    },
+    {
+        "id": "Irelia",
+        "name": "Irelia",
+        "title": "the Blade Dancer",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 16,
+        "image": {
+            "full": "Irelia.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 336,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
+        "id": "Ivern",
+        "name": "Ivern",
+        "title": "the Green Father",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 6,
+        "image": {
+            "full": "Ivern.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 384,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
+        "id": "Janna",
+        "name": "Janna",
+        "title": "the Storm's Fury",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 17,
+        "image": {
+            "full": "Janna.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 432,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "zaun"
+    },
+    {
+        "id": "JarvanIV",
+        "name": "Jarvan IV",
+        "title": "the Exemplar of Demacia",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 16,
+        "image": {
+            "full": "JarvanIV.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 0,
+            "y": 96
         },
         "gender": "male",
         "attackType": "close",
         "region": "demacia"
+    },
+    {
+        "id": "Jax",
+        "name": "Jax",
+        "title": "Grandmaster at Arms",
+        "resource": "Mana",
+        "genre": "Fighter",
+        "skinCount": 17,
+        "image": {
+            "full": "Jax.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 48,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "runeterra"
     },
     {
         "id": "Jayce",
@@ -2460,303 +1060,103 @@
         "region": "piltover"
     },
     {
-        "id": "Rakan",
-        "name": "Rakan",
-        "title": "The Charmer",
+        "id": "Jhin",
+        "name": "Jhin",
+        "title": "the Virtuoso",
         "resource": "Mana",
-        "genre": "Support",
+        "genre": "Marksman,Mage",
         "skinCount": 13,
         "image": {
-            "full": "Rakan.png",
+            "full": "Jhin.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion3.png",
+            "sprite": "champion1.png",
             "w": 48,
-            "x": 192,
-            "y": 48
+            "x": 144,
+            "y": 96
         },
         "gender": "male",
-        "attackType": "close",
+        "attackType": "range",
         "region": "ionia"
     },
     {
-        "id": "Rell",
-        "name": "Rell",
-        "title": "the Iron Maiden",
+        "id": "Jinx",
+        "name": "Jinx",
+        "title": "the Loose Cannon",
         "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 5,
+        "genre": "Marksman",
+        "skinCount": 15,
         "image": {
-            "full": "Rell.png",
+            "full": "Jinx.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion3.png",
+            "sprite": "champion1.png",
             "w": 48,
-            "x": 336,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "noxus"
-    },
-    {
-        "id": "Tryndamere",
-        "name": "Tryndamere",
-        "title": "the Barbarian King",
-        "resource": "Fury",
-        "genre": "Fighter,Assassin",
-        "skinCount": 14,
-        "image": {
-            "full": "Tryndamere.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 0,
+            "x": 192,
             "y": 96
         },
-        "gender": "male",
-        "attackType": "close",
-        "region": "freljord"
+        "gender": "female",
+        "attackType": "range",
+        "region": "zaun"
     },
     {
-        "id": "Annie",
-        "name": "Annie",
-        "title": "the Dark Child",
+        "id": "KSante",
+        "name": "K'Sante",
+        "title": "the Pride of Nazumah",
         "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 18,
+        "genre": "Tank,Fighter",
+        "skinCount": 4,
         "image": {
-            "full": "Annie.png",
+            "full": "KSante.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion0.png",
+            "sprite": "champion2.png",
             "w": 48,
             "x": 384,
             "y": 0
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
-        "id": "Malphite",
-        "name": "Malphite",
-        "title": "Shard of the Monolith",
-        "resource": "Mana",
-        "genre": "Tank,Mage",
-        "skinCount": 15,
-        "image": {
-            "full": "Malphite.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 336,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ixtal"
-    },
-    {
-        "id": "RekSai",
-        "name": "Rek'Sai",
-        "title": "the Void Burrower",
-        "resource": "Rage",
-        "genre": "Fighter,Tank",
-        "skinCount": 6,
-        "image": {
-            "full": "RekSai.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 288,
-            "y": 48
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "void"
-    },
-    {
-        "id": "Sejuani",
-        "name": "Sejuani",
-        "title": "Fury of the North",
-        "resource": "Mana",
-        "genre": "Tank",
-        "skinCount": 13,
-        "image": {
-            "full": "Sejuani.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 240,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "freljord"
-    },
-    {
-        "id": "Brand",
-        "name": "Brand",
-        "title": "the Burning Vengeance",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 13,
-        "image": {
-            "full": "Brand.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 336,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
-        "id": "Khazix",
-        "name": "Kha'Zix",
-        "title": "the Voidreaver",
-        "resource": "Mana",
-        "genre": "Assassin",
-        "skinCount": 9,
-        "image": {
-            "full": "Khazix.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 192,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "void"
-    },
-    {
-        "id": "Lucian",
-        "name": "Lucian",
-        "title": "the Purifier",
-        "resource": "Mana",
-        "genre": "Marksman,Assassin",
-        "skinCount": 15,
-        "image": {
-            "full": "Lucian.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 192,
-            "y": 48
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "demacia"
-    },
-    {
-        "id": "Nasus",
-        "name": "Nasus",
-        "title": "the Curator of the Sands",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 14,
-        "image": {
-            "full": "Nasus.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 432,
-            "y": 96
         },
         "gender": "male",
         "attackType": "close",
         "region": "shurima"
     },
     {
-        "id": "Pantheon",
-        "name": "Pantheon",
-        "title": "the Unbreakable Spear",
+        "id": "Kaisa",
+        "name": "Kai'Sa",
+        "title": "Daughter of the Void",
         "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 14,
+        "genre": "Marksman,Mage",
+        "skinCount": 16,
         "image": {
-            "full": "Pantheon.png",
+            "full": "Kaisa.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion3.png",
+            "sprite": "champion1.png",
             "w": 48,
-            "x": 432,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "mount-targon"
-    },
-    {
-        "id": "Shen",
-        "name": "Shen",
-        "title": "the Eye of Twilight",
-        "resource": "Energy",
-        "genre": "Tank",
-        "skinCount": 13,
-        "image": {
-            "full": "Shen.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 0,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "Syndra",
-        "name": "Syndra",
-        "title": "the Dark Sovereign",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 14,
-        "image": {
-            "full": "Syndra.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 48,
-            "y": 48
+            "x": 240,
+            "y": 96
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ionia"
+        "region": "void"
     },
     {
-        "id": "Thresh",
-        "name": "Thresh",
-        "title": "the Chain Warden",
+        "id": "Kalista",
+        "name": "Kalista",
+        "title": "the Spear of Vengeance",
         "resource": "Mana",
-        "genre": "Support,Tank",
-        "skinCount": 17,
+        "genre": "Marksman",
+        "skinCount": 7,
         "image": {
-            "full": "Thresh.png",
+            "full": "Kalista.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion4.png",
+            "sprite": "champion1.png",
             "w": 48,
-            "x": 336,
-            "y": 48
+            "x": 288,
+            "y": 96
         },
-        "gender": "male",
-        "attackType": "close",
+        "gender": "female",
+        "attackType": "range",
         "region": "shadow-isles"
     },
     {
@@ -2780,6 +1180,106 @@
         "region": "ionia"
     },
     {
+        "id": "Karthus",
+        "name": "Karthus",
+        "title": "the Deathsinger",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 11,
+        "image": {
+            "full": "Karthus.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 384,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "shadow-isles"
+    },
+    {
+        "id": "Kassadin",
+        "name": "Kassadin",
+        "title": "the Void Walker",
+        "resource": "Mana",
+        "genre": "Assassin,Mage",
+        "skinCount": 10,
+        "image": {
+            "full": "Kassadin.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion1.png",
+            "w": 48,
+            "x": 432,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "void"
+    },
+    {
+        "id": "Katarina",
+        "name": "Katarina",
+        "title": "the Sinister Blade",
+        "resource": "None",
+        "genre": "Assassin,Mage",
+        "skinCount": 19,
+        "image": {
+            "full": "Katarina.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 0,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "noxus"
+    },
+    {
+        "id": "Kayle",
+        "name": "Kayle",
+        "title": "the Righteous",
+        "resource": "Mana",
+        "genre": "Mage,Marksman",
+        "skinCount": 18,
+        "image": {
+            "full": "Kayle.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 48,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "demacia"
+    },
+    {
+        "id": "Kayn",
+        "name": "Kayn",
+        "title": "the Shadow Reaper",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 8,
+        "image": {
+            "full": "Kayn.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 96,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
         "id": "Kennen",
         "name": "Kennen",
         "title": "the Heart of the Tempest",
@@ -2798,6 +1298,206 @@
         "gender": "male",
         "attackType": "range",
         "region": "ionia"
+    },
+    {
+        "id": "Khazix",
+        "name": "Kha'Zix",
+        "title": "the Voidreaver",
+        "resource": "Mana",
+        "genre": "Assassin",
+        "skinCount": 9,
+        "image": {
+            "full": "Khazix.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 192,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "void"
+    },
+    {
+        "id": "Kindred",
+        "name": "Kindred",
+        "title": "The Eternal Hunters",
+        "resource": "Mana",
+        "genre": "Marksman",
+        "skinCount": 9,
+        "image": {
+            "full": "Kindred.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 240,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
+        "id": "Kled",
+        "name": "Kled",
+        "title": "the Cantankerous Cavalier",
+        "resource": "Courage",
+        "genre": "Fighter",
+        "skinCount": 5,
+        "image": {
+            "full": "Kled.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 288,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "noxus"
+    },
+    {
+        "id": "KogMaw",
+        "name": "Kog'Maw",
+        "title": "the Mouth of the Abyss",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 16,
+        "image": {
+            "full": "KogMaw.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 336,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "void"
+    },
+    {
+        "id": "Leblanc",
+        "name": "LeBlanc",
+        "title": "the Deceiver",
+        "resource": "Mana",
+        "genre": "Assassin,Mage",
+        "skinCount": 14,
+        "image": {
+            "full": "Leblanc.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 432,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "noxus"
+    },
+    {
+        "id": "LeeSin",
+        "name": "Lee Sin",
+        "title": "the Blind Monk",
+        "resource": "Energy",
+        "genre": "Fighter,Assassin",
+        "skinCount": 20,
+        "image": {
+            "full": "LeeSin.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 0,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
+        "id": "Leona",
+        "name": "Leona",
+        "title": "the Radiant Dawn",
+        "resource": "Mana",
+        "genre": "Tank,Support",
+        "skinCount": 18,
+        "image": {
+            "full": "Leona.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 48,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "mount-targon"
+    },
+    {
+        "id": "Lillia",
+        "name": "Lillia",
+        "title": "the Bashful Bloom",
+        "resource": "Mana",
+        "genre": "Fighter,Mage",
+        "skinCount": 6,
+        "image": {
+            "full": "Lillia.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 96,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
+        "id": "Lissandra",
+        "name": "Lissandra",
+        "title": "the Ice Witch",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 10,
+        "image": {
+            "full": "Lissandra.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 144,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "freljord"
+    },
+    {
+        "id": "Lucian",
+        "name": "Lucian",
+        "title": "the Purifier",
+        "resource": "Mana",
+        "genre": "Marksman,Assassin",
+        "skinCount": 15,
+        "image": {
+            "full": "Lucian.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 192,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "demacia"
     },
     {
         "id": "Lulu",
@@ -2820,324 +1520,164 @@
         "region": "bandle-city"
     },
     {
-        "id": "Nautilus",
-        "name": "Nautilus",
-        "title": "the Titan of the Depths",
+        "id": "Lux",
+        "name": "Lux",
+        "title": "the Lady of Luminosity",
         "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 12,
+        "genre": "Mage,Support",
+        "skinCount": 23,
         "image": {
-            "full": "Nautilus.png",
+            "full": "Lux.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 0,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "bilgewater"
-    },
-    {
-        "id": "Vex",
-        "name": "Vex",
-        "title": "the Gloomist",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 4,
-        "image": {
-            "full": "Vex.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 432,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "shadow-isles"
-    },
-    {
-        "id": "Viktor",
-        "name": "Viktor",
-        "title": "the Herald of the Arcane",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 9,
-        "image": {
-            "full": "Viktor.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 96,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "range",
-        "region": "zaun"
-    },
-    {
-        "id": "Warwick",
-        "name": "Warwick",
-        "title": "the Uncaged Wrath of Zaun",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 16,
-        "image": {
-            "full": "Warwick.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 240,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "zaun"
-    },
-    {
-        "id": "Zed",
-        "name": "Zed",
-        "title": "the Master of Shadows",
-        "resource": "Energy",
-        "genre": "Assassin",
-        "skinCount": 15,
-        "image": {
-            "full": "Zed.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion5.png",
+            "sprite": "champion2.png",
             "w": 48,
             "x": 288,
             "y": 48
         },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "Anivia",
-        "name": "Anivia",
-        "title": "the Cryophoenix",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 13,
-        "image": {
-            "full": "Anivia.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion0.png",
-            "w": 48,
-            "x": 336,
-            "y": 0
-        },
         "gender": "female",
         "attackType": "range",
-        "region": "freljord"
+        "region": "demacia"
     },
     {
-        "id": "Elise",
-        "name": "Elise",
-        "title": "the Spider Queen",
+        "id": "Malphite",
+        "name": "Malphite",
+        "title": "Shard of the Monolith",
         "resource": "Mana",
-        "genre": "Assassin,Mage",
-        "skinCount": 10,
-        "image": {
-            "full": "Elise.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 0,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "shadow-isles"
-    },
-    {
-        "id": "Jinx",
-        "name": "Jinx",
-        "title": "the Loose Cannon",
-        "resource": "Mana",
-        "genre": "Marksman",
+        "genre": "Tank,Mage",
         "skinCount": 15,
         "image": {
-            "full": "Jinx.png",
+            "full": "Malphite.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion1.png",
-            "w": 48,
-            "x": 192,
-            "y": 96
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "zaun"
-    },
-    {
-        "id": "Sett",
-        "name": "Sett",
-        "title": "the Boss",
-        "resource": "Grit",
-        "genre": "Fighter,Tank",
-        "skinCount": 11,
-        "image": {
-            "full": "Sett.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion3.png",
-            "w": 48,
-            "x": 384,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
-    },
-    {
-        "id": "Sivir",
-        "name": "Sivir",
-        "title": "the Battle Mistress",
-        "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 19,
-        "image": {
-            "full": "Sivir.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 192,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "shurima"
-    },
-    {
-        "id": "Urgot",
-        "name": "Urgot",
-        "title": "the Dreadnought",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 8,
-        "image": {
-            "full": "Urgot.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
-            "w": 48,
-            "x": 192,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "zaun"
-    },
-    {
-        "id": "Veigar",
-        "name": "Veigar",
-        "title": "the Tiny Master of Evil",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 16,
-        "image": {
-            "full": "Veigar.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion4.png",
+            "sprite": "champion2.png",
             "w": 48,
             "x": 336,
-            "y": 96
+            "y": 48
         },
         "gender": "male",
-        "attackType": "range",
-        "region": "bandle-city"
+        "attackType": "close",
+        "region": "ixtal"
     },
     {
-        "id": "Yunara",
-        "name": "Yunara",
-        "title": "the Unbroken Faith",
+        "id": "Malzahar",
+        "name": "Malzahar",
+        "title": "the Prophet of the Void",
         "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 2,
+        "genre": "Mage",
+        "skinCount": 14,
         "image": {
-            "full": "Yunara.png",
+            "full": "Malzahar.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion5.png",
+            "sprite": "champion2.png",
             "w": 48,
-            "x": 96,
+            "x": 384,
             "y": 48
         },
         "gender": "male",
         "attackType": "range",
+        "region": "void"
+    },
+    {
+        "id": "Maokai",
+        "name": "Maokai",
+        "title": "the Twisted Treant",
+        "resource": "Mana",
+        "genre": "Tank,Support",
+        "skinCount": 11,
+        "image": {
+            "full": "Maokai.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 432,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "shadow-isles"
+    },
+    {
+        "id": "MasterYi",
+        "name": "Master Yi",
+        "title": "the Wuju Bladesman",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 18,
+        "image": {
+            "full": "MasterYi.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 0,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
         "region": "ionia"
     },
     {
-        "id": "Chogath",
-        "name": "Cho'Gath",
-        "title": "the Terror of the Void",
+        "id": "Mel",
+        "name": "Mel",
+        "title": "the Soul's Reflection",
         "resource": "Mana",
-        "genre": "Tank,Mage",
-        "skinCount": 12,
+        "genre": "Mage,Support",
+        "skinCount": 3,
         "image": {
-            "full": "Chogath.png",
+            "full": "Mel.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion0.png",
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 48,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "noxus"
+    },
+    {
+        "id": "Milio",
+        "name": "Milio",
+        "title": "The Gentle Flame",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 4,
+        "image": {
+            "full": "Milio.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 96,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "ixtal"
+    },
+    {
+        "id": "MissFortune",
+        "name": "Miss Fortune",
+        "title": "the Bounty Hunter",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 23,
+        "image": {
+            "full": "MissFortune.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
             "w": 48,
             "x": 144,
             "y": 96
         },
-        "gender": "divers",
-        "attackType": "close",
-        "region": "void"
-    },
-    {
-        "id": "KSante",
-        "name": "K'Sante",
-        "title": "the Pride of Nazumah",
-        "resource": "Mana",
-        "genre": "Tank,Fighter",
-        "skinCount": 4,
-        "image": {
-            "full": "KSante.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 384,
-            "y": 0
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "shurima"
-    },
-    {
-        "id": "MonkeyKing",
-        "name": "Wukong",
-        "title": "the Monkey King",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 10,
-        "image": {
-            "full": "MonkeyKing.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
-            "w": 48,
-            "x": 192,
-            "y": 96
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "ionia"
+        "gender": "female",
+        "attackType": "range",
+        "region": "bilgewater"
     },
     {
         "id": "Mordekaiser",
@@ -3180,6 +1720,86 @@
         "region": "demacia"
     },
     {
+        "id": "Naafiri",
+        "name": "Naafiri",
+        "title": "the Hound of a Hundred Bites",
+        "resource": "Mana",
+        "genre": "Assassin,Fighter",
+        "skinCount": 4,
+        "image": {
+            "full": "Naafiri.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 336,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "shurima"
+    },
+    {
+        "id": "Nami",
+        "name": "Nami",
+        "title": "the Tidecaller",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 15,
+        "image": {
+            "full": "Nami.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 384,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
+        "id": "Nasus",
+        "name": "Nasus",
+        "title": "the Curator of the Sands",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 14,
+        "image": {
+            "full": "Nasus.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 432,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "shurima"
+    },
+    {
+        "id": "Nautilus",
+        "name": "Nautilus",
+        "title": "the Titan of the Depths",
+        "resource": "Mana",
+        "genre": "Tank,Support",
+        "skinCount": 12,
+        "image": {
+            "full": "Nautilus.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 0,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "bilgewater"
+    },
+    {
         "id": "Neeko",
         "name": "Neeko",
         "title": "the Curious Chameleon",
@@ -3198,6 +1818,86 @@
         "gender": "female",
         "attackType": "range",
         "region": "ixtal"
+    },
+    {
+        "id": "Nidalee",
+        "name": "Nidalee",
+        "title": "the Bestial Huntress",
+        "resource": "Mana",
+        "genre": "Assassin,Mage",
+        "skinCount": 17,
+        "image": {
+            "full": "Nidalee.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 96,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "ixtal"
+    },
+    {
+        "id": "Nilah",
+        "name": "Nilah",
+        "title": "the Joy Unbound",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 4,
+        "image": {
+            "full": "Nilah.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 144,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "Nocturne",
+        "name": "Nocturne",
+        "title": "the Eternal Nightmare",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 11,
+        "image": {
+            "full": "Nocturne.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 192,
+            "y": 0
+        },
+        "gender": "divers",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "Nunu",
+        "name": "Nunu \u0026 Willump",
+        "title": "the Boy and His Yeti",
+        "resource": "Mana",
+        "genre": "Tank,Mage",
+        "skinCount": 13,
+        "image": {
+            "full": "Nunu.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 240,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "freljord"
     },
     {
         "id": "Olaf",
@@ -3220,44 +1920,104 @@
         "region": "freljord"
     },
     {
-        "id": "Vi",
-        "name": "Vi",
-        "title": "the Piltover Enforcer",
+        "id": "Orianna",
+        "name": "Orianna",
+        "title": "the Lady of Clockwork",
         "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 14,
+        "genre": "Mage,Support",
+        "skinCount": 13,
         "image": {
-            "full": "Vi.png",
+            "full": "Orianna.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion5.png",
-            "w": 48,
-            "x": 0,
-            "y": 0
-        },
-        "gender": "female",
-        "attackType": "close",
-        "region": "piltover"
-    },
-    {
-        "id": "KogMaw",
-        "name": "Kog'Maw",
-        "title": "the Mouth of the Abyss",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 16,
-        "image": {
-            "full": "KogMaw.png",
-            "group": "champion",
-            "h": 48,
-            "sprite": "champion2.png",
+            "sprite": "champion3.png",
             "w": 48,
             "x": 336,
             "y": 0
         },
-        "gender": "male",
+        "gender": "female",
         "attackType": "range",
-        "region": "void"
+        "region": "piltover"
+    },
+    {
+        "id": "Ornn",
+        "name": "Ornn",
+        "title": "The Fire below the Mountain",
+        "resource": "Mana",
+        "genre": "Tank",
+        "skinCount": 6,
+        "image": {
+            "full": "Ornn.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 384,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "freljord"
+    },
+    {
+        "id": "Pantheon",
+        "name": "Pantheon",
+        "title": "the Unbreakable Spear",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 14,
+        "image": {
+            "full": "Pantheon.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 432,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "mount-targon"
+    },
+    {
+        "id": "Poppy",
+        "name": "Poppy",
+        "title": "Keeper of the Hammer",
+        "resource": "Mana",
+        "genre": "Tank,Fighter",
+        "skinCount": 13,
+        "image": {
+            "full": "Poppy.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 0,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "demacia"
+    },
+    {
+        "id": "Pyke",
+        "name": "Pyke",
+        "title": "the Bloodharbor Ripper",
+        "resource": "Mana",
+        "genre": "Support,Assassin",
+        "skinCount": 13,
+        "image": {
+            "full": "Pyke.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 48,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "bilgewater"
     },
     {
         "id": "Qiyana",
@@ -3276,6 +2036,166 @@
             "y": 48
         },
         "gender": "female",
+        "attackType": "close",
+        "region": "ixtal"
+    },
+    {
+        "id": "Quinn",
+        "name": "Quinn",
+        "title": "Demacia's Wings",
+        "resource": "Mana",
+        "genre": "Marksman,Assassin",
+        "skinCount": 7,
+        "image": {
+            "full": "Quinn.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 144,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "demacia"
+    },
+    {
+        "id": "Rakan",
+        "name": "Rakan",
+        "title": "The Charmer",
+        "resource": "Mana",
+        "genre": "Support",
+        "skinCount": 13,
+        "image": {
+            "full": "Rakan.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 192,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
+        "id": "Rammus",
+        "name": "Rammus",
+        "title": "the Armordillo",
+        "resource": "Mana",
+        "genre": "Tank",
+        "skinCount": 12,
+        "image": {
+            "full": "Rammus.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 240,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "shurima"
+    },
+    {
+        "id": "RekSai",
+        "name": "Rek'Sai",
+        "title": "the Void Burrower",
+        "resource": "Rage",
+        "genre": "Fighter,Tank",
+        "skinCount": 6,
+        "image": {
+            "full": "RekSai.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 288,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "void"
+    },
+    {
+        "id": "Rell",
+        "name": "Rell",
+        "title": "the Iron Maiden",
+        "resource": "Mana",
+        "genre": "Tank,Support",
+        "skinCount": 5,
+        "image": {
+            "full": "Rell.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 336,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "noxus"
+    },
+    {
+        "id": "Renata",
+        "name": "Renata Glasc",
+        "title": "the Chem-Baroness",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 6,
+        "image": {
+            "full": "Renata.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 384,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "zaun"
+    },
+    {
+        "id": "Renekton",
+        "name": "Renekton",
+        "title": "the Butcher of the Sands",
+        "resource": "Fury",
+        "genre": "Fighter,Tank",
+        "skinCount": 16,
+        "image": {
+            "full": "Renekton.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 432,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "shurima"
+    },
+    {
+        "id": "Rengar",
+        "name": "Rengar",
+        "title": "the Pridestalker",
+        "resource": "Ferocity",
+        "genre": "Assassin,Fighter",
+        "skinCount": 9,
+        "image": {
+            "full": "Rengar.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 0,
+            "y": 96
+        },
+        "gender": "male",
         "attackType": "close",
         "region": "ixtal"
     },
@@ -3320,6 +2240,966 @@
         "region": "bandle-city"
     },
     {
+        "id": "Ryze",
+        "name": "Ryze",
+        "title": "the Rune Mage",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 15,
+        "image": {
+            "full": "Ryze.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 144,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
+        "id": "Samira",
+        "name": "Samira",
+        "title": "the Desert Rose",
+        "resource": "Mana",
+        "genre": "Marksman,Assassin",
+        "skinCount": 7,
+        "image": {
+            "full": "Samira.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 192,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "noxus"
+    },
+    {
+        "id": "Sejuani",
+        "name": "Sejuani",
+        "title": "Fury of the North",
+        "resource": "Mana",
+        "genre": "Tank",
+        "skinCount": 13,
+        "image": {
+            "full": "Sejuani.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 240,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "freljord"
+    },
+    {
+        "id": "Senna",
+        "name": "Senna",
+        "title": "the Redeemer",
+        "resource": "Mana",
+        "genre": "Support,Marksman",
+        "skinCount": 11,
+        "image": {
+            "full": "Senna.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 288,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
+        "id": "Seraphine",
+        "name": "Seraphine",
+        "title": "the Starry-Eyed Songstress",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 11,
+        "image": {
+            "full": "Seraphine.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 336,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "piltover"
+    },
+    {
+        "id": "Sett",
+        "name": "Sett",
+        "title": "the Boss",
+        "resource": "Grit",
+        "genre": "Fighter,Tank",
+        "skinCount": 11,
+        "image": {
+            "full": "Sett.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 384,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
+        "id": "Shaco",
+        "name": "Shaco",
+        "title": "the Demon Jester",
+        "resource": "Mana",
+        "genre": "Assassin",
+        "skinCount": 16,
+        "image": {
+            "full": "Shaco.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion3.png",
+            "w": 48,
+            "x": 432,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "Shen",
+        "name": "Shen",
+        "title": "the Eye of Twilight",
+        "resource": "Energy",
+        "genre": "Tank",
+        "skinCount": 13,
+        "image": {
+            "full": "Shen.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 0,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
+        "id": "Shyvana",
+        "name": "Shyvana",
+        "title": "the Half-Dragon",
+        "resource": "Fury",
+        "genre": "Fighter,Mage",
+        "skinCount": 9,
+        "image": {
+            "full": "Shyvana.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 48,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "demacia"
+    },
+    {
+        "id": "Singed",
+        "name": "Singed",
+        "title": "the Mad Chemist",
+        "resource": "Mana",
+        "genre": "Tank,Mage",
+        "skinCount": 13,
+        "image": {
+            "full": "Singed.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 96,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "zaun"
+    },
+    {
+        "id": "Sion",
+        "name": "Sion",
+        "title": "The Undead Juggernaut",
+        "resource": "Mana",
+        "genre": "Tank,Fighter",
+        "skinCount": 11,
+        "image": {
+            "full": "Sion.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 144,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "noxus"
+    },
+    {
+        "id": "Sivir",
+        "name": "Sivir",
+        "title": "the Battle Mistress",
+        "resource": "Mana",
+        "genre": "Marksman",
+        "skinCount": 19,
+        "image": {
+            "full": "Sivir.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 192,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "shurima"
+    },
+    {
+        "id": "Skarner",
+        "name": "Skarner",
+        "title": "the Primordial Sovereign",
+        "resource": "Mana",
+        "genre": "Tank,Fighter",
+        "skinCount": 7,
+        "image": {
+            "full": "Skarner.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 240,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ixtal"
+    },
+    {
+        "id": "Smolder",
+        "name": "Smolder",
+        "title": "the Fiery Fledgling",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 3,
+        "image": {
+            "full": "Smolder.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 288,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
+        "id": "Sona",
+        "name": "Sona",
+        "title": "Maven of the Strings",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 16,
+        "image": {
+            "full": "Sona.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 336,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "demacia"
+    },
+    {
+        "id": "Soraka",
+        "name": "Soraka",
+        "title": "the Starchild",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 18,
+        "image": {
+            "full": "Soraka.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 384,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "mount-targon"
+    },
+    {
+        "id": "Swain",
+        "name": "Swain",
+        "title": "the Noxian Grand General",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 10,
+        "image": {
+            "full": "Swain.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 432,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "noxus"
+    },
+    {
+        "id": "Sylas",
+        "name": "Sylas",
+        "title": "the Unshackled",
+        "resource": "Mana",
+        "genre": "Mage,Assassin",
+        "skinCount": 10,
+        "image": {
+            "full": "Sylas.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 0,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "demacia"
+    },
+    {
+        "id": "Syndra",
+        "name": "Syndra",
+        "title": "the Dark Sovereign",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 14,
+        "image": {
+            "full": "Syndra.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 48,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "ionia"
+    },
+    {
+        "id": "TahmKench",
+        "name": "Tahm Kench",
+        "title": "The River King",
+        "resource": "Mana",
+        "genre": "Tank,Support",
+        "skinCount": 7,
+        "image": {
+            "full": "TahmKench.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 96,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "bilgewater"
+    },
+    {
+        "id": "Taliyah",
+        "name": "Taliyah",
+        "title": "the Stoneweaver",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 7,
+        "image": {
+            "full": "Taliyah.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 144,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "shurima"
+    },
+    {
+        "id": "Talon",
+        "name": "Talon",
+        "title": "the Blade's Shadow",
+        "resource": "Mana",
+        "genre": "Assassin",
+        "skinCount": 13,
+        "image": {
+            "full": "Talon.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 192,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "noxus"
+    },
+    {
+        "id": "Taric",
+        "name": "Taric",
+        "title": "the Shield of Valoran",
+        "resource": "Mana",
+        "genre": "Support,Tank",
+        "skinCount": 8,
+        "image": {
+            "full": "Taric.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 240,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "mount-targon"
+    },
+    {
+        "id": "Teemo",
+        "name": "Teemo",
+        "title": "the Swift Scout",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 16,
+        "image": {
+            "full": "Teemo.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 288,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "bandle-city"
+    },
+    {
+        "id": "Thresh",
+        "name": "Thresh",
+        "title": "the Chain Warden",
+        "resource": "Mana",
+        "genre": "Support,Tank",
+        "skinCount": 17,
+        "image": {
+            "full": "Thresh.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 336,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "shadow-isles"
+    },
+    {
+        "id": "Tristana",
+        "name": "Tristana",
+        "title": "the Yordle Gunner",
+        "resource": "Mana",
+        "genre": "Marksman,Assassin",
+        "skinCount": 17,
+        "image": {
+            "full": "Tristana.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 384,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "bandle-city"
+    },
+    {
+        "id": "Trundle",
+        "name": "Trundle",
+        "title": "the Troll King",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 9,
+        "image": {
+            "full": "Trundle.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 432,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "freljord"
+    },
+    {
+        "id": "Tryndamere",
+        "name": "Tryndamere",
+        "title": "the Barbarian King",
+        "resource": "Fury",
+        "genre": "Fighter,Assassin",
+        "skinCount": 14,
+        "image": {
+            "full": "Tryndamere.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 0,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "freljord"
+    },
+    {
+        "id": "TwistedFate",
+        "name": "Twisted Fate",
+        "title": "the Card Master",
+        "resource": "Mana",
+        "genre": "Mage,Marksman",
+        "skinCount": 17,
+        "image": {
+            "full": "TwistedFate.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 48,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "bilgewater"
+    },
+    {
+        "id": "Twitch",
+        "name": "Twitch",
+        "title": "the Plague Rat",
+        "resource": "Mana",
+        "genre": "Marksman,Assassin",
+        "skinCount": 15,
+        "image": {
+            "full": "Twitch.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 96,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "zaun"
+    },
+    {
+        "id": "Udyr",
+        "name": "Udyr",
+        "title": "the Spirit Walker",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 7,
+        "image": {
+            "full": "Udyr.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 144,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "freljord"
+    },
+    {
+        "id": "Urgot",
+        "name": "Urgot",
+        "title": "the Dreadnought",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 8,
+        "image": {
+            "full": "Urgot.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 192,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "zaun"
+    },
+    {
+        "id": "Varus",
+        "name": "Varus",
+        "title": "the Arrow of Retribution",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 16,
+        "image": {
+            "full": "Varus.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 240,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "ionia"
+    },
+    {
+        "id": "Vayne",
+        "name": "Vayne",
+        "title": "the Night Hunter",
+        "resource": "Mana",
+        "genre": "Marksman,Assassin",
+        "skinCount": 19,
+        "image": {
+            "full": "Vayne.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 288,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "demacia"
+    },
+    {
+        "id": "Veigar",
+        "name": "Veigar",
+        "title": "the Tiny Master of Evil",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 16,
+        "image": {
+            "full": "Veigar.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 336,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "bandle-city"
+    },
+    {
+        "id": "Velkoz",
+        "name": "Vel'Koz",
+        "title": "the Eye of the Void",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 7,
+        "image": {
+            "full": "Velkoz.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 384,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "void"
+    },
+    {
+        "id": "Vex",
+        "name": "Vex",
+        "title": "the Gloomist",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 4,
+        "image": {
+            "full": "Vex.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion4.png",
+            "w": 48,
+            "x": 432,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "shadow-isles"
+    },
+    {
+        "id": "Vi",
+        "name": "Vi",
+        "title": "the Piltover Enforcer",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 14,
+        "image": {
+            "full": "Vi.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 0,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "piltover"
+    },
+    {
+        "id": "Viego",
+        "name": "Viego",
+        "title": "The Ruined King",
+        "resource": "None",
+        "genre": "Fighter,Assassin",
+        "skinCount": 8,
+        "image": {
+            "full": "Viego.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 48,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "shadow-isles"
+    },
+    {
+        "id": "Viktor",
+        "name": "Viktor",
+        "title": "the Herald of the Arcane",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 9,
+        "image": {
+            "full": "Viktor.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 96,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "zaun"
+    },
+    {
+        "id": "Vladimir",
+        "name": "Vladimir",
+        "title": "the Crimson Reaper",
+        "resource": "Crimson Rush",
+        "genre": "Mage,Fighter",
+        "skinCount": 14,
+        "image": {
+            "full": "Vladimir.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 144,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "noxus"
+    },
+    {
+        "id": "Volibear",
+        "name": "Volibear",
+        "title": "the Relentless Storm",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 11,
+        "image": {
+            "full": "Volibear.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 192,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "freljord"
+    },
+    {
+        "id": "Warwick",
+        "name": "Warwick",
+        "title": "the Uncaged Wrath of Zaun",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 16,
+        "image": {
+            "full": "Warwick.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 240,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "zaun"
+    },
+    {
+        "id": "MonkeyKing",
+        "name": "Wukong",
+        "title": "the Monkey King",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 10,
+        "image": {
+            "full": "MonkeyKing.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion2.png",
+            "w": 48,
+            "x": 192,
+            "y": 96
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
+        "id": "Xayah",
+        "name": "Xayah",
+        "title": "the Rebel",
+        "resource": "Mana",
+        "genre": "Marksman",
+        "skinCount": 13,
+        "image": {
+            "full": "Xayah.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 288,
+            "y": 0
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "ionia"
+    },
+    {
+        "id": "Xerath",
+        "name": "Xerath",
+        "title": "the Magus Ascendant",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 9,
+        "image": {
+            "full": "Xerath.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 336,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "shurima"
+    },
+    {
+        "id": "XinZhao",
+        "name": "Xin Zhao",
+        "title": "the Seneschal of Demacia",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 12,
+        "image": {
+            "full": "XinZhao.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 384,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "demacia"
+    },
+    {
+        "id": "Yasuo",
+        "name": "Yasuo",
+        "title": "the Unforgiven",
+        "resource": "Flow",
+        "genre": "Fighter,Assassin",
+        "skinCount": 18,
+        "image": {
+            "full": "Yasuo.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 432,
+            "y": 0
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "ionia"
+    },
+    {
         "id": "Yone",
         "name": "Yone",
         "title": "the Unforgotten",
@@ -3360,39 +3240,79 @@
         "region": "shadow-isles"
     },
     {
-        "id": "AurelionSol",
-        "name": "Aurelion Sol",
-        "title": "The Star Forger",
+        "id": "Yunara",
+        "name": "Yunara",
+        "title": "the Unbroken Faith",
         "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 6,
+        "genre": "Marksman",
+        "skinCount": 2,
         "image": {
-            "full": "AurelionSol.png",
+            "full": "Yunara.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion0.png",
+            "sprite": "champion5.png",
             "w": 48,
-            "x": 48,
+            "x": 96,
             "y": 48
         },
         "gender": "male",
         "attackType": "range",
-        "region": "mount-targon"
+        "region": "ionia"
     },
     {
-        "id": "Blitzcrank",
-        "name": "Blitzcrank",
-        "title": "the Great Steam Golem",
+        "id": "Yuumi",
+        "name": "Yuumi",
+        "title": "the Magical Cat",
         "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 16,
+        "genre": "Support,Mage",
+        "skinCount": 10,
         "image": {
-            "full": "Blitzcrank.png",
+            "full": "Yuumi.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion0.png",
+            "sprite": "champion5.png",
             "w": 48,
-            "x": 288,
+            "x": 144,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "close",
+        "region": "bandle-city"
+    },
+    {
+        "id": "Zaahen",
+        "name": "Zaahen",
+        "title": "The Unsundered",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 2,
+        "image": {
+            "full": "Zaahen.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 192,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "Zac",
+        "name": "Zac",
+        "title": "the Secret Weapon",
+        "resource": "None",
+        "genre": "Tank,Fighter",
+        "skinCount": 7,
+        "image": {
+            "full": "Zac.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 240,
             "y": 48
         },
         "gender": "male",
@@ -3400,43 +3320,123 @@
         "region": "zaun"
     },
     {
-        "id": "Fizz",
-        "name": "Fizz",
-        "title": "the Tidal Trickster",
-        "resource": "Mana",
-        "genre": "Assassin,Fighter",
-        "skinCount": 14,
+        "id": "Zed",
+        "name": "Zed",
+        "title": "the Master of Shadows",
+        "resource": "Energy",
+        "genre": "Assassin",
+        "skinCount": 15,
         "image": {
-            "full": "Fizz.png",
+            "full": "Zed.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion1.png",
+            "sprite": "champion5.png",
             "w": 48,
-            "x": 240,
-            "y": 0
+            "x": 288,
+            "y": 48
         },
         "gender": "male",
         "attackType": "close",
-        "region": "bilgewater"
+        "region": "ionia"
     },
     {
-        "id": "Kassadin",
-        "name": "Kassadin",
-        "title": "the Void Walker",
+        "id": "Zeri",
+        "name": "Zeri",
+        "title": "The Spark of Zaun",
         "resource": "Mana",
-        "genre": "Assassin,Mage",
-        "skinCount": 10,
+        "genre": "Marksman",
+        "skinCount": 7,
         "image": {
-            "full": "Kassadin.png",
+            "full": "Zeri.png",
             "group": "champion",
             "h": 48,
-            "sprite": "champion1.png",
+            "sprite": "champion5.png",
             "w": 48,
-            "x": 432,
-            "y": 96
+            "x": 336,
+            "y": 48
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "zaun"
+    },
+    {
+        "id": "Ziggs",
+        "name": "Ziggs",
+        "title": "the Hexplosives Expert",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 12,
+        "image": {
+            "full": "Ziggs.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 384,
+            "y": 48
         },
         "gender": "male",
-        "attackType": "close",
-        "region": "void"
+        "attackType": "range",
+        "region": "zaun"
+    },
+    {
+        "id": "Zilean",
+        "name": "Zilean",
+        "title": "the Chronokeeper",
+        "resource": "Mana",
+        "genre": "Support,Mage",
+        "skinCount": 9,
+        "image": {
+            "full": "Zilean.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 432,
+            "y": 48
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
+        "id": "Zoe",
+        "name": "Zoe",
+        "title": "the Aspect of Twilight",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 10,
+        "image": {
+            "full": "Zoe.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 0,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "mount-targon"
+    },
+    {
+        "id": "Zyra",
+        "name": "Zyra",
+        "title": "Rise of the Thorns",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 13,
+        "image": {
+            "full": "Zyra.png",
+            "group": "champion",
+            "h": 48,
+            "sprite": "champion5.png",
+            "w": 48,
+            "x": 48,
+            "y": 96
+        },
+        "gender": "female",
+        "attackType": "range",
+        "region": "ixtal"
     }
 ]

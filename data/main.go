@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"sort"
 
 	"github.com/tiennm99/loldle-data/parser"
 )
@@ -29,6 +30,10 @@ func main() {
 	if err != nil {
 		log.Fatalf("Failed to enrich lanes: %v", err)
 	}
+
+	sort.Slice(champions, func(i, j int) bool {
+		return champions[i].Name < champions[j].Name
+	})
 
 	outputPath := "champions.json"
 	if err := saveJSON(outputPath, champions); err != nil {
