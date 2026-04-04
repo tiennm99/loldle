@@ -1,6 +1,7 @@
 // Mode-agnostic game state machine with localStorage persistence
 
 const STORAGE_KEY_PREFIX = "loldle_";
+const UNLIMITED_SEED_KEY = `${STORAGE_KEY_PREFIX}unlimited_seed`;
 
 /**
  * Create a new game instance
@@ -9,12 +10,12 @@ const STORAGE_KEY_PREFIX = "loldle_";
  * @param {Function} config.compareFn - (guess, target) => comparison results
  * @param {number} config.maxGuesses - Max allowed guesses (0 = unlimited)
  * @param {string} config.mode - "daily" or "unlimited"
- * @param {string} config.seed - Seed string for daily mode
+ * @param {string} config.seed - Seed string for mode
  */
 export function createGame(config) {
   const { target, compareFn, maxGuesses = 6, mode = "daily", seed = "" } = config;
 
-  // Try to restore saved state for daily mode
+  // Try to restore saved state
   const saved = loadState(mode, seed);
   if (saved && saved.targetName === target.name) {
     return {
@@ -43,32 +44,28 @@ export function createGame(config) {
   };
 }
 
-/**
- * Submit a guess and return comparison result
- * @returns {Object|null} Comparison result, or null if game is over
- */
+/** Submit a guess and return updated game state (immutable) */
 export function submitGuess(game, champion) {
   if (game.isOver) return null;
-
-  // Prevent duplicate guesses
   if (game.guesses.some((g) => g.name === champion.name)) return null;
 
   const result = game.compareFn(champion, game.target);
-  game.guesses.push(champion);
-  game.results.push(result);
+  const guesses = [...game.guesses, champion];
+  const results = [...game.results, result];
 
-  // Check win
+  let isWon = false;
+  let isOver = false;
+
   if (champion.name === game.target.name) {
-    game.isWon = true;
-    game.isOver = true;
-  }
-  // Check loss (only if maxGuesses > 0)
-  else if (game.maxGuesses > 0 && game.guesses.length >= game.maxGuesses) {
-    game.isOver = true;
+    isWon = true;
+    isOver = true;
+  } else if (game.maxGuesses > 0 && guesses.length >= game.maxGuesses) {
+    isOver = true;
   }
 
-  saveState(game);
-  return result;
+  const updated = { ...game, guesses, results, isWon, isOver };
+  saveState(updated);
+  return updated;
 }
 
 /** Get names of already-guessed champions */
@@ -76,54 +73,39 @@ export function getGuessedNames(game) {
   return game.guesses.map((g) => g.name);
 }
 
-/** Save game state to localStorage */
-function saveState(game) {
-  const key = getStorageKey(game.mode, game.seed);
-  const data = {
-    targetName: game.target.name,
-    guesses: game.guesses,
-    results: game.results,
-    isOver: game.isOver,
-    isWon: game.isWon,
-    timestamp: Date.now(),
-  };
+/** Get or create a persistent seed for unlimited mode */
+export function getOrCreateUnlimitedSeed() {
   try {
-    localStorage.setItem(key, JSON.stringify(data));
+    const saved = localStorage.getItem(UNLIMITED_SEED_KEY);
+    if (saved) return saved;
   } catch {
-    // Storage full or unavailable — silently ignore
+    // Ignore
   }
+  return createNewUnlimitedSeed();
 }
 
-/** Load saved game state from localStorage */
-function loadState(mode, seed) {
-  const key = getStorageKey(mode, seed);
+/** Create and persist a new unlimited seed */
+function createNewUnlimitedSeed() {
+  const seed = `unlimited_${Date.now()}_${Math.random()}`;
   try {
-    const raw = localStorage.getItem(key);
-    if (!raw) return null;
-    return JSON.parse(raw);
+    localStorage.setItem(UNLIMITED_SEED_KEY, seed);
   } catch {
-    return null;
+    // Ignore
   }
-}
-
-/** Build storage key based on mode */
-function getStorageKey(mode, seed) {
-  if (mode === "daily") {
-    return `${STORAGE_KEY_PREFIX}daily_${seed}`;
-  }
-  return `${STORAGE_KEY_PREFIX}unlimited_current`;
+  return seed;
 }
 
 /** Clear unlimited mode saved state (for new game) */
 export function clearUnlimitedState() {
   try {
     localStorage.removeItem(`${STORAGE_KEY_PREFIX}unlimited_current`);
+    localStorage.removeItem(UNLIMITED_SEED_KEY);
   } catch {
     // Ignore
   }
 }
 
-/** Save unlimited mode stats (wins, total games, guess distribution) */
+/** Save unlimited mode stats */
 export function saveUnlimitedStats(game) {
   if (game.mode !== "unlimited" || !game.isOver) return;
 
@@ -161,4 +143,37 @@ export function loadUnlimitedStats() {
 
 function createEmptyStats() {
   return { gamesPlayed: 0, gamesWon: 0, guessDistribution: {}, lastPlayed: null };
+}
+
+function saveState(game) {
+  const key = getStorageKey(game.mode, game.seed);
+  const data = {
+    targetName: game.target.name,
+    guesses: game.guesses,
+    results: game.results,
+    isOver: game.isOver,
+    isWon: game.isWon,
+    timestamp: Date.now(),
+  };
+  try {
+    localStorage.setItem(key, JSON.stringify(data));
+  } catch {
+    // Ignore
+  }
+}
+
+function loadState(mode, seed) {
+  const key = getStorageKey(mode, seed);
+  try {
+    const raw = localStorage.getItem(key);
+    if (!raw) return null;
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
+function getStorageKey(mode, seed) {
+  if (mode === "daily") return `${STORAGE_KEY_PREFIX}daily_${seed}`;
+  return `${STORAGE_KEY_PREFIX}unlimited_current`;
 }

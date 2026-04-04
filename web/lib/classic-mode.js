@@ -11,10 +11,7 @@ export const CLASSIC_ATTRIBUTES = [
   { key: "releaseDate", label: "Year", type: "year" },
 ];
 
-/**
- * Compare guess champion against target champion
- * @returns {Array} Array of { attribute, label, guessValue, targetValue, result, direction? }
- */
+/** Compare guess champion against target champion */
 export function compareChampions(guess, target) {
   return CLASSIC_ATTRIBUTES.map((attr) => {
     const guessVal = guess[attr.key] || "";
@@ -51,51 +48,36 @@ export function compareChampions(guess, target) {
   });
 }
 
-/** Compare comma-separated multi-value fields */
 function compareMultiValue(guessStr, targetStr) {
   const guessSet = parseSet(guessStr);
   const targetSet = parseSet(targetStr);
 
   if (guessSet.size === 0 && targetSet.size === 0) return "correct";
   if (guessSet.size === 0 || targetSet.size === 0) return "wrong";
-
-  // Check if sets are equal
   if (setsEqual(guessSet, targetSet)) return "correct";
 
-  // Check for any overlap
   for (const val of guessSet) {
     if (targetSet.has(val)) return "partial";
   }
-
   return "wrong";
 }
 
-/** Compare release years with direction */
 function compareYear(guessYear, targetYear) {
   const g = Number(guessYear);
   const t = Number(targetYear);
 
   if (!g || !t) return { result: "wrong" };
   if (g === t) return { result: "correct" };
-
-  return {
-    result: "wrong",
-    direction: g < t ? "up" : "down", // up = guess is too low
-  };
+  return { result: "wrong", direction: g < t ? "up" : "down" };
 }
 
-/** Parse comma-separated string into lowercase Set */
 function parseSet(str) {
   if (!str) return new Set();
   return new Set(
-    str
-      .split(",")
-      .map((s) => s.trim().toLowerCase())
-      .filter(Boolean),
+    str.split(",").map((s) => s.trim().toLowerCase()).filter(Boolean),
   );
 }
 
-/** Check if two Sets are equal */
 function setsEqual(a, b) {
   if (a.size !== b.size) return false;
   for (const val of a) {
@@ -104,7 +86,6 @@ function setsEqual(a, b) {
   return true;
 }
 
-/** Format display values for readability */
 function formatValue(key, value) {
   if (!value) return "—";
 
@@ -114,16 +95,10 @@ function formatValue(key, value) {
     case "attackType":
       return value === "close" ? "Melee" : "Ranged";
     case "region":
-      return value
-        .split("-")
-        .map(capitalize)
-        .join(" ");
+      return value.split("-").map(capitalize).join(" ");
     case "genre":
     case "lane":
-      return value
-        .split(",")
-        .map((s) => capitalize(s.trim()))
-        .join(", ");
+      return value.split(",").map((s) => capitalize(s.trim())).join(", ");
     default:
       return value;
   }
