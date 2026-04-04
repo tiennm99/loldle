@@ -631,7 +631,7 @@
             "w": 48,
             "h": 48
         },
-        "gender": "divers",
+        "gender": "male",
         "attackType": "range",
         "releaseDate": 2012,
         "region": "noxus",
@@ -2069,7 +2069,7 @@
     },
     {
         "id": "Nunu",
-        "name": "Nunu \u0026 Willump",
+        "name": "Nunu & Willump",
         "title": "the Boy and His Yeti",
         "resource": "Mana",
         "genre": "Tank,Mage",

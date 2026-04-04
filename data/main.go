@@ -51,6 +51,7 @@ func saveJSON(path string, data []parser.ChampionResult) error {
 	defer file.Close()
 
 	encoder := json.NewEncoder(file)
+	encoder.SetEscapeHTML(false)
 	encoder.SetIndent("", "    ")
 	return encoder.Encode(data)
 }
