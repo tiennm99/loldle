@@ -8,12 +8,12 @@
         "skinCount": 13,
         "image": {
             "full": "Aatrox.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -28,12 +28,12 @@
         "skinCount": 22,
         "image": {
             "full": "Ahri.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -48,12 +48,12 @@
         "skinCount": 22,
         "image": {
             "full": "Akali.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -68,12 +68,12 @@
         "skinCount": 4,
         "image": {
             "full": "Akshan.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -88,12 +88,12 @@
         "skinCount": 16,
         "image": {
             "full": "Alistar.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -108,12 +108,12 @@
         "skinCount": 2,
         "image": {
             "full": "Ambessa.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -128,12 +128,12 @@
         "skinCount": 15,
         "image": {
             "full": "Amumu.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -148,12 +148,12 @@
         "skinCount": 13,
         "image": {
             "full": "Anivia.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -168,12 +168,12 @@
         "skinCount": 18,
         "image": {
             "full": "Annie.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -188,12 +188,12 @@
         "skinCount": 7,
         "image": {
             "full": "Aphelios.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -208,12 +208,12 @@
         "skinCount": 20,
         "image": {
             "full": "Ashe.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -228,12 +228,12 @@
         "skinCount": 6,
         "image": {
             "full": "AurelionSol.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -248,12 +248,12 @@
         "skinCount": 3,
         "image": {
             "full": "Aurora.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -268,12 +268,12 @@
         "skinCount": 8,
         "image": {
             "full": "Azir.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -288,12 +288,12 @@
         "skinCount": 9,
         "image": {
             "full": "Bard.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -308,12 +308,12 @@
         "skinCount": 4,
         "image": {
             "full": "Belveth.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -328,12 +328,12 @@
         "skinCount": 16,
         "image": {
             "full": "Blitzcrank.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -348,12 +348,12 @@
         "skinCount": 13,
         "image": {
             "full": "Brand.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -368,12 +368,12 @@
         "skinCount": 9,
         "image": {
             "full": "Braum.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -388,12 +388,12 @@
         "skinCount": 4,
         "image": {
             "full": "Briar.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -408,12 +408,12 @@
         "skinCount": 20,
         "image": {
             "full": "Caitlyn.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -428,12 +428,12 @@
         "skinCount": 8,
         "image": {
             "full": "Camille.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -448,12 +448,12 @@
         "skinCount": 10,
         "image": {
             "full": "Cassiopeia.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -468,12 +468,12 @@
         "skinCount": 12,
         "image": {
             "full": "Chogath.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "divers",
         "attackType": "close",
@@ -488,12 +488,12 @@
         "skinCount": 12,
         "image": {
             "full": "Corki.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -508,12 +508,12 @@
         "skinCount": 16,
         "image": {
             "full": "Darius.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -528,12 +528,12 @@
         "skinCount": 15,
         "image": {
             "full": "Diana.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -548,12 +548,12 @@
         "skinCount": 12,
         "image": {
             "full": "DrMundo.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -568,12 +568,12 @@
         "skinCount": 15,
         "image": {
             "full": "Draven.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -588,12 +588,12 @@
         "skinCount": 13,
         "image": {
             "full": "Ekko.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion0.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -608,12 +608,12 @@
         "skinCount": 10,
         "image": {
             "full": "Elise.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -628,12 +628,12 @@
         "skinCount": 17,
         "image": {
             "full": "Evelynn.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -648,12 +648,12 @@
         "skinCount": 22,
         "image": {
             "full": "Ezreal.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -668,12 +668,12 @@
         "skinCount": 13,
         "image": {
             "full": "Fiddlesticks.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -688,12 +688,12 @@
         "skinCount": 17,
         "image": {
             "full": "Fiora.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -708,12 +708,12 @@
         "skinCount": 14,
         "image": {
             "full": "Fizz.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -728,12 +728,12 @@
         "skinCount": 11,
         "image": {
             "full": "Galio.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -748,12 +748,12 @@
         "skinCount": 13,
         "image": {
             "full": "Gangplank.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -768,12 +768,12 @@
         "skinCount": 17,
         "image": {
             "full": "Garen.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -788,12 +788,12 @@
         "skinCount": 11,
         "image": {
             "full": "Gnar.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -808,12 +808,12 @@
         "skinCount": 15,
         "image": {
             "full": "Gragas.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -828,12 +828,12 @@
         "skinCount": 14,
         "image": {
             "full": "Graves.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -848,12 +848,12 @@
         "skinCount": 6,
         "image": {
             "full": "Gwen.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -868,12 +868,12 @@
         "skinCount": 13,
         "image": {
             "full": "Hecarim.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -888,12 +888,12 @@
         "skinCount": 10,
         "image": {
             "full": "Heimerdinger.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -908,12 +908,12 @@
         "skinCount": 3,
         "image": {
             "full": "Hwei.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -928,12 +928,12 @@
         "skinCount": 6,
         "image": {
             "full": "Illaoi.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -948,12 +948,12 @@
         "skinCount": 16,
         "image": {
             "full": "Irelia.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -968,12 +968,12 @@
         "skinCount": 6,
         "image": {
             "full": "Ivern.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -988,12 +988,12 @@
         "skinCount": 17,
         "image": {
             "full": "Janna.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1008,12 +1008,12 @@
         "skinCount": 16,
         "image": {
             "full": "JarvanIV.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1028,12 +1028,12 @@
         "skinCount": 17,
         "image": {
             "full": "Jax.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1048,12 +1048,12 @@
         "skinCount": 12,
         "image": {
             "full": "Jayce.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1068,12 +1068,12 @@
         "skinCount": 13,
         "image": {
             "full": "Jhin.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -1088,12 +1088,12 @@
         "skinCount": 15,
         "image": {
             "full": "Jinx.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1108,12 +1108,12 @@
         "skinCount": 4,
         "image": {
             "full": "KSante.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1128,12 +1128,12 @@
         "skinCount": 16,
         "image": {
             "full": "Kaisa.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1148,12 +1148,12 @@
         "skinCount": 7,
         "image": {
             "full": "Kalista.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1168,12 +1168,12 @@
         "skinCount": 16,
         "image": {
             "full": "Karma.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1188,12 +1188,12 @@
         "skinCount": 11,
         "image": {
             "full": "Karthus.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1208,12 +1208,12 @@
         "skinCount": 10,
         "image": {
             "full": "Kassadin.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion1.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1228,12 +1228,12 @@
         "skinCount": 19,
         "image": {
             "full": "Katarina.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -1248,12 +1248,12 @@
         "skinCount": 18,
         "image": {
             "full": "Kayle.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -1268,12 +1268,12 @@
         "skinCount": 8,
         "image": {
             "full": "Kayn.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1288,12 +1288,12 @@
         "skinCount": 11,
         "image": {
             "full": "Kennen.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -1308,12 +1308,12 @@
         "skinCount": 9,
         "image": {
             "full": "Khazix.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1328,12 +1328,12 @@
         "skinCount": 9,
         "image": {
             "full": "Kindred.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -1348,12 +1348,12 @@
         "skinCount": 5,
         "image": {
             "full": "Kled.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1368,12 +1368,12 @@
         "skinCount": 16,
         "image": {
             "full": "KogMaw.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -1388,12 +1388,12 @@
         "skinCount": 14,
         "image": {
             "full": "Leblanc.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1408,12 +1408,12 @@
         "skinCount": 20,
         "image": {
             "full": "LeeSin.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1428,12 +1428,12 @@
         "skinCount": 18,
         "image": {
             "full": "Leona.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -1448,12 +1448,12 @@
         "skinCount": 6,
         "image": {
             "full": "Lillia.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -1468,12 +1468,12 @@
         "skinCount": 10,
         "image": {
             "full": "Lissandra.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1488,12 +1488,12 @@
         "skinCount": 15,
         "image": {
             "full": "Lucian.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -1508,12 +1508,12 @@
         "skinCount": 14,
         "image": {
             "full": "Lulu.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1528,12 +1528,12 @@
         "skinCount": 23,
         "image": {
             "full": "Lux.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1548,12 +1548,12 @@
         "skinCount": 15,
         "image": {
             "full": "Malphite.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1568,12 +1568,12 @@
         "skinCount": 14,
         "image": {
             "full": "Malzahar.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -1588,12 +1588,12 @@
         "skinCount": 11,
         "image": {
             "full": "Maokai.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1608,12 +1608,12 @@
         "skinCount": 18,
         "image": {
             "full": "MasterYi.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1628,12 +1628,12 @@
         "skinCount": 3,
         "image": {
             "full": "Mel.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1648,12 +1648,12 @@
         "skinCount": 4,
         "image": {
             "full": "Milio.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -1668,12 +1668,12 @@
         "skinCount": 23,
         "image": {
             "full": "MissFortune.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1688,12 +1688,12 @@
         "skinCount": 13,
         "image": {
             "full": "Mordekaiser.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1708,12 +1708,12 @@
         "skinCount": 18,
         "image": {
             "full": "Morgana.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -1728,12 +1728,12 @@
         "skinCount": 4,
         "image": {
             "full": "Naafiri.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -1748,12 +1748,12 @@
         "skinCount": 15,
         "image": {
             "full": "Nami.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1768,12 +1768,12 @@
         "skinCount": 14,
         "image": {
             "full": "Nasus.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1788,12 +1788,12 @@
         "skinCount": 12,
         "image": {
             "full": "Nautilus.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1808,12 +1808,12 @@
         "skinCount": 10,
         "image": {
             "full": "Neeko.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1828,12 +1828,12 @@
         "skinCount": 17,
         "image": {
             "full": "Nidalee.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1848,12 +1848,12 @@
         "skinCount": 4,
         "image": {
             "full": "Nilah.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -1868,12 +1868,12 @@
         "skinCount": 11,
         "image": {
             "full": "Nocturne.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "divers",
         "attackType": "close",
@@ -1888,12 +1888,12 @@
         "skinCount": 13,
         "image": {
             "full": "Nunu.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1908,12 +1908,12 @@
         "skinCount": 12,
         "image": {
             "full": "Olaf.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1928,12 +1928,12 @@
         "skinCount": 13,
         "image": {
             "full": "Orianna.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -1948,12 +1948,12 @@
         "skinCount": 6,
         "image": {
             "full": "Ornn.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1968,12 +1968,12 @@
         "skinCount": 14,
         "image": {
             "full": "Pantheon.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -1988,12 +1988,12 @@
         "skinCount": 13,
         "image": {
             "full": "Poppy.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -2008,12 +2008,12 @@
         "skinCount": 13,
         "image": {
             "full": "Pyke.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2028,12 +2028,12 @@
         "skinCount": 10,
         "image": {
             "full": "Qiyana.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -2048,12 +2048,12 @@
         "skinCount": 7,
         "image": {
             "full": "Quinn.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2068,12 +2068,12 @@
         "skinCount": 13,
         "image": {
             "full": "Rakan.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2088,12 +2088,12 @@
         "skinCount": 12,
         "image": {
             "full": "Rammus.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2108,12 +2108,12 @@
         "skinCount": 6,
         "image": {
             "full": "RekSai.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -2128,12 +2128,12 @@
         "skinCount": 5,
         "image": {
             "full": "Rell.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -2148,12 +2148,12 @@
         "skinCount": 6,
         "image": {
             "full": "Renata.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2168,12 +2168,12 @@
         "skinCount": 16,
         "image": {
             "full": "Renekton.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2188,12 +2188,12 @@
         "skinCount": 9,
         "image": {
             "full": "Rengar.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2208,12 +2208,12 @@
         "skinCount": 18,
         "image": {
             "full": "Riven.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -2228,12 +2228,12 @@
         "skinCount": 7,
         "image": {
             "full": "Rumble.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2248,12 +2248,12 @@
         "skinCount": 15,
         "image": {
             "full": "Ryze.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2268,12 +2268,12 @@
         "skinCount": 7,
         "image": {
             "full": "Samira.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2288,12 +2288,12 @@
         "skinCount": 13,
         "image": {
             "full": "Sejuani.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -2308,12 +2308,12 @@
         "skinCount": 11,
         "image": {
             "full": "Senna.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2328,12 +2328,12 @@
         "skinCount": 11,
         "image": {
             "full": "Seraphine.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2348,12 +2348,12 @@
         "skinCount": 11,
         "image": {
             "full": "Sett.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2368,12 +2368,12 @@
         "skinCount": 16,
         "image": {
             "full": "Shaco.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion3.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2388,12 +2388,12 @@
         "skinCount": 13,
         "image": {
             "full": "Shen.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2408,12 +2408,12 @@
         "skinCount": 9,
         "image": {
             "full": "Shyvana.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -2428,12 +2428,12 @@
         "skinCount": 13,
         "image": {
             "full": "Singed.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2448,12 +2448,12 @@
         "skinCount": 11,
         "image": {
             "full": "Sion.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2468,12 +2468,12 @@
         "skinCount": 19,
         "image": {
             "full": "Sivir.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2488,12 +2488,12 @@
         "skinCount": 7,
         "image": {
             "full": "Skarner.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2508,12 +2508,12 @@
         "skinCount": 3,
         "image": {
             "full": "Smolder.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2528,12 +2528,12 @@
         "skinCount": 16,
         "image": {
             "full": "Sona.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2548,12 +2548,12 @@
         "skinCount": 18,
         "image": {
             "full": "Soraka.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2568,12 +2568,12 @@
         "skinCount": 10,
         "image": {
             "full": "Swain.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2588,12 +2588,12 @@
         "skinCount": 10,
         "image": {
             "full": "Sylas.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2608,12 +2608,12 @@
         "skinCount": 14,
         "image": {
             "full": "Syndra.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2628,12 +2628,12 @@
         "skinCount": 7,
         "image": {
             "full": "TahmKench.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2648,12 +2648,12 @@
         "skinCount": 7,
         "image": {
             "full": "Taliyah.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2668,12 +2668,12 @@
         "skinCount": 13,
         "image": {
             "full": "Talon.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2688,12 +2688,12 @@
         "skinCount": 8,
         "image": {
             "full": "Taric.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2708,12 +2708,12 @@
         "skinCount": 16,
         "image": {
             "full": "Teemo.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2728,12 +2728,12 @@
         "skinCount": 17,
         "image": {
             "full": "Thresh.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2748,12 +2748,12 @@
         "skinCount": 17,
         "image": {
             "full": "Tristana.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2768,12 +2768,12 @@
         "skinCount": 9,
         "image": {
             "full": "Trundle.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2788,12 +2788,12 @@
         "skinCount": 14,
         "image": {
             "full": "Tryndamere.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2808,12 +2808,12 @@
         "skinCount": 17,
         "image": {
             "full": "TwistedFate.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2828,12 +2828,12 @@
         "skinCount": 15,
         "image": {
             "full": "Twitch.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2848,12 +2848,12 @@
         "skinCount": 7,
         "image": {
             "full": "Udyr.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2868,12 +2868,12 @@
         "skinCount": 8,
         "image": {
             "full": "Urgot.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -2888,12 +2888,12 @@
         "skinCount": 16,
         "image": {
             "full": "Varus.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2908,12 +2908,12 @@
         "skinCount": 19,
         "image": {
             "full": "Vayne.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2928,12 +2928,12 @@
         "skinCount": 16,
         "image": {
             "full": "Veigar.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2948,12 +2948,12 @@
         "skinCount": 7,
         "image": {
             "full": "Velkoz.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -2968,12 +2968,12 @@
         "skinCount": 4,
         "image": {
             "full": "Vex.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion4.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -2988,12 +2988,12 @@
         "skinCount": 14,
         "image": {
             "full": "Vi.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -3008,12 +3008,12 @@
         "skinCount": 8,
         "image": {
             "full": "Viego.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3028,12 +3028,12 @@
         "skinCount": 9,
         "image": {
             "full": "Viktor.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -3048,12 +3048,12 @@
         "skinCount": 14,
         "image": {
             "full": "Vladimir.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3068,12 +3068,12 @@
         "skinCount": 11,
         "image": {
             "full": "Volibear.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3088,12 +3088,12 @@
         "skinCount": 16,
         "image": {
             "full": "Warwick.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3108,12 +3108,12 @@
         "skinCount": 10,
         "image": {
             "full": "MonkeyKing.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion2.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3128,12 +3128,12 @@
         "skinCount": 13,
         "image": {
             "full": "Xayah.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -3148,12 +3148,12 @@
         "skinCount": 9,
         "image": {
             "full": "Xerath.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -3168,12 +3168,12 @@
         "skinCount": 12,
         "image": {
             "full": "XinZhao.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3188,12 +3188,12 @@
         "skinCount": 18,
         "image": {
             "full": "Yasuo.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 0
+            "y": 0,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3208,12 +3208,12 @@
         "skinCount": 12,
         "image": {
             "full": "Yone.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3228,12 +3228,12 @@
         "skinCount": 10,
         "image": {
             "full": "Yorick.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3248,12 +3248,12 @@
         "skinCount": 2,
         "image": {
             "full": "Yunara.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 96,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -3268,12 +3268,12 @@
         "skinCount": 10,
         "image": {
             "full": "Yuumi.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 144,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "close",
@@ -3288,12 +3288,12 @@
         "skinCount": 2,
         "image": {
             "full": "Zaahen.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 192,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3308,12 +3308,12 @@
         "skinCount": 7,
         "image": {
             "full": "Zac.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 240,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3328,12 +3328,12 @@
         "skinCount": 15,
         "image": {
             "full": "Zed.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 288,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "close",
@@ -3348,12 +3348,12 @@
         "skinCount": 7,
         "image": {
             "full": "Zeri.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 336,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -3368,12 +3368,12 @@
         "skinCount": 12,
         "image": {
             "full": "Ziggs.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 384,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -3388,12 +3388,12 @@
         "skinCount": 9,
         "image": {
             "full": "Zilean.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 432,
-            "y": 48
+            "y": 48,
+            "w": 48,
+            "h": 48
         },
         "gender": "male",
         "attackType": "range",
@@ -3408,12 +3408,12 @@
         "skinCount": 10,
         "image": {
             "full": "Zoe.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 0,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",
@@ -3428,12 +3428,12 @@
         "skinCount": 13,
         "image": {
             "full": "Zyra.png",
-            "group": "champion",
-            "h": 48,
             "sprite": "champion5.png",
-            "w": 48,
+            "group": "champion",
             "x": 48,
-            "y": 96
+            "y": 96,
+            "w": 48,
+            "h": 48
         },
         "gender": "female",
         "attackType": "range",

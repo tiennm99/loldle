@@ -21,26 +21,37 @@ type ddragonChampion struct {
 	Partype string            `json:"partype"`
 	Tags    []string          `json:"tags"`
 	Skins   []json.RawMessage `json:"skins"`
-	Image   interface{}       `json:"image"`
+	Image   ChampionImage     `json:"image"`
 	Stats   struct {
 		AttackRange float64 `json:"attackrange"`
 	} `json:"stats"`
 }
 
+// ChampionImage holds sprite sheet metadata with fields ordered to match the expected output.
+type ChampionImage struct {
+	Full   string `json:"full"`
+	Sprite string `json:"sprite"`
+	Group  string `json:"group"`
+	X      int    `json:"x"`
+	Y      int    `json:"y"`
+	W      int    `json:"w"`
+	H      int    `json:"h"`
+}
+
 // ChampionResult holds the enriched data for a single champion.
 type ChampionResult struct {
-	ID          string      `json:"id"`
-	Name        string      `json:"name"`
-	Title       string      `json:"title"`
-	Resource    string      `json:"resource"`
-	Genre       string      `json:"genre"`
-	SkinCount   int         `json:"skinCount"`
-	Image       interface{} `json:"image"`
-	Gender      string      `json:"gender"`
-	AttackType  string      `json:"attackType"`
-	ReleaseDate int         `json:"releaseDate,omitempty"`
-	Region      string      `json:"region,omitempty"`
-	Lane        string      `json:"lane,omitempty"`
+	ID          string        `json:"id"`
+	Name        string        `json:"name"`
+	Title       string        `json:"title"`
+	Resource    string        `json:"resource"`
+	Genre       string        `json:"genre"`
+	SkinCount   int           `json:"skinCount"`
+	Image       ChampionImage `json:"image"`
+	Gender      string        `json:"gender"`
+	AttackType  string        `json:"attackType"`
+	ReleaseDate int           `json:"releaseDate,omitempty"`
+	Region      string        `json:"region,omitempty"`
+	Lane        string        `json:"lane,omitempty"`
 }
 
 // ParseChampions fetches base champion data from ddragon and detects gender concurrently.
