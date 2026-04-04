@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LoLdle Classic</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="header">
+    <h1>Lo<span>L</span>dle</h1>
+    <div class="mode-toggle">
+      <button id="mode-daily" class="mode-btn active">Daily</button>
+      <button id="mode-unlimited" class="mode-btn">Unlimited</button>
+    </div>
+  </header>
+
+  <div id="stats"></div>
+
+  <div class="search-container">
+    <input type="text" id="search-input" placeholder="Type a champion name..." autocomplete="off" />
+    <div id="search-dropdown"></div>
+  </div>
+
+  <p id="guess-counter" class="guess-counter"></p>
+
+  <main class="grid-container">
+    <div id="grid"></div>
+  </main>
+
+  <div id="game-over"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
