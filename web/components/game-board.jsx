@@ -14,6 +14,7 @@ import {
   clearUnlimitedState,
   saveUnlimitedStats,
   loadUnlimitedStats,
+  clearExpiredCache,
 } from "@/lib/game-engine";
 import { compareChampions } from "@/lib/classic-mode";
 import ChampionSearch from "./champion-search";
@@ -50,6 +51,7 @@ export default function GameBoard() {
   useEffect(() => {
     loadChampions()
       .then(() => {
+        clearExpiredCache(getTodaySeed());
         initGame("daily");
         setLoading(false);
       })

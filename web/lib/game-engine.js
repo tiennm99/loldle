@@ -173,6 +173,23 @@ function loadState(mode, seed) {
   }
 }
 
+/** Remove stale daily entries from localStorage (keeps only today's) */
+export function clearExpiredCache(todaySeed) {
+  try {
+    const todayKey = `${STORAGE_KEY_PREFIX}daily_${todaySeed}`;
+    const keysToRemove = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key && key.startsWith(`${STORAGE_KEY_PREFIX}daily_`) && key !== todayKey) {
+        keysToRemove.push(key);
+      }
+    }
+    keysToRemove.forEach((key) => localStorage.removeItem(key));
+  } catch {
+    // Ignore
+  }
+}
+
 function getStorageKey(mode, seed) {
   if (mode === "daily") return `${STORAGE_KEY_PREFIX}daily_${seed}`;
   return `${STORAGE_KEY_PREFIX}unlimited_current`;
