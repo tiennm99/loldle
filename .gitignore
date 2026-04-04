@@ -1,3 +1,9 @@
+session-state
+settings.local.json
+plans
+
+
+
 # dependencies
 /node_modules
 /.pnp
