@@ -1,0 +1,31 @@
+name: Sync champions.json to loldle
+
+on:
+  push:
+    branches: [main]
+    paths: [champions.json]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout loldle-data
+        uses: actions/checkout@v4
+
+      - name: Checkout loldle
+        uses: actions/checkout@v4
+        with:
+          repository: tiennm99/loldle
+          token: ${{ secrets.LOLDLE_PAT }}
+          path: loldle
+
+      - name: Copy and commit
+        run: |
+          cp champions.json loldle/public/champions.json
+          cd loldle
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/champions.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: update champions.json from loldle-data"
+          git push
