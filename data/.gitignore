@@ -24,6 +24,12 @@ profile.cov
 go.work
 go.work.sum
 
+# Output
+champions.json
+
+# Reference clone
+LoLdleData/
+
 # env file
 .env
 
