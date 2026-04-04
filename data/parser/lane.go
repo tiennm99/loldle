@@ -2,13 +2,10 @@ package parser
 
 import (
 	"fmt"
-	"net/http"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
 )
-
-const wikiDraftPositionURL = "https://leagueoflegends.fandom.com/wiki/List_of_champions_by_draft_position"
 
 // columnLaneMap maps 1-indexed column positions to lane names.
 var columnLaneMap = map[int]string{
@@ -19,17 +16,11 @@ var columnLaneMap = map[int]string{
 	5: "support",
 }
 
-// EnrichLanes scrapes the LoL Wiki draft position table to add lane data.
+// EnrichLanes fetches the LoL Wiki draft position table to add lane data.
 func EnrichLanes(champions []ChampionResult) ([]ChampionResult, error) {
-	resp, err := http.Get(wikiDraftPositionURL)
+	doc, err := fetchWikiDoc("List_of_champions_by_draft_position")
 	if err != nil {
 		return nil, fmt.Errorf("fetching wiki draft positions: %w", err)
-	}
-	defer resp.Body.Close()
-
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		return nil, fmt.Errorf("parsing wiki HTML: %w", err)
 	}
 
 	nameIndex := buildNameIndex(champions)
@@ -42,8 +33,9 @@ func EnrichLanes(champions []ChampionResult) ([]ChampionResult, error) {
 		}
 
 		cols.Each(func(colIdx int, col *goquery.Selection) {
-			// Check if this column has a "Yes" indicator image.
-			if col.Find("img[alt='Yes']").Length() == 0 {
+			// Check if this column has a lane indicator image (alt="Yes" or alt="Official").
+			hasIndicator := col.Find("img[alt='Yes'], img[alt='Official']").Length() > 0
+			if !hasIndicator {
 				return
 			}
 

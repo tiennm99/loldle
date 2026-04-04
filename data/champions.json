@@ -17,7 +17,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2013,
+        "region": "runeterra",
+        "lane": "top"
     },
     {
         "id": "Ahri",
@@ -37,7 +39,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ionia"
+        "releaseDate": 2011,
+        "region": "ionia",
+        "lane": "mid"
     },
     {
         "id": "Akali",
@@ -57,7 +61,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2010,
+        "region": "ionia",
+        "lane": "top,mid"
     },
     {
         "id": "Akshan",
@@ -77,7 +83,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "shurima"
+        "releaseDate": 2021,
+        "region": "shurima",
+        "lane": "mid"
     },
     {
         "id": "Alistar",
@@ -97,7 +105,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "support"
     },
     {
         "id": "Ambessa",
@@ -117,7 +127,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2024,
+        "region": "noxus",
+        "lane": "mid"
     },
     {
         "id": "Amumu",
@@ -137,7 +149,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shurima"
+        "releaseDate": 2009,
+        "region": "shurima",
+        "lane": "jungle"
     },
     {
         "id": "Anivia",
@@ -157,7 +171,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "freljord"
+        "releaseDate": 2009,
+        "region": "freljord",
+        "lane": "mid"
     },
     {
         "id": "Annie",
@@ -177,7 +193,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "mid"
     },
     {
         "id": "Aphelios",
@@ -197,7 +215,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "mount-targon"
+        "releaseDate": 2019,
+        "region": "mount-targon",
+        "lane": "bottom"
     },
     {
         "id": "Ashe",
@@ -217,7 +237,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "freljord"
+        "releaseDate": 2009,
+        "region": "freljord",
+        "lane": "bottom,support"
     },
     {
         "id": "AurelionSol",
@@ -237,7 +259,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "mount-targon"
+        "releaseDate": 2016,
+        "region": "mount-targon",
+        "lane": "mid"
     },
     {
         "id": "Aurora",
@@ -257,7 +281,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "freljord"
+        "releaseDate": 2024,
+        "region": "freljord",
+        "lane": "top,mid"
     },
     {
         "id": "Azir",
@@ -277,7 +303,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "shurima"
+        "releaseDate": 2014,
+        "region": "shurima",
+        "lane": "mid"
     },
     {
         "id": "Bard",
@@ -297,7 +325,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2015,
+        "region": "runeterra",
+        "lane": "support"
     },
     {
         "id": "Belveth",
@@ -317,7 +347,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "void"
+        "releaseDate": 2022,
+        "region": "void",
+        "lane": "jungle"
     },
     {
         "id": "Blitzcrank",
@@ -337,7 +369,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "zaun"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "support"
     },
     {
         "id": "Brand",
@@ -357,7 +391,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2011,
+        "region": "runeterra",
+        "lane": "jungle,support"
     },
     {
         "id": "Braum",
@@ -377,7 +413,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2014,
+        "region": "freljord",
+        "lane": "support"
     },
     {
         "id": "Briar",
@@ -397,7 +435,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2023,
+        "region": "noxus",
+        "lane": "jungle"
     },
     {
         "id": "Caitlyn",
@@ -417,7 +457,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "piltover"
+        "releaseDate": 2011,
+        "region": "piltover",
+        "lane": "bottom"
     },
     {
         "id": "Camille",
@@ -437,7 +479,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "piltover"
+        "releaseDate": 2016,
+        "region": "piltover",
+        "lane": "top"
     },
     {
         "id": "Cassiopeia",
@@ -457,7 +501,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "noxus"
+        "releaseDate": 2010,
+        "region": "noxus",
+        "lane": "mid"
     },
     {
         "id": "Chogath",
@@ -477,7 +523,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "void"
+        "releaseDate": 2009,
+        "region": "void",
+        "lane": "top"
     },
     {
         "id": "Corki",
@@ -497,7 +545,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "bandle-city"
+        "releaseDate": 2009,
+        "region": "bandle-city",
+        "lane": "mid"
     },
     {
         "id": "Darius",
@@ -517,7 +567,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2012,
+        "region": "noxus",
+        "lane": "top"
     },
     {
         "id": "Diana",
@@ -537,7 +589,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "mount-targon"
+        "releaseDate": 2012,
+        "region": "mount-targon",
+        "lane": "jungle,mid"
     },
     {
         "id": "DrMundo",
@@ -557,7 +611,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "zaun"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "top"
     },
     {
         "id": "Draven",
@@ -575,9 +631,11 @@
             "w": 48,
             "h": 48
         },
-        "gender": "male",
+        "gender": "divers",
         "attackType": "range",
-        "region": "noxus"
+        "releaseDate": 2012,
+        "region": "noxus",
+        "lane": "bottom"
     },
     {
         "id": "Ekko",
@@ -597,7 +655,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "zaun"
+        "releaseDate": 2015,
+        "region": "zaun",
+        "lane": "jungle,mid"
     },
     {
         "id": "Elise",
@@ -617,7 +677,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "shadow-isles"
+        "releaseDate": 2012,
+        "region": "shadow-isles",
+        "lane": "jungle"
     },
     {
         "id": "Evelynn",
@@ -637,7 +699,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "jungle"
     },
     {
         "id": "Ezreal",
@@ -657,7 +721,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "piltover"
+        "releaseDate": 2010,
+        "region": "piltover",
+        "lane": "bottom"
     },
     {
         "id": "Fiddlesticks",
@@ -677,7 +743,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "jungle"
     },
     {
         "id": "Fiora",
@@ -697,7 +765,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2012,
+        "region": "demacia",
+        "lane": "top"
     },
     {
         "id": "Fizz",
@@ -717,7 +787,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "bilgewater"
+        "releaseDate": 2011,
+        "region": "bilgewater",
+        "lane": "mid"
     },
     {
         "id": "Galio",
@@ -737,7 +809,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2010,
+        "region": "demacia",
+        "lane": "mid"
     },
     {
         "id": "Gangplank",
@@ -757,7 +831,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "bilgewater"
+        "releaseDate": 2009,
+        "region": "bilgewater",
+        "lane": "top"
     },
     {
         "id": "Garen",
@@ -777,7 +853,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2010,
+        "region": "demacia",
+        "lane": "top"
     },
     {
         "id": "Gnar",
@@ -797,7 +875,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2014,
+        "region": "freljord",
+        "lane": "top"
     },
     {
         "id": "Gragas",
@@ -817,7 +897,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2010,
+        "region": "freljord",
+        "lane": "jungle"
     },
     {
         "id": "Graves",
@@ -837,7 +919,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "bilgewater"
+        "releaseDate": 2011,
+        "region": "bilgewater",
+        "lane": "jungle"
     },
     {
         "id": "Gwen",
@@ -857,7 +941,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "shadow-isles"
+        "releaseDate": 2021,
+        "region": "shadow-isles",
+        "lane": "top"
     },
     {
         "id": "Hecarim",
@@ -877,7 +963,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shadow-isles"
+        "releaseDate": 2012,
+        "region": "shadow-isles",
+        "lane": "jungle"
     },
     {
         "id": "Heimerdinger",
@@ -897,7 +985,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "piltover"
+        "releaseDate": 2009,
+        "region": "piltover",
+        "lane": "support"
     },
     {
         "id": "Hwei",
@@ -917,7 +1007,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "ionia"
+        "releaseDate": 2023,
+        "region": "ionia",
+        "lane": "mid,support"
     },
     {
         "id": "Illaoi",
@@ -937,7 +1029,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "bilgewater"
+        "releaseDate": 2015,
+        "region": "bilgewater",
+        "lane": "top"
     },
     {
         "id": "Irelia",
@@ -957,7 +1051,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2010,
+        "region": "ionia",
+        "lane": "top,mid"
     },
     {
         "id": "Ivern",
@@ -977,7 +1073,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2016,
+        "region": "ionia",
+        "lane": "jungle"
     },
     {
         "id": "Janna",
@@ -997,7 +1095,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "zaun"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "support"
     },
     {
         "id": "JarvanIV",
@@ -1017,7 +1117,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2011,
+        "region": "demacia",
+        "lane": "jungle"
     },
     {
         "id": "Jax",
@@ -1037,7 +1139,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "top,jungle"
     },
     {
         "id": "Jayce",
@@ -1057,7 +1161,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "piltover"
+        "releaseDate": 2012,
+        "region": "piltover",
+        "lane": "top"
     },
     {
         "id": "Jhin",
@@ -1077,7 +1183,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "ionia"
+        "releaseDate": 2016,
+        "region": "ionia",
+        "lane": "bottom"
     },
     {
         "id": "Jinx",
@@ -1097,7 +1205,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "zaun"
+        "releaseDate": 2013,
+        "region": "zaun",
+        "lane": "bottom"
     },
     {
         "id": "KSante",
@@ -1117,7 +1227,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shurima"
+        "releaseDate": 2022,
+        "region": "shurima",
+        "lane": "top"
     },
     {
         "id": "Kaisa",
@@ -1137,7 +1249,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "void"
+        "releaseDate": 2018,
+        "region": "void",
+        "lane": "bottom"
     },
     {
         "id": "Kalista",
@@ -1157,7 +1271,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "shadow-isles"
+        "releaseDate": 2014,
+        "region": "shadow-isles",
+        "lane": "bottom"
     },
     {
         "id": "Karma",
@@ -1177,7 +1293,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ionia"
+        "releaseDate": 2011,
+        "region": "ionia",
+        "lane": "mid,support"
     },
     {
         "id": "Karthus",
@@ -1197,7 +1315,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shadow-isles"
+        "releaseDate": 2009,
+        "region": "shadow-isles",
+        "lane": "jungle"
     },
     {
         "id": "Kassadin",
@@ -1217,7 +1337,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "void"
+        "releaseDate": 2009,
+        "region": "void",
+        "lane": "mid"
     },
     {
         "id": "Katarina",
@@ -1237,7 +1359,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2009,
+        "region": "noxus",
+        "lane": "mid"
     },
     {
         "id": "Kayle",
@@ -1257,7 +1381,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2009,
+        "region": "demacia",
+        "lane": "top"
     },
     {
         "id": "Kayn",
@@ -1277,7 +1403,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2017,
+        "region": "ionia",
+        "lane": "jungle"
     },
     {
         "id": "Kennen",
@@ -1297,7 +1425,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "ionia"
+        "releaseDate": 2010,
+        "region": "ionia",
+        "lane": "top"
     },
     {
         "id": "Khazix",
@@ -1317,7 +1447,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "void"
+        "releaseDate": 2012,
+        "region": "void",
+        "lane": "jungle"
     },
     {
         "id": "Kindred",
@@ -1337,7 +1469,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2015,
+        "region": "runeterra",
+        "lane": "jungle"
     },
     {
         "id": "Kled",
@@ -1357,7 +1491,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2016,
+        "region": "noxus",
+        "lane": "top"
     },
     {
         "id": "KogMaw",
@@ -1377,7 +1513,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "void"
+        "releaseDate": 2010,
+        "region": "void",
+        "lane": "bottom"
     },
     {
         "id": "Leblanc",
@@ -1397,7 +1535,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "noxus"
+        "releaseDate": 2010,
+        "region": "noxus",
+        "lane": "mid"
     },
     {
         "id": "LeeSin",
@@ -1417,7 +1557,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2011,
+        "region": "ionia",
+        "lane": "jungle"
     },
     {
         "id": "Leona",
@@ -1437,7 +1579,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "mount-targon"
+        "releaseDate": 2011,
+        "region": "mount-targon",
+        "lane": "support"
     },
     {
         "id": "Lillia",
@@ -1457,7 +1601,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2020,
+        "region": "ionia",
+        "lane": "jungle"
     },
     {
         "id": "Lissandra",
@@ -1477,7 +1623,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "freljord"
+        "releaseDate": 2013,
+        "region": "freljord",
+        "lane": "mid"
     },
     {
         "id": "Lucian",
@@ -1497,7 +1645,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "demacia"
+        "releaseDate": 2013,
+        "region": "demacia",
+        "lane": "bottom"
     },
     {
         "id": "Lulu",
@@ -1517,7 +1667,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "bandle-city"
+        "releaseDate": 2012,
+        "region": "bandle-city",
+        "lane": "support"
     },
     {
         "id": "Lux",
@@ -1537,7 +1689,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "demacia"
+        "releaseDate": 2010,
+        "region": "demacia",
+        "lane": "mid,support"
     },
     {
         "id": "Malphite",
@@ -1557,7 +1711,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ixtal"
+        "releaseDate": 2009,
+        "region": "ixtal",
+        "lane": "top"
     },
     {
         "id": "Malzahar",
@@ -1577,7 +1733,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "void"
+        "releaseDate": 2010,
+        "region": "void",
+        "lane": "mid"
     },
     {
         "id": "Maokai",
@@ -1597,7 +1755,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shadow-isles"
+        "releaseDate": 2011,
+        "region": "shadow-isles",
+        "lane": "support"
     },
     {
         "id": "MasterYi",
@@ -1617,7 +1777,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2009,
+        "region": "ionia",
+        "lane": "jungle"
     },
     {
         "id": "Mel",
@@ -1637,7 +1799,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "noxus"
+        "releaseDate": 2025,
+        "region": "noxus",
+        "lane": "mid"
     },
     {
         "id": "Milio",
@@ -1657,7 +1821,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "ixtal"
+        "releaseDate": 2023,
+        "region": "ixtal",
+        "lane": "support"
     },
     {
         "id": "MissFortune",
@@ -1677,7 +1843,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "bilgewater"
+        "releaseDate": 2010,
+        "region": "bilgewater",
+        "lane": "bottom"
     },
     {
         "id": "Mordekaiser",
@@ -1697,7 +1865,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2010,
+        "region": "noxus",
+        "lane": "top"
     },
     {
         "id": "Morgana",
@@ -1717,7 +1887,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2009,
+        "region": "demacia",
+        "lane": "support"
     },
     {
         "id": "Naafiri",
@@ -1737,7 +1909,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "shurima"
+        "releaseDate": 2023,
+        "region": "shurima",
+        "lane": "mid"
     },
     {
         "id": "Nami",
@@ -1757,7 +1931,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2012,
+        "region": "runeterra",
+        "lane": "support"
     },
     {
         "id": "Nasus",
@@ -1777,7 +1953,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shurima"
+        "releaseDate": 2009,
+        "region": "shurima",
+        "lane": "top"
     },
     {
         "id": "Nautilus",
@@ -1797,7 +1975,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "bilgewater"
+        "releaseDate": 2012,
+        "region": "bilgewater",
+        "lane": "support"
     },
     {
         "id": "Neeko",
@@ -1817,7 +1997,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ixtal"
+        "releaseDate": 2018,
+        "region": "ixtal",
+        "lane": "mid,support"
     },
     {
         "id": "Nidalee",
@@ -1837,7 +2019,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ixtal"
+        "releaseDate": 2009,
+        "region": "ixtal",
+        "lane": "jungle"
     },
     {
         "id": "Nilah",
@@ -1857,7 +2041,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2022,
+        "region": "runeterra",
+        "lane": "bottom"
     },
     {
         "id": "Nocturne",
@@ -1877,7 +2063,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2011,
+        "region": "runeterra",
+        "lane": "jungle"
     },
     {
         "id": "Nunu",
@@ -1897,7 +2085,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2009,
+        "region": "freljord",
+        "lane": "jungle"
     },
     {
         "id": "Olaf",
@@ -1917,7 +2107,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2010,
+        "region": "freljord",
+        "lane": "top"
     },
     {
         "id": "Orianna",
@@ -1937,7 +2129,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "piltover"
+        "releaseDate": 2011,
+        "region": "piltover",
+        "lane": "mid"
     },
     {
         "id": "Ornn",
@@ -1957,7 +2151,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2017,
+        "region": "freljord",
+        "lane": "top"
     },
     {
         "id": "Pantheon",
@@ -1977,7 +2173,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "mount-targon"
+        "releaseDate": 2010,
+        "region": "mount-targon",
+        "lane": "top,support"
     },
     {
         "id": "Poppy",
@@ -1997,7 +2195,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2010,
+        "region": "demacia",
+        "lane": "top,jungle"
     },
     {
         "id": "Pyke",
@@ -2017,7 +2217,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "bilgewater"
+        "releaseDate": 2018,
+        "region": "bilgewater",
+        "lane": "support"
     },
     {
         "id": "Qiyana",
@@ -2037,7 +2239,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "ixtal"
+        "releaseDate": 2019,
+        "region": "ixtal",
+        "lane": "mid"
     },
     {
         "id": "Quinn",
@@ -2057,7 +2261,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "demacia"
+        "releaseDate": 2013,
+        "region": "demacia",
+        "lane": "top"
     },
     {
         "id": "Rakan",
@@ -2077,7 +2283,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2017,
+        "region": "ionia",
+        "lane": "support"
     },
     {
         "id": "Rammus",
@@ -2097,7 +2305,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shurima"
+        "releaseDate": 2009,
+        "region": "shurima",
+        "lane": "jungle"
     },
     {
         "id": "RekSai",
@@ -2117,7 +2327,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "void"
+        "releaseDate": 2014,
+        "region": "void",
+        "lane": "jungle"
     },
     {
         "id": "Rell",
@@ -2137,7 +2349,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2020,
+        "region": "noxus",
+        "lane": "support"
     },
     {
         "id": "Renata",
@@ -2157,7 +2371,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "zaun"
+        "releaseDate": 2022,
+        "region": "zaun",
+        "lane": "support"
     },
     {
         "id": "Renekton",
@@ -2177,7 +2393,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shurima"
+        "releaseDate": 2011,
+        "region": "shurima",
+        "lane": "top"
     },
     {
         "id": "Rengar",
@@ -2197,7 +2415,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ixtal"
+        "releaseDate": 2012,
+        "region": "ixtal",
+        "lane": "jungle"
     },
     {
         "id": "Riven",
@@ -2217,7 +2437,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2011,
+        "region": "noxus",
+        "lane": "top"
     },
     {
         "id": "Rumble",
@@ -2237,7 +2459,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "bandle-city"
+        "releaseDate": 2011,
+        "region": "bandle-city",
+        "lane": "top"
     },
     {
         "id": "Ryze",
@@ -2257,7 +2481,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "mid"
     },
     {
         "id": "Samira",
@@ -2277,7 +2503,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "noxus"
+        "releaseDate": 2020,
+        "region": "noxus",
+        "lane": "bottom"
     },
     {
         "id": "Sejuani",
@@ -2297,7 +2525,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2012,
+        "region": "freljord",
+        "lane": "jungle"
     },
     {
         "id": "Senna",
@@ -2317,7 +2547,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2019,
+        "region": "runeterra",
+        "lane": "bottom,support"
     },
     {
         "id": "Seraphine",
@@ -2337,7 +2569,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "piltover"
+        "releaseDate": 2020,
+        "region": "piltover",
+        "lane": "bottom,support"
     },
     {
         "id": "Sett",
@@ -2357,7 +2591,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2020,
+        "region": "ionia",
+        "lane": "top"
     },
     {
         "id": "Shaco",
@@ -2377,7 +2613,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "jungle"
     },
     {
         "id": "Shen",
@@ -2397,7 +2635,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2010,
+        "region": "ionia",
+        "lane": "top"
     },
     {
         "id": "Shyvana",
@@ -2417,7 +2657,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2011,
+        "region": "demacia",
+        "lane": "jungle"
     },
     {
         "id": "Singed",
@@ -2437,7 +2679,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "zaun"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "top"
     },
     {
         "id": "Sion",
@@ -2457,7 +2701,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2009,
+        "region": "noxus",
+        "lane": "top"
     },
     {
         "id": "Sivir",
@@ -2477,7 +2723,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "shurima"
+        "releaseDate": 2009,
+        "region": "shurima",
+        "lane": "bottom"
     },
     {
         "id": "Skarner",
@@ -2497,7 +2745,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ixtal"
+        "releaseDate": 2011,
+        "region": "ixtal",
+        "lane": "top,jungle"
     },
     {
         "id": "Smolder",
@@ -2517,7 +2767,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2024,
+        "region": "runeterra",
+        "lane": "bottom"
     },
     {
         "id": "Sona",
@@ -2537,7 +2789,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "demacia"
+        "releaseDate": 2010,
+        "region": "demacia",
+        "lane": "support"
     },
     {
         "id": "Soraka",
@@ -2557,7 +2811,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "mount-targon"
+        "releaseDate": 2009,
+        "region": "mount-targon",
+        "lane": "support"
     },
     {
         "id": "Swain",
@@ -2577,7 +2833,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "noxus"
+        "releaseDate": 2010,
+        "region": "noxus",
+        "lane": "support"
     },
     {
         "id": "Sylas",
@@ -2597,7 +2855,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2019,
+        "region": "demacia",
+        "lane": "mid"
     },
     {
         "id": "Syndra",
@@ -2617,7 +2877,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ionia"
+        "releaseDate": 2012,
+        "region": "ionia",
+        "lane": "mid"
     },
     {
         "id": "TahmKench",
@@ -2637,7 +2899,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "bilgewater"
+        "releaseDate": 2015,
+        "region": "bilgewater",
+        "lane": "top"
     },
     {
         "id": "Taliyah",
@@ -2657,7 +2921,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "shurima"
+        "releaseDate": 2016,
+        "region": "shurima",
+        "lane": "jungle"
     },
     {
         "id": "Talon",
@@ -2677,7 +2943,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2011,
+        "region": "noxus",
+        "lane": "mid"
     },
     {
         "id": "Taric",
@@ -2697,7 +2965,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "mount-targon"
+        "releaseDate": 2009,
+        "region": "mount-targon",
+        "lane": "support"
     },
     {
         "id": "Teemo",
@@ -2717,7 +2987,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "bandle-city"
+        "releaseDate": 2009,
+        "region": "bandle-city",
+        "lane": "top"
     },
     {
         "id": "Thresh",
@@ -2737,7 +3009,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shadow-isles"
+        "releaseDate": 2013,
+        "region": "shadow-isles",
+        "lane": "support"
     },
     {
         "id": "Tristana",
@@ -2757,7 +3031,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "bandle-city"
+        "releaseDate": 2009,
+        "region": "bandle-city",
+        "lane": "bottom"
     },
     {
         "id": "Trundle",
@@ -2777,7 +3053,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2010,
+        "region": "freljord",
+        "lane": "top"
     },
     {
         "id": "Tryndamere",
@@ -2797,7 +3075,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2009,
+        "region": "freljord",
+        "lane": "top"
     },
     {
         "id": "TwistedFate",
@@ -2817,7 +3097,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "bilgewater"
+        "releaseDate": 2009,
+        "region": "bilgewater",
+        "lane": "mid,bottom"
     },
     {
         "id": "Twitch",
@@ -2837,7 +3119,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "zaun"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "bottom"
     },
     {
         "id": "Udyr",
@@ -2857,7 +3141,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2009,
+        "region": "freljord",
+        "lane": "top,jungle"
     },
     {
         "id": "Urgot",
@@ -2877,7 +3163,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "zaun"
+        "releaseDate": 2010,
+        "region": "zaun",
+        "lane": "top"
     },
     {
         "id": "Varus",
@@ -2897,7 +3185,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "ionia"
+        "releaseDate": 2012,
+        "region": "ionia",
+        "lane": "bottom"
     },
     {
         "id": "Vayne",
@@ -2917,7 +3207,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "demacia"
+        "releaseDate": 2011,
+        "region": "demacia",
+        "lane": "bottom"
     },
     {
         "id": "Veigar",
@@ -2937,7 +3229,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "bandle-city"
+        "releaseDate": 2009,
+        "region": "bandle-city",
+        "lane": "mid"
     },
     {
         "id": "Velkoz",
@@ -2957,7 +3251,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "void"
+        "releaseDate": 2014,
+        "region": "void",
+        "lane": "support"
     },
     {
         "id": "Vex",
@@ -2977,7 +3273,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "shadow-isles"
+        "releaseDate": 2021,
+        "region": "shadow-isles",
+        "lane": "mid"
     },
     {
         "id": "Vi",
@@ -2997,7 +3295,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "piltover"
+        "releaseDate": 2012,
+        "region": "piltover",
+        "lane": "jungle"
     },
     {
         "id": "Viego",
@@ -3017,7 +3317,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shadow-isles"
+        "releaseDate": 2021,
+        "region": "shadow-isles",
+        "lane": "jungle"
     },
     {
         "id": "Viktor",
@@ -3037,7 +3339,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "zaun"
+        "releaseDate": 2011,
+        "region": "zaun",
+        "lane": "mid"
     },
     {
         "id": "Vladimir",
@@ -3057,7 +3361,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "noxus"
+        "releaseDate": 2010,
+        "region": "noxus",
+        "lane": "mid"
     },
     {
         "id": "Volibear",
@@ -3077,7 +3383,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "freljord"
+        "releaseDate": 2011,
+        "region": "freljord",
+        "lane": "top"
     },
     {
         "id": "Warwick",
@@ -3097,7 +3405,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "zaun"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "jungle"
     },
     {
         "id": "MonkeyKing",
@@ -3117,7 +3427,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2011,
+        "region": "ionia",
+        "lane": "jungle"
     },
     {
         "id": "Xayah",
@@ -3137,7 +3449,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ionia"
+        "releaseDate": 2017,
+        "region": "ionia",
+        "lane": "bottom"
     },
     {
         "id": "Xerath",
@@ -3157,7 +3471,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "shurima"
+        "releaseDate": 2011,
+        "region": "shurima",
+        "lane": "mid,support"
     },
     {
         "id": "XinZhao",
@@ -3177,7 +3493,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "demacia"
+        "releaseDate": 2010,
+        "region": "demacia",
+        "lane": "jungle"
     },
     {
         "id": "Yasuo",
@@ -3197,7 +3515,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2013,
+        "region": "ionia",
+        "lane": "top,mid,bottom"
     },
     {
         "id": "Yone",
@@ -3217,7 +3537,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2020,
+        "region": "ionia",
+        "lane": "top,mid"
     },
     {
         "id": "Yorick",
@@ -3237,7 +3559,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "shadow-isles"
+        "releaseDate": 2011,
+        "region": "shadow-isles",
+        "lane": "top"
     },
     {
         "id": "Yunara",
@@ -3277,7 +3601,9 @@
         },
         "gender": "female",
         "attackType": "close",
-        "region": "bandle-city"
+        "releaseDate": 2019,
+        "region": "bandle-city",
+        "lane": "support"
     },
     {
         "id": "Zaahen",
@@ -3317,7 +3643,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "zaun"
+        "releaseDate": 2013,
+        "region": "zaun",
+        "lane": "jungle"
     },
     {
         "id": "Zed",
@@ -3337,7 +3665,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "ionia"
+        "releaseDate": 2012,
+        "region": "ionia",
+        "lane": "mid"
     },
     {
         "id": "Zeri",
@@ -3357,7 +3687,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "zaun"
+        "releaseDate": 2022,
+        "region": "zaun",
+        "lane": "bottom"
     },
     {
         "id": "Ziggs",
@@ -3377,7 +3709,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "zaun"
+        "releaseDate": 2012,
+        "region": "zaun",
+        "lane": "bottom"
     },
     {
         "id": "Zilean",
@@ -3397,7 +3731,9 @@
         },
         "gender": "male",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "support"
     },
     {
         "id": "Zoe",
@@ -3417,7 +3753,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "mount-targon"
+        "releaseDate": 2017,
+        "region": "mount-targon",
+        "lane": "mid"
     },
     {
         "id": "Zyra",
@@ -3437,6 +3775,8 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "ixtal"
+        "releaseDate": 2012,
+        "region": "ixtal",
+        "lane": "support"
     }
 ]

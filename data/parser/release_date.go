@@ -2,26 +2,17 @@ package parser
 
 import (
 	"fmt"
-	"net/http"
 	"strconv"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
 )
 
-const wikiChampionListURL = "https://leagueoflegends.fandom.com/wiki/List_of_champions"
-
-// EnrichReleaseDates scrapes the LoL Wiki to add release year to each champion.
+// EnrichReleaseDates fetches the LoL Wiki to add release year to each champion.
 func EnrichReleaseDates(champions []ChampionResult) ([]ChampionResult, error) {
-	resp, err := http.Get(wikiChampionListURL)
+	doc, err := fetchWikiDoc("List_of_champions")
 	if err != nil {
 		return nil, fmt.Errorf("fetching wiki champion list: %w", err)
-	}
-	defer resp.Body.Close()
-
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		return nil, fmt.Errorf("parsing wiki HTML: %w", err)
 	}
 
 	// Build a name-to-index map for O(1) lookups.

@@ -20,14 +20,23 @@ func TestDdragonAPI(t *testing.T) {
 	}
 }
 
-func TestWikiDraftPosition(t *testing.T) {
-	resp, err := http.Get(wikiDraftPositionURL)
+func TestWikiAPIChampionList(t *testing.T) {
+	doc, err := fetchWikiDoc("List_of_champions")
 	if err != nil {
-		t.Fatalf("request failed: %v", err)
+		t.Fatalf("fetch failed: %v", err)
 	}
-	defer resp.Body.Close()
-	if resp.StatusCode != http.StatusOK {
-		t.Fatalf("expected 200, got %d", resp.StatusCode)
+	if doc.Find("tbody").Length() == 0 {
+		t.Fatal("expected at least one tbody in champion list")
+	}
+}
+
+func TestWikiAPIDraftPosition(t *testing.T) {
+	doc, err := fetchWikiDoc("List_of_champions_by_draft_position")
+	if err != nil {
+		t.Fatalf("fetch failed: %v", err)
+	}
+	if doc.Find("tbody").Length() < 2 {
+		t.Fatal("expected at least two tbody in draft position page")
 	}
 }
 
@@ -44,16 +53,5 @@ func TestRegionAPI(t *testing.T) {
 	ct := resp.Header.Get("Content-Type")
 	if ct != "application/json" {
 		t.Fatalf("expected application/json, got %s", ct)
-	}
-}
-
-func TestWikiChampionList(t *testing.T) {
-	resp, err := http.Get(wikiChampionListURL)
-	if err != nil {
-		t.Fatalf("request failed: %v", err)
-	}
-	defer resp.Body.Close()
-	if resp.StatusCode != http.StatusOK {
-		t.Fatalf("expected 200, got %d", resp.StatusCode)
 	}
 }
