@@ -9,7 +9,8 @@ export async function loadChampions() {
   if (loadPromise) return loadPromise;
 
   loadPromise = (async () => {
-    const response = await fetch(`/loldle/champions.json`);
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+    const response = await fetch(`${basePath}/champions.json`);
     if (!response.ok) {
       loadPromise = null;
       throw new Error(`Failed to load champions: ${response.status}`);
