@@ -11,7 +11,13 @@ import (
 )
 
 func main() {
-	champions, err := parser.ParseChampions(championsVersion)
+	version, err := getChampionsVersion()
+	if err != nil {
+		log.Fatalf("Failed to get champions version: %v", err)
+	}
+	fmt.Printf("Using champions version: %s\n", version)
+
+	champions, err := parser.ParseChampions(version)
 	if err != nil {
 		log.Fatalf("Failed to parse champions: %v", err)
 	}
