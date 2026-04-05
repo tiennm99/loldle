@@ -5,7 +5,7 @@
         "title": "the Darkin Blade",
         "resource": "Blood Well",
         "genre": "Fighter",
-        "skinCount": 13,
+        "skinCount": 41,
         "image": {
             "full": "Aatrox.png",
             "sprite": "champion0.png",
@@ -27,7 +27,7 @@
         "title": "the Nine-Tailed Fox",
         "resource": "Mana",
         "genre": "Mage,Assassin",
-        "skinCount": 22,
+        "skinCount": 95,
         "image": {
             "full": "Ahri.png",
             "sprite": "champion0.png",
@@ -49,7 +49,7 @@
         "title": "the Rogue Assassin",
         "resource": "Energy",
         "genre": "Assassin",
-        "skinCount": 22,
+        "skinCount": 101,
         "image": {
             "full": "Akali.png",
             "sprite": "champion0.png",
@@ -71,7 +71,7 @@
         "title": "the Rogue Sentinel",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 4,
+        "skinCount": 21,
         "image": {
             "full": "Akshan.png",
             "sprite": "champion0.png",
@@ -93,7 +93,7 @@
         "title": "the Minotaur",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 16,
+        "skinCount": 46,
         "image": {
             "full": "Alistar.png",
             "sprite": "champion0.png",
@@ -115,7 +115,7 @@
         "title": "Matriarch of War",
         "resource": "Energy",
         "genre": "Fighter,Assassin",
-        "skinCount": 2,
+        "skinCount": 8,
         "image": {
             "full": "Ambessa.png",
             "sprite": "champion0.png",
@@ -137,7 +137,7 @@
         "title": "the Sad Mummy",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 15,
+        "skinCount": 62,
         "image": {
             "full": "Amumu.png",
             "sprite": "champion0.png",
@@ -159,7 +159,7 @@
         "title": "the Cryophoenix",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 13,
+        "skinCount": 55,
         "image": {
             "full": "Anivia.png",
             "sprite": "champion0.png",
@@ -181,7 +181,7 @@
         "title": "the Dark Child",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 18,
+        "skinCount": 58,
         "image": {
             "full": "Annie.png",
             "sprite": "champion0.png",
@@ -203,7 +203,7 @@
         "title": "the Weapon of the Faithful",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 7,
+        "skinCount": 40,
         "image": {
             "full": "Aphelios.png",
             "sprite": "champion0.png",
@@ -225,7 +225,7 @@
         "title": "the Frost Archer",
         "resource": "Mana",
         "genre": "Marksman,Support",
-        "skinCount": 20,
+        "skinCount": 93,
         "image": {
             "full": "Ashe.png",
             "sprite": "champion0.png",
@@ -247,7 +247,7 @@
         "title": "The Star Forger",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 6,
+        "skinCount": 38,
         "image": {
             "full": "AurelionSol.png",
             "sprite": "champion0.png",
@@ -269,7 +269,7 @@
         "title": "the Witch Between Worlds",
         "resource": "Mana",
         "genre": "Mage,Assassin",
-        "skinCount": 3,
+        "skinCount": 20,
         "image": {
             "full": "Aurora.png",
             "sprite": "champion0.png",
@@ -291,7 +291,7 @@
         "title": "the Emperor of the Sands",
         "resource": "Mana",
         "genre": "Mage,Marksman",
-        "skinCount": 8,
+        "skinCount": 28,
         "image": {
             "full": "Azir.png",
             "sprite": "champion0.png",
@@ -313,7 +313,7 @@
         "title": "the Wandering Caretaker",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 9,
+        "skinCount": 46,
         "image": {
             "full": "Bard.png",
             "sprite": "champion0.png",
@@ -335,7 +335,7 @@
         "title": "the Empress of the Void",
         "resource": "",
         "genre": "Fighter",
-        "skinCount": 4,
+        "skinCount": 29,
         "image": {
             "full": "Belveth.png",
             "sprite": "champion0.png",
@@ -357,7 +357,7 @@
         "title": "the Great Steam Golem",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 16,
+        "skinCount": 74,
         "image": {
             "full": "Blitzcrank.png",
             "sprite": "champion0.png",
@@ -379,7 +379,7 @@
         "title": "the Burning Vengeance",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 13,
+        "skinCount": 53,
         "image": {
             "full": "Brand.png",
             "sprite": "champion0.png",
@@ -401,7 +401,7 @@
         "title": "the Heart of the Freljord",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 9,
+        "skinCount": 51,
         "image": {
             "full": "Braum.png",
             "sprite": "champion0.png",
@@ -423,7 +423,7 @@
         "title": "the Restrained Hunger",
         "resource": "Fury",
         "genre": "Fighter,Assassin",
-        "skinCount": 4,
+        "skinCount": 29,
         "image": {
             "full": "Briar.png",
             "sprite": "champion0.png",
@@ -445,7 +445,7 @@
         "title": "the Sheriff of Piltover",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 20,
+        "skinCount": 63,
         "image": {
             "full": "Caitlyn.png",
             "sprite": "champion0.png",
@@ -467,7 +467,7 @@
         "title": "the Steel Shadow",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 8,
+        "skinCount": 53,
         "image": {
             "full": "Camille.png",
             "sprite": "champion0.png",
@@ -489,7 +489,7 @@
         "title": "the Serpent's Embrace",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 10,
+        "skinCount": 38,
         "image": {
             "full": "Cassiopeia.png",
             "sprite": "champion0.png",
@@ -511,7 +511,7 @@
         "title": "the Terror of the Void",
         "resource": "Mana",
         "genre": "Tank,Mage",
-        "skinCount": 12,
+        "skinCount": 42,
         "image": {
             "full": "Chogath.png",
             "sprite": "champion0.png",
@@ -533,7 +533,7 @@
         "title": "the Daring Bombardier",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 12,
+        "skinCount": 45,
         "image": {
             "full": "Corki.png",
             "sprite": "champion0.png",
@@ -555,7 +555,7 @@
         "title": "the Hand of Noxus",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 16,
+        "skinCount": 73,
         "image": {
             "full": "Darius.png",
             "sprite": "champion0.png",
@@ -577,7 +577,7 @@
         "title": "Scorn of the Moon",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 15,
+        "skinCount": 75,
         "image": {
             "full": "Diana.png",
             "sprite": "champion0.png",
@@ -599,7 +599,7 @@
         "title": "the Madman of Zaun",
         "resource": "None",
         "genre": "Tank,Fighter",
-        "skinCount": 12,
+        "skinCount": 30,
         "image": {
             "full": "DrMundo.png",
             "sprite": "champion0.png",
@@ -621,7 +621,7 @@
         "title": "the Glorious Executioner",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 15,
+        "skinCount": 78,
         "image": {
             "full": "Draven.png",
             "sprite": "champion0.png",
@@ -643,7 +643,7 @@
         "title": "the Boy Who Shattered Time",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 13,
+        "skinCount": 59,
         "image": {
             "full": "Ekko.png",
             "sprite": "champion0.png",
@@ -665,7 +665,7 @@
         "title": "the Spider Queen",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 10,
+        "skinCount": 36,
         "image": {
             "full": "Elise.png",
             "sprite": "champion1.png",
@@ -687,7 +687,7 @@
         "title": "Agony's Embrace",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 17,
+        "skinCount": 65,
         "image": {
             "full": "Evelynn.png",
             "sprite": "champion1.png",
@@ -709,7 +709,7 @@
         "title": "the Prodigal Explorer",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 22,
+        "skinCount": 75,
         "image": {
             "full": "Ezreal.png",
             "sprite": "champion1.png",
@@ -731,7 +731,7 @@
         "title": "the Ancient Fear",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 13,
+        "skinCount": 55,
         "image": {
             "full": "Fiddlesticks.png",
             "sprite": "champion1.png",
@@ -753,7 +753,7 @@
         "title": "the Grand Duelist",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 17,
+        "skinCount": 100,
         "image": {
             "full": "Fiora.png",
             "sprite": "champion1.png",
@@ -775,7 +775,7 @@
         "title": "the Tidal Trickster",
         "resource": "Mana",
         "genre": "Assassin,Fighter",
-        "skinCount": 14,
+        "skinCount": 44,
         "image": {
             "full": "Fizz.png",
             "sprite": "champion1.png",
@@ -797,7 +797,7 @@
         "title": "the Colossus",
         "resource": "Mana",
         "genre": "Tank,Mage",
-        "skinCount": 11,
+        "skinCount": 47,
         "image": {
             "full": "Galio.png",
             "sprite": "champion1.png",
@@ -819,7 +819,7 @@
         "title": "the Saltwater Scourge",
         "resource": "Mana",
         "genre": "Fighter",
-        "skinCount": 13,
+        "skinCount": 42,
         "image": {
             "full": "Gangplank.png",
             "sprite": "champion1.png",
@@ -841,7 +841,7 @@
         "title": "The Might of Demacia",
         "resource": "None",
         "genre": "Fighter,Tank",
-        "skinCount": 17,
+        "skinCount": 55,
         "image": {
             "full": "Garen.png",
             "sprite": "champion1.png",
@@ -863,7 +863,7 @@
         "title": "the Missing Link",
         "resource": "Rage",
         "genre": "Fighter,Tank",
-        "skinCount": 11,
+        "skinCount": 44,
         "image": {
             "full": "Gnar.png",
             "sprite": "champion1.png",
@@ -885,7 +885,7 @@
         "title": "the Rabble Rouser",
         "resource": "Mana",
         "genre": "Fighter,Mage",
-        "skinCount": 15,
+        "skinCount": 48,
         "image": {
             "full": "Gragas.png",
             "sprite": "champion1.png",
@@ -907,7 +907,7 @@
         "title": "the Outlaw",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 14,
+        "skinCount": 54,
         "image": {
             "full": "Graves.png",
             "sprite": "champion1.png",
@@ -929,7 +929,7 @@
         "title": "The Hallowed Seamstress",
         "resource": "Mana",
         "genre": "Fighter",
-        "skinCount": 6,
+        "skinCount": 48,
         "image": {
             "full": "Gwen.png",
             "sprite": "champion1.png",
@@ -951,7 +951,7 @@
         "title": "the Shadow of War",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 13,
+        "skinCount": 50,
         "image": {
             "full": "Hecarim.png",
             "sprite": "champion1.png",
@@ -973,7 +973,7 @@
         "title": "the Revered Inventor",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 10,
+        "skinCount": 27,
         "image": {
             "full": "Heimerdinger.png",
             "sprite": "champion1.png",
@@ -995,7 +995,7 @@
         "title": "the Visionary",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 3,
+        "skinCount": 21,
         "image": {
             "full": "Hwei.png",
             "sprite": "champion1.png",
@@ -1017,7 +1017,7 @@
         "title": "the Kraken Priestess",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 6,
+        "skinCount": 37,
         "image": {
             "full": "Illaoi.png",
             "sprite": "champion1.png",
@@ -1039,7 +1039,7 @@
         "title": "the Blade Dancer",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 16,
+        "skinCount": 63,
         "image": {
             "full": "Irelia.png",
             "sprite": "champion1.png",
@@ -1061,7 +1061,7 @@
         "title": "the Green Father",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 6,
+        "skinCount": 30,
         "image": {
             "full": "Ivern.png",
             "sprite": "champion1.png",
@@ -1083,7 +1083,7 @@
         "title": "the Storm's Fury",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 17,
+        "skinCount": 67,
         "image": {
             "full": "Janna.png",
             "sprite": "champion1.png",
@@ -1105,7 +1105,7 @@
         "title": "the Exemplar of Demacia",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 16,
+        "skinCount": 55,
         "image": {
             "full": "JarvanIV.png",
             "sprite": "champion1.png",
@@ -1127,7 +1127,7 @@
         "title": "Grandmaster at Arms",
         "resource": "Mana",
         "genre": "Fighter",
-        "skinCount": 17,
+        "skinCount": 42,
         "image": {
             "full": "Jax.png",
             "sprite": "champion1.png",
@@ -1149,7 +1149,7 @@
         "title": "the Defender of Tomorrow",
         "resource": "Mana",
         "genre": "Fighter,Marksman",
-        "skinCount": 12,
+        "skinCount": 47,
         "image": {
             "full": "Jayce.png",
             "sprite": "champion1.png",
@@ -1171,7 +1171,7 @@
         "title": "the Virtuoso",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 13,
+        "skinCount": 54,
         "image": {
             "full": "Jhin.png",
             "sprite": "champion1.png",
@@ -1193,7 +1193,7 @@
         "title": "the Loose Cannon",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 15,
+        "skinCount": 64,
         "image": {
             "full": "Jinx.png",
             "sprite": "champion1.png",
@@ -1215,7 +1215,7 @@
         "title": "the Pride of Nazumah",
         "resource": "Mana",
         "genre": "Tank,Fighter",
-        "skinCount": 4,
+        "skinCount": 18,
         "image": {
             "full": "KSante.png",
             "sprite": "champion2.png",
@@ -1237,7 +1237,7 @@
         "title": "Daughter of the Void",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 16,
+        "skinCount": 78,
         "image": {
             "full": "Kaisa.png",
             "sprite": "champion1.png",
@@ -1259,7 +1259,7 @@
         "title": "the Spear of Vengeance",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 7,
+        "skinCount": 33,
         "image": {
             "full": "Kalista.png",
             "sprite": "champion1.png",
@@ -1281,7 +1281,7 @@
         "title": "the Enlightened One",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 16,
+        "skinCount": 76,
         "image": {
             "full": "Karma.png",
             "sprite": "champion1.png",
@@ -1303,7 +1303,7 @@
         "title": "the Deathsinger",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 11,
+        "skinCount": 44,
         "image": {
             "full": "Karthus.png",
             "sprite": "champion1.png",
@@ -1325,7 +1325,7 @@
         "title": "the Void Walker",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 10,
+        "skinCount": 32,
         "image": {
             "full": "Kassadin.png",
             "sprite": "champion1.png",
@@ -1347,7 +1347,7 @@
         "title": "the Sinister Blade",
         "resource": "None",
         "genre": "Assassin,Mage",
-        "skinCount": 19,
+        "skinCount": 78,
         "image": {
             "full": "Katarina.png",
             "sprite": "champion2.png",
@@ -1369,7 +1369,7 @@
         "title": "the Righteous",
         "resource": "Mana",
         "genre": "Mage,Marksman",
-        "skinCount": 18,
+        "skinCount": 88,
         "image": {
             "full": "Kayle.png",
             "sprite": "champion2.png",
@@ -1391,7 +1391,7 @@
         "title": "the Shadow Reaper",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 8,
+        "skinCount": 31,
         "image": {
             "full": "Kayn.png",
             "sprite": "champion2.png",
@@ -1413,7 +1413,7 @@
         "title": "the Heart of the Tempest",
         "resource": "Energy",
         "genre": "Mage",
-        "skinCount": 11,
+        "skinCount": 34,
         "image": {
             "full": "Kennen.png",
             "sprite": "champion2.png",
@@ -1435,7 +1435,7 @@
         "title": "the Voidreaver",
         "resource": "Mana",
         "genre": "Assassin",
-        "skinCount": 9,
+        "skinCount": 58,
         "image": {
             "full": "Khazix.png",
             "sprite": "champion2.png",
@@ -1457,7 +1457,7 @@
         "title": "The Eternal Hunters",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 9,
+        "skinCount": 43,
         "image": {
             "full": "Kindred.png",
             "sprite": "champion2.png",
@@ -1479,7 +1479,7 @@
         "title": "the Cantankerous Cavalier",
         "resource": "Courage",
         "genre": "Fighter",
-        "skinCount": 5,
+        "skinCount": 27,
         "image": {
             "full": "Kled.png",
             "sprite": "champion2.png",
@@ -1501,7 +1501,7 @@
         "title": "the Mouth of the Abyss",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 16,
+        "skinCount": 65,
         "image": {
             "full": "KogMaw.png",
             "sprite": "champion2.png",
@@ -1523,7 +1523,7 @@
         "title": "the Deceiver",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 14,
+        "skinCount": 59,
         "image": {
             "full": "Leblanc.png",
             "sprite": "champion2.png",
@@ -1545,7 +1545,7 @@
         "title": "the Blind Monk",
         "resource": "Energy",
         "genre": "Fighter,Assassin",
-        "skinCount": 20,
+        "skinCount": 79,
         "image": {
             "full": "LeeSin.png",
             "sprite": "champion2.png",
@@ -1567,7 +1567,7 @@
         "title": "the Radiant Dawn",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 18,
+        "skinCount": 64,
         "image": {
             "full": "Leona.png",
             "sprite": "champion2.png",
@@ -1589,7 +1589,7 @@
         "title": "the Bashful Bloom",
         "resource": "Mana",
         "genre": "Fighter,Mage",
-        "skinCount": 6,
+        "skinCount": 53,
         "image": {
             "full": "Lillia.png",
             "sprite": "champion2.png",
@@ -1611,7 +1611,7 @@
         "title": "the Ice Witch",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 10,
+        "skinCount": 52,
         "image": {
             "full": "Lissandra.png",
             "sprite": "champion2.png",
@@ -1633,7 +1633,7 @@
         "title": "the Purifier",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 15,
+        "skinCount": 73,
         "image": {
             "full": "Lucian.png",
             "sprite": "champion2.png",
@@ -1655,7 +1655,7 @@
         "title": "the Fae Sorceress",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 14,
+        "skinCount": 56,
         "image": {
             "full": "Lulu.png",
             "sprite": "champion2.png",
@@ -1677,7 +1677,7 @@
         "title": "the Lady of Luminosity",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 23,
+        "skinCount": 81,
         "image": {
             "full": "Lux.png",
             "sprite": "champion2.png",
@@ -1699,7 +1699,7 @@
         "title": "Shard of the Monolith",
         "resource": "Mana",
         "genre": "Tank,Mage",
-        "skinCount": 15,
+        "skinCount": 57,
         "image": {
             "full": "Malphite.png",
             "sprite": "champion2.png",
@@ -1721,7 +1721,7 @@
         "title": "the Prophet of the Void",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 14,
+        "skinCount": 58,
         "image": {
             "full": "Malzahar.png",
             "sprite": "champion2.png",
@@ -1743,7 +1743,7 @@
         "title": "the Twisted Treant",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 11,
+        "skinCount": 36,
         "image": {
             "full": "Maokai.png",
             "sprite": "champion2.png",
@@ -1765,7 +1765,7 @@
         "title": "the Wuju Bladesman",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 18,
+        "skinCount": 89,
         "image": {
             "full": "MasterYi.png",
             "sprite": "champion2.png",
@@ -1787,7 +1787,7 @@
         "title": "the Soul's Reflection",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 3,
+        "skinCount": 12,
         "image": {
             "full": "Mel.png",
             "sprite": "champion2.png",
@@ -1809,7 +1809,7 @@
         "title": "The Gentle Flame",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 4,
+        "skinCount": 29,
         "image": {
             "full": "Milio.png",
             "sprite": "champion2.png",
@@ -1831,7 +1831,7 @@
         "title": "the Bounty Hunter",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 23,
+        "skinCount": 69,
         "image": {
             "full": "MissFortune.png",
             "sprite": "champion2.png",
@@ -1853,7 +1853,7 @@
         "title": "the Iron Revenant",
         "resource": "Shield",
         "genre": "Fighter,Mage",
-        "skinCount": 13,
+        "skinCount": 57,
         "image": {
             "full": "Mordekaiser.png",
             "sprite": "champion2.png",
@@ -1875,7 +1875,7 @@
         "title": "the Fallen",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 18,
+        "skinCount": 82,
         "image": {
             "full": "Morgana.png",
             "sprite": "champion2.png",
@@ -1897,7 +1897,7 @@
         "title": "the Hound of a Hundred Bites",
         "resource": "Mana",
         "genre": "Assassin,Fighter",
-        "skinCount": 4,
+        "skinCount": 38,
         "image": {
             "full": "Naafiri.png",
             "sprite": "champion2.png",
@@ -1919,7 +1919,7 @@
         "title": "the Tidecaller",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 15,
+        "skinCount": 68,
         "image": {
             "full": "Nami.png",
             "sprite": "champion2.png",
@@ -1941,7 +1941,7 @@
         "title": "the Curator of the Sands",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 14,
+        "skinCount": 63,
         "image": {
             "full": "Nasus.png",
             "sprite": "champion2.png",
@@ -1963,7 +1963,7 @@
         "title": "the Titan of the Depths",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 12,
+        "skinCount": 46,
         "image": {
             "full": "Nautilus.png",
             "sprite": "champion3.png",
@@ -1985,7 +1985,7 @@
         "title": "the Curious Chameleon",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 10,
+        "skinCount": 50,
         "image": {
             "full": "Neeko.png",
             "sprite": "champion3.png",
@@ -2007,7 +2007,7 @@
         "title": "the Bestial Huntress",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 17,
+        "skinCount": 67,
         "image": {
             "full": "Nidalee.png",
             "sprite": "champion3.png",
@@ -2029,7 +2029,7 @@
         "title": "the Joy Unbound",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 4,
+        "skinCount": 30,
         "image": {
             "full": "Nilah.png",
             "sprite": "champion3.png",
@@ -2051,7 +2051,7 @@
         "title": "the Eternal Nightmare",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 11,
+        "skinCount": 36,
         "image": {
             "full": "Nocturne.png",
             "sprite": "champion3.png",
@@ -2073,7 +2073,7 @@
         "title": "the Boy and His Yeti",
         "resource": "Mana",
         "genre": "Tank,Mage",
-        "skinCount": 13,
+        "skinCount": 54,
         "image": {
             "full": "Nunu.png",
             "sprite": "champion3.png",
@@ -2095,7 +2095,7 @@
         "title": "the Berserker",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 12,
+        "skinCount": 53,
         "image": {
             "full": "Olaf.png",
             "sprite": "champion3.png",
@@ -2117,7 +2117,7 @@
         "title": "the Lady of Clockwork",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 13,
+        "skinCount": 40,
         "image": {
             "full": "Orianna.png",
             "sprite": "champion3.png",
@@ -2139,7 +2139,7 @@
         "title": "The Fire below the Mountain",
         "resource": "Mana",
         "genre": "Tank",
-        "skinCount": 6,
+        "skinCount": 38,
         "image": {
             "full": "Ornn.png",
             "sprite": "champion3.png",
@@ -2161,7 +2161,7 @@
         "title": "the Unbreakable Spear",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 14,
+        "skinCount": 47,
         "image": {
             "full": "Pantheon.png",
             "sprite": "champion3.png",
@@ -2183,7 +2183,7 @@
         "title": "Keeper of the Hammer",
         "resource": "Mana",
         "genre": "Tank,Fighter",
-        "skinCount": 13,
+        "skinCount": 51,
         "image": {
             "full": "Poppy.png",
             "sprite": "champion3.png",
@@ -2205,7 +2205,7 @@
         "title": "the Bloodharbor Ripper",
         "resource": "Mana",
         "genre": "Support,Assassin",
-        "skinCount": 13,
+        "skinCount": 85,
         "image": {
             "full": "Pyke.png",
             "sprite": "champion3.png",
@@ -2227,7 +2227,7 @@
         "title": "Empress of the Elements",
         "resource": "Mana",
         "genre": "Assassin",
-        "skinCount": 10,
+        "skinCount": 51,
         "image": {
             "full": "Qiyana.png",
             "sprite": "champion3.png",
@@ -2249,7 +2249,7 @@
         "title": "Demacia's Wings",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 7,
+        "skinCount": 24,
         "image": {
             "full": "Quinn.png",
             "sprite": "champion3.png",
@@ -2271,7 +2271,7 @@
         "title": "The Charmer",
         "resource": "Mana",
         "genre": "Support",
-        "skinCount": 13,
+        "skinCount": 58,
         "image": {
             "full": "Rakan.png",
             "sprite": "champion3.png",
@@ -2293,7 +2293,7 @@
         "title": "the Armordillo",
         "resource": "Mana",
         "genre": "Tank",
-        "skinCount": 12,
+        "skinCount": 35,
         "image": {
             "full": "Rammus.png",
             "sprite": "champion3.png",
@@ -2315,7 +2315,7 @@
         "title": "the Void Burrower",
         "resource": "Rage",
         "genre": "Fighter,Tank",
-        "skinCount": 6,
+        "skinCount": 36,
         "image": {
             "full": "RekSai.png",
             "sprite": "champion3.png",
@@ -2337,7 +2337,7 @@
         "title": "the Iron Maiden",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 5,
+        "skinCount": 31,
         "image": {
             "full": "Rell.png",
             "sprite": "champion3.png",
@@ -2359,7 +2359,7 @@
         "title": "the Chem-Baroness",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 6,
+        "skinCount": 32,
         "image": {
             "full": "Renata.png",
             "sprite": "champion3.png",
@@ -2381,7 +2381,7 @@
         "title": "the Butcher of the Sands",
         "resource": "Fury",
         "genre": "Fighter,Tank",
-        "skinCount": 16,
+        "skinCount": 57,
         "image": {
             "full": "Renekton.png",
             "sprite": "champion3.png",
@@ -2403,7 +2403,7 @@
         "title": "the Pridestalker",
         "resource": "Ferocity",
         "genre": "Assassin,Fighter",
-        "skinCount": 9,
+        "skinCount": 49,
         "image": {
             "full": "Rengar.png",
             "sprite": "champion3.png",
@@ -2425,7 +2425,7 @@
         "title": "the Exile",
         "resource": "None",
         "genre": "Fighter,Assassin",
-        "skinCount": 18,
+        "skinCount": 73,
         "image": {
             "full": "Riven.png",
             "sprite": "champion3.png",
@@ -2447,7 +2447,7 @@
         "title": "the Mechanized Menace",
         "resource": "Heat",
         "genre": "Fighter,Mage",
-        "skinCount": 7,
+        "skinCount": 32,
         "image": {
             "full": "Rumble.png",
             "sprite": "champion3.png",
@@ -2469,7 +2469,7 @@
         "title": "the Rune Mage",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 15,
+        "skinCount": 39,
         "image": {
             "full": "Ryze.png",
             "sprite": "champion3.png",
@@ -2491,7 +2491,7 @@
         "title": "the Desert Rose",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 7,
+        "skinCount": 42,
         "image": {
             "full": "Samira.png",
             "sprite": "champion3.png",
@@ -2513,7 +2513,7 @@
         "title": "Fury of the North",
         "resource": "Mana",
         "genre": "Tank",
-        "skinCount": 13,
+        "skinCount": 57,
         "image": {
             "full": "Sejuani.png",
             "sprite": "champion3.png",
@@ -2535,7 +2535,7 @@
         "title": "the Redeemer",
         "resource": "Mana",
         "genre": "Support,Marksman",
-        "skinCount": 11,
+        "skinCount": 80,
         "image": {
             "full": "Senna.png",
             "sprite": "champion3.png",
@@ -2557,7 +2557,7 @@
         "title": "the Starry-Eyed Songstress",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 11,
+        "skinCount": 68,
         "image": {
             "full": "Seraphine.png",
             "sprite": "champion3.png",
@@ -2579,7 +2579,7 @@
         "title": "the Boss",
         "resource": "Grit",
         "genre": "Fighter,Tank",
-        "skinCount": 11,
+        "skinCount": 76,
         "image": {
             "full": "Sett.png",
             "sprite": "champion3.png",
@@ -2601,7 +2601,7 @@
         "title": "the Demon Jester",
         "resource": "Mana",
         "genre": "Assassin",
-        "skinCount": 16,
+        "skinCount": 71,
         "image": {
             "full": "Shaco.png",
             "sprite": "champion3.png",
@@ -2623,7 +2623,7 @@
         "title": "the Eye of Twilight",
         "resource": "Energy",
         "genre": "Tank",
-        "skinCount": 13,
+        "skinCount": 53,
         "image": {
             "full": "Shen.png",
             "sprite": "champion4.png",
@@ -2644,8 +2644,8 @@
         "name": "Shyvana",
         "title": "the Half-Dragon",
         "resource": "Fury",
-        "genre": "Fighter,Mage",
-        "skinCount": 9,
+        "genre": "Fighter,Tank",
+        "skinCount": 26,
         "image": {
             "full": "Shyvana.png",
             "sprite": "champion4.png",
@@ -2667,7 +2667,7 @@
         "title": "the Mad Chemist",
         "resource": "Mana",
         "genre": "Tank,Mage",
-        "skinCount": 13,
+        "skinCount": 29,
         "image": {
             "full": "Singed.png",
             "sprite": "champion4.png",
@@ -2689,7 +2689,7 @@
         "title": "The Undead Juggernaut",
         "resource": "Mana",
         "genre": "Tank,Fighter",
-        "skinCount": 11,
+        "skinCount": 50,
         "image": {
             "full": "Sion.png",
             "sprite": "champion4.png",
@@ -2711,7 +2711,7 @@
         "title": "the Battle Mistress",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 19,
+        "skinCount": 72,
         "image": {
             "full": "Sivir.png",
             "sprite": "champion4.png",
@@ -2733,7 +2733,7 @@
         "title": "the Primordial Sovereign",
         "resource": "Mana",
         "genre": "Tank,Fighter",
-        "skinCount": 7,
+        "skinCount": 15,
         "image": {
             "full": "Skarner.png",
             "sprite": "champion4.png",
@@ -2755,7 +2755,7 @@
         "title": "the Fiery Fledgling",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 3,
+        "skinCount": 20,
         "image": {
             "full": "Smolder.png",
             "sprite": "champion4.png",
@@ -2777,7 +2777,7 @@
         "title": "Maven of the Strings",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 16,
+        "skinCount": 77,
         "image": {
             "full": "Sona.png",
             "sprite": "champion4.png",
@@ -2799,7 +2799,7 @@
         "title": "the Starchild",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 18,
+        "skinCount": 63,
         "image": {
             "full": "Soraka.png",
             "sprite": "champion4.png",
@@ -2821,7 +2821,7 @@
         "title": "the Noxian Grand General",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 10,
+        "skinCount": 51,
         "image": {
             "full": "Swain.png",
             "sprite": "champion4.png",
@@ -2843,7 +2843,7 @@
         "title": "the Unshackled",
         "resource": "Mana",
         "genre": "Mage,Assassin",
-        "skinCount": 10,
+        "skinCount": 54,
         "image": {
             "full": "Sylas.png",
             "sprite": "champion4.png",
@@ -2865,7 +2865,7 @@
         "title": "the Dark Sovereign",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 14,
+        "skinCount": 74,
         "image": {
             "full": "Syndra.png",
             "sprite": "champion4.png",
@@ -2887,7 +2887,7 @@
         "title": "The River King",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 7,
+        "skinCount": 47,
         "image": {
             "full": "TahmKench.png",
             "sprite": "champion4.png",
@@ -2909,7 +2909,7 @@
         "title": "the Stoneweaver",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 7,
+        "skinCount": 25,
         "image": {
             "full": "Taliyah.png",
             "sprite": "champion4.png",
@@ -2931,7 +2931,7 @@
         "title": "the Blade's Shadow",
         "resource": "Mana",
         "genre": "Assassin",
-        "skinCount": 13,
+        "skinCount": 60,
         "image": {
             "full": "Talon.png",
             "sprite": "champion4.png",
@@ -2953,7 +2953,7 @@
         "title": "the Shield of Valoran",
         "resource": "Mana",
         "genre": "Support,Tank",
-        "skinCount": 8,
+        "skinCount": 36,
         "image": {
             "full": "Taric.png",
             "sprite": "champion4.png",
@@ -2975,7 +2975,7 @@
         "title": "the Swift Scout",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 16,
+        "skinCount": 63,
         "image": {
             "full": "Teemo.png",
             "sprite": "champion4.png",
@@ -2997,7 +2997,7 @@
         "title": "the Chain Warden",
         "resource": "Mana",
         "genre": "Support,Tank",
-        "skinCount": 17,
+        "skinCount": 68,
         "image": {
             "full": "Thresh.png",
             "sprite": "champion4.png",
@@ -3019,7 +3019,7 @@
         "title": "the Yordle Gunner",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 17,
+        "skinCount": 79,
         "image": {
             "full": "Tristana.png",
             "sprite": "champion4.png",
@@ -3041,7 +3041,7 @@
         "title": "the Troll King",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 9,
+        "skinCount": 30,
         "image": {
             "full": "Trundle.png",
             "sprite": "champion4.png",
@@ -3063,7 +3063,7 @@
         "title": "the Barbarian King",
         "resource": "Fury",
         "genre": "Fighter,Assassin",
-        "skinCount": 14,
+        "skinCount": 47,
         "image": {
             "full": "Tryndamere.png",
             "sprite": "champion4.png",
@@ -3085,7 +3085,7 @@
         "title": "the Card Master",
         "resource": "Mana",
         "genre": "Mage,Marksman",
-        "skinCount": 17,
+        "skinCount": 54,
         "image": {
             "full": "TwistedFate.png",
             "sprite": "champion4.png",
@@ -3107,7 +3107,7 @@
         "title": "the Plague Rat",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 15,
+        "skinCount": 59,
         "image": {
             "full": "Twitch.png",
             "sprite": "champion4.png",
@@ -3129,7 +3129,7 @@
         "title": "the Spirit Walker",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 7,
+        "skinCount": 12,
         "image": {
             "full": "Udyr.png",
             "sprite": "champion4.png",
@@ -3151,7 +3151,7 @@
         "title": "the Dreadnought",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 8,
+        "skinCount": 41,
         "image": {
             "full": "Urgot.png",
             "sprite": "champion4.png",
@@ -3173,7 +3173,7 @@
         "title": "the Arrow of Retribution",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 16,
+        "skinCount": 71,
         "image": {
             "full": "Varus.png",
             "sprite": "champion4.png",
@@ -3195,7 +3195,7 @@
         "title": "the Night Hunter",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 19,
+        "skinCount": 67,
         "image": {
             "full": "Vayne.png",
             "sprite": "champion4.png",
@@ -3217,7 +3217,7 @@
         "title": "the Tiny Master of Evil",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 16,
+        "skinCount": 67,
         "image": {
             "full": "Veigar.png",
             "sprite": "champion4.png",
@@ -3239,7 +3239,7 @@
         "title": "the Eye of the Void",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 7,
+        "skinCount": 29,
         "image": {
             "full": "Velkoz.png",
             "sprite": "champion4.png",
@@ -3261,7 +3261,7 @@
         "title": "the Gloomist",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 4,
+        "skinCount": 38,
         "image": {
             "full": "Vex.png",
             "sprite": "champion4.png",
@@ -3283,7 +3283,7 @@
         "title": "the Piltover Enforcer",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 14,
+        "skinCount": 51,
         "image": {
             "full": "Vi.png",
             "sprite": "champion5.png",
@@ -3305,7 +3305,7 @@
         "title": "The Ruined King",
         "resource": "None",
         "genre": "Fighter,Assassin",
-        "skinCount": 8,
+        "skinCount": 43,
         "image": {
             "full": "Viego.png",
             "sprite": "champion5.png",
@@ -3327,7 +3327,7 @@
         "title": "the Herald of the Arcane",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 9,
+        "skinCount": 34,
         "image": {
             "full": "Viktor.png",
             "sprite": "champion5.png",
@@ -3349,7 +3349,7 @@
         "title": "the Crimson Reaper",
         "resource": "Crimson Rush",
         "genre": "Mage,Fighter",
-        "skinCount": 14,
+        "skinCount": 49,
         "image": {
             "full": "Vladimir.png",
             "sprite": "champion5.png",
@@ -3371,7 +3371,7 @@
         "title": "the Relentless Storm",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 11,
+        "skinCount": 37,
         "image": {
             "full": "Volibear.png",
             "sprite": "champion5.png",
@@ -3393,7 +3393,7 @@
         "title": "the Uncaged Wrath of Zaun",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 16,
+        "skinCount": 61,
         "image": {
             "full": "Warwick.png",
             "sprite": "champion5.png",
@@ -3415,7 +3415,7 @@
         "title": "the Monkey King",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 10,
+        "skinCount": 36,
         "image": {
             "full": "MonkeyKing.png",
             "sprite": "champion2.png",
@@ -3437,7 +3437,7 @@
         "title": "the Rebel",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 13,
+        "skinCount": 65,
         "image": {
             "full": "Xayah.png",
             "sprite": "champion5.png",
@@ -3459,7 +3459,7 @@
         "title": "the Magus Ascendant",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 9,
+        "skinCount": 33,
         "image": {
             "full": "Xerath.png",
             "sprite": "champion5.png",
@@ -3481,7 +3481,7 @@
         "title": "the Seneschal of Demacia",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 12,
+        "skinCount": 52,
         "image": {
             "full": "XinZhao.png",
             "sprite": "champion5.png",
@@ -3503,7 +3503,7 @@
         "title": "the Unforgiven",
         "resource": "Flow",
         "genre": "Fighter,Assassin",
-        "skinCount": 18,
+        "skinCount": 97,
         "image": {
             "full": "Yasuo.png",
             "sprite": "champion5.png",
@@ -3525,7 +3525,7 @@
         "title": "the Unforgotten",
         "resource": "Flow",
         "genre": "Fighter,Assassin",
-        "skinCount": 12,
+        "skinCount": 76,
         "image": {
             "full": "Yone.png",
             "sprite": "champion5.png",
@@ -3547,7 +3547,7 @@
         "title": "Shepherd of Souls",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 10,
+        "skinCount": 59,
         "image": {
             "full": "Yorick.png",
             "sprite": "champion5.png",
@@ -3569,7 +3569,7 @@
         "title": "the Unbroken Faith",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 2,
+        "skinCount": 10,
         "image": {
             "full": "Yunara.png",
             "sprite": "champion5.png",
@@ -3589,7 +3589,7 @@
         "title": "the Magical Cat",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 10,
+        "skinCount": 79,
         "image": {
             "full": "Yuumi.png",
             "sprite": "champion5.png",
@@ -3611,7 +3611,7 @@
         "title": "The Unsundered",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 2,
+        "skinCount": 10,
         "image": {
             "full": "Zaahen.png",
             "sprite": "champion5.png",
@@ -3631,7 +3631,7 @@
         "title": "the Secret Weapon",
         "resource": "None",
         "genre": "Tank,Fighter",
-        "skinCount": 7,
+        "skinCount": 33,
         "image": {
             "full": "Zac.png",
             "sprite": "champion5.png",
@@ -3653,7 +3653,7 @@
         "title": "the Master of Shadows",
         "resource": "Energy",
         "genre": "Assassin",
-        "skinCount": 15,
+        "skinCount": 71,
         "image": {
             "full": "Zed.png",
             "sprite": "champion5.png",
@@ -3675,7 +3675,7 @@
         "title": "The Spark of Zaun",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 7,
+        "skinCount": 47,
         "image": {
             "full": "Zeri.png",
             "sprite": "champion5.png",
@@ -3697,7 +3697,7 @@
         "title": "the Hexplosives Expert",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 12,
+        "skinCount": 52,
         "image": {
             "full": "Ziggs.png",
             "sprite": "champion5.png",
@@ -3719,7 +3719,7 @@
         "title": "the Chronokeeper",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 9,
+        "skinCount": 33,
         "image": {
             "full": "Zilean.png",
             "sprite": "champion5.png",
@@ -3741,7 +3741,7 @@
         "title": "the Aspect of Twilight",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 10,
+        "skinCount": 45,
         "image": {
             "full": "Zoe.png",
             "sprite": "champion5.png",
@@ -3763,7 +3763,7 @@
         "title": "Rise of the Thorns",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 13,
+        "skinCount": 74,
         "image": {
             "full": "Zyra.png",
             "sprite": "champion5.png",
