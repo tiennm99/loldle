@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout loldle-data
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Checkout loldle
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: tiennm99/loldle
           token: ${{ secrets.LOLDLE_PAT }}
