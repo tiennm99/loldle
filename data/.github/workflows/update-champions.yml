@@ -59,3 +59,23 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(loldle): sync champions data from loldle-data@${GITHUB_SHA::7}"
           git push
+
+      - name: Push to loldle
+        if: steps.commit.outputs.changed == 'true' && env.LOLDLE_PUSH_TOKEN != ''
+        env:
+          LOLDLE_PUSH_TOKEN: ${{ secrets.LOLDLE_PUSH_TOKEN }}
+        run: |
+          set -euo pipefail
+          git clone --depth 1 \
+            "https://x-access-token:${LOLDLE_PUSH_TOKEN}@github.com/tiennm99/loldle.git" loldle
+          cp champions.json loldle/public/champions.json
+          cd loldle
+          git add public/champions.json
+          if git diff --cached --quiet; then
+            echo "loldle already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): sync champions data from loldle-data@${GITHUB_SHA::7}"
+          git push
