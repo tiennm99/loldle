@@ -39,43 +39,36 @@ jobs:
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
-      - name: Push to miti99bot
-        if: steps.commit.outputs.changed == 'true' && env.MITI99BOT_PUSH_TOKEN != ''
+      # Fan out updated champions.json to downstream repos.
+      # Each row: <repo> <dest-path> [post-copy command].
+      # Add a new target by appending one line — no other edits required.
+      - name: Sync to downstream repos
+        if: steps.commit.outputs.changed == 'true'
         env:
-          MITI99BOT_PUSH_TOKEN: ${{ secrets.MITI99BOT_PUSH_TOKEN }}
+          GH_PAT: ${{ secrets.LOLDLE_PAT }}
         run: |
           set -euo pipefail
-          git clone --depth 1 \
-            "https://x-access-token:${MITI99BOT_PUSH_TOKEN}@github.com/tiennm99/miti99bot.git" miti99bot
-          cp champions.json miti99bot/src/modules/loldle/champions.json
-          cd miti99bot
-          node scripts/build-loldle-data.js
-          git add src/modules/loldle/champions.json src/modules/loldle/champions-data.js
-          if git diff --cached --quiet; then
-            echo "miti99bot already up to date"
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore(loldle): sync champions data from loldle-data@${GITHUB_SHA::7}"
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Push to loldle
-        if: steps.commit.outputs.changed == 'true' && env.LOLDLE_PUSH_TOKEN != ''
-        env:
-          LOLDLE_PUSH_TOKEN: ${{ secrets.LOLDLE_PUSH_TOKEN }}
-        run: |
-          set -euo pipefail
-          git clone --depth 1 \
-            "https://x-access-token:${LOLDLE_PUSH_TOKEN}@github.com/tiennm99/loldle.git" loldle
-          cp champions.json loldle/public/champions.json
-          cd loldle
-          git add public/champions.json
-          if git diff --cached --quiet; then
-            echo "loldle already up to date"
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore(data): sync champions data from loldle-data@${GITHUB_SHA::7}"
-          git push
+          sync_repo() {
+            local repo=$1 dest=$2 post=${3:-}
+            local dir=${repo##*/}
+            git clone --depth 1 \
+              "https://x-access-token:${GH_PAT}@github.com/${repo}.git" "$dir"
+            cp champions.json "$dir/$dest"
+            (
+              cd "$dir"
+              if [ -n "$post" ]; then eval "$post"; fi
+              git add -A
+              if git diff --cached --quiet; then
+                echo "$repo already up to date"
+                exit 0
+              fi
+              git commit -m "chore(data): sync champions from loldle-data@${GITHUB_SHA::7}"
+              git push
+            )
+          }
+
+          sync_repo tiennm99/miti99bot src/modules/loldle/champions.json "node scripts/build-loldle-data.js"
+          sync_repo tiennm99/loldle    public/champions.json
