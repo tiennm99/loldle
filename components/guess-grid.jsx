@@ -17,10 +17,12 @@ export default function GuessGrid({ guesses, results }) {
         ))}
       </div>
 
-      {/* Guess rows */}
-      {guesses.map((champion, i) => (
-        <GuessRow key={champion.id} champion={champion} results={results[i]} />
-      ))}
+      {/* Guess rows — newest first */}
+      {guesses
+        .map((champion, i) => (
+          <GuessRow key={champion.id} champion={champion} results={results[i]} />
+        ))
+        .reverse()}
     </div>
   );
 }
