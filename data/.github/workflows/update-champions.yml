@@ -5,6 +5,12 @@ on:
     # Every Thursday at 06:00 UTC (day after Riot's Wednesday patch)
     - cron: "0 6 * * 4"
   workflow_dispatch:
+  # Manual edits to champions.json fan out without needing to run the scraper.
+  # Scraper-driven commits use the default GITHUB_TOKEN which (by policy) does
+  # NOT retrigger workflows, so this path is safe from self-loops.
+  push:
+    branches: [main]
+    paths: [champions.json]
 
 permissions:
   contents: write
@@ -17,14 +23,17 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Set up Go
+        if: github.event_name != 'push'
         uses: actions/setup-go@v6
         with:
           go-version-file: go.mod
 
       - name: Run scraper
+        if: github.event_name != 'push'
         run: go run .
 
       - name: Commit and push if changed
+        if: github.event_name != 'push'
         id: commit
         run: |
           git config user.name "github-actions[bot]"
@@ -43,7 +52,7 @@ jobs:
       # Each row: <repo> <dest-path> [post-copy command].
       # Add a new target by appending one line — no other edits required.
       - name: Sync to downstream repos
-        if: steps.commit.outputs.changed == 'true'
+        if: github.event_name == 'push' || steps.commit.outputs.changed == 'true'
         env:
           GH_PAT: ${{ secrets.LOLDLE_PAT }}
         run: |
