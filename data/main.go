@@ -45,8 +45,13 @@ func main() {
 	if err := saveJSON(outputPath, champions); err != nil {
 		log.Fatalf("Failed to save JSON: %v", err)
 	}
-
 	fmt.Printf("Champion data has been saved to %s\n", outputPath)
+
+	markdownPath := "CHAMPIONS.md"
+	if err := saveMarkdown(markdownPath, champions); err != nil {
+		log.Fatalf("Failed to save Markdown: %v", err)
+	}
+	fmt.Printf("Champion table has been saved to %s\n", markdownPath)
 }
 
 func saveJSON(path string, data []parser.ChampionResult) error {
