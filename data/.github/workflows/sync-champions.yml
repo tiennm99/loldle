@@ -43,5 +43,4 @@ jobs:
             )
           }
 
-          sync_repo tiennm99/miti99bot src/modules/loldle/champions.json "node scripts/build-loldle-data.js"
-          sync_repo tiennm99/loldle    public/champions.json
+          sync_repo tiennm99/loldle public/champions.json
