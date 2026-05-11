@@ -1,5 +1,16 @@
 # loldle
-Just a rewritten LoLdle
 
-## Credits
-- [champions.json](assets/champions.json) is auto-updated from my [loldle-data](https://github.com/tiennm99/loldle-data) repo, which is inspired by [Kerrders/LoLdleData](https://github.com/Kerrders/LoLdleData).
+LoLdle-style League of Legends daily champion guessing game — data auto-updated from [loldle-data](https://github.com/tiennm99/loldle-data).
+
+Live: https://tiennm99.github.io/loldle/
+
+## Quick start
+
+```bash
+npm install
+npm run dev
+```
+
+## License
+
+Apache-2.0 — see [LICENSE](LICENSE).
