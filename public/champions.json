@@ -181,7 +181,7 @@
         "title": "the Dark Child",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 58,
+        "skinCount": 59,
         "image": {
             "full": "Annie.png",
             "sprite": "champion0.png",
@@ -401,7 +401,7 @@
         "title": "the Heart of the Freljord",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 51,
+        "skinCount": 61,
         "image": {
             "full": "Braum.png",
             "sprite": "champion0.png",
@@ -841,7 +841,7 @@
         "title": "The Might of Demacia",
         "resource": "None",
         "genre": "Fighter,Tank",
-        "skinCount": 55,
+        "skinCount": 54,
         "image": {
             "full": "Garen.png",
             "sprite": "champion1.png",
@@ -1457,7 +1457,7 @@
         "title": "The Eternal Hunters",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 43,
+        "skinCount": 44,
         "image": {
             "full": "Kindred.png",
             "sprite": "champion2.png",
@@ -1765,7 +1765,7 @@
         "title": "the Wuju Bladesman",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 89,
+        "skinCount": 90,
         "image": {
             "full": "MasterYi.png",
             "sprite": "champion2.png",
@@ -2601,7 +2601,7 @@
         "title": "the Demon Jester",
         "resource": "Mana",
         "genre": "Assassin",
-        "skinCount": 71,
+        "skinCount": 73,
         "image": {
             "full": "Shaco.png",
             "sprite": "champion3.png",
@@ -2711,7 +2711,7 @@
         "title": "the Battle Mistress",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 72,
+        "skinCount": 81,
         "image": {
             "full": "Sivir.png",
             "sprite": "champion4.png",
@@ -3195,7 +3195,7 @@
         "title": "the Night Hunter",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 67,
+        "skinCount": 74,
         "image": {
             "full": "Vayne.png",
             "sprite": "champion4.png",
@@ -3349,7 +3349,7 @@
         "title": "the Crimson Reaper",
         "resource": "Crimson Rush",
         "genre": "Mage,Fighter",
-        "skinCount": 49,
+        "skinCount": 58,
         "image": {
             "full": "Vladimir.png",
             "sprite": "champion5.png",
@@ -3631,7 +3631,7 @@
         "title": "the Secret Weapon",
         "resource": "None",
         "genre": "Tank,Fighter",
-        "skinCount": 33,
+        "skinCount": 42,
         "image": {
             "full": "Zac.png",
             "sprite": "champion5.png",
