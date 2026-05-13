@@ -7,8 +7,8 @@ Live: https://tiennm99.github.io/loldle/
 ## Quick start
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 ## License
