@@ -1061,7 +1061,7 @@
         "title": "the Green Father",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 30,
+        "skinCount": 39,
         "image": {
             "full": "Ivern.png",
             "sprite": "champion1.png",
@@ -2249,7 +2249,7 @@
         "title": "Demacia's Wings",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 24,
+        "skinCount": 33,
         "image": {
             "full": "Quinn.png",
             "sprite": "champion3.png",
