@@ -577,7 +577,7 @@
         "title": "Scorn of the Moon",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 75,
+        "skinCount": 83,
         "image": {
             "full": "Diana.png",
             "sprite": "champion0.png",
@@ -1017,7 +1017,7 @@
         "title": "the Kraken Priestess",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 37,
+        "skinCount": 46,
         "image": {
             "full": "Illaoi.png",
             "sprite": "champion1.png",
@@ -1039,7 +1039,7 @@
         "title": "the Blade Dancer",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 63,
+        "skinCount": 72,
         "image": {
             "full": "Irelia.png",
             "sprite": "champion1.png",
@@ -1567,7 +1567,7 @@
         "title": "the Radiant Dawn",
         "resource": "Mana",
         "genre": "Tank,Support",
-        "skinCount": 64,
+        "skinCount": 71,
         "image": {
             "full": "Leona.png",
             "sprite": "champion2.png",
@@ -1731,7 +1731,7 @@
             "w": 48,
             "h": 48
         },
-        "gender": "divers",
+        "gender": "male",
         "attackType": "range",
         "releaseDate": 2010,
         "region": "void",
@@ -2689,7 +2689,7 @@
         "title": "The Undead Juggernaut",
         "resource": "Mana",
         "genre": "Tank,Fighter",
-        "skinCount": 50,
+        "skinCount": 59,
         "image": {
             "full": "Sion.png",
             "sprite": "champion4.png",
@@ -3239,7 +3239,7 @@
         "title": "the Eye of the Void",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 29,
+        "skinCount": 36,
         "image": {
             "full": "Velkoz.png",
             "sprite": "champion4.png",
