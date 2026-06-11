@@ -379,7 +379,7 @@
         "title": "the Burning Vengeance",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 53,
+        "skinCount": 54,
         "image": {
             "full": "Brand.png",
             "sprite": "champion0.png",
@@ -709,7 +709,7 @@
         "title": "the Prodigal Explorer",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 75,
+        "skinCount": 76,
         "image": {
             "full": "Ezreal.png",
             "sprite": "champion1.png",
@@ -995,7 +995,7 @@
         "title": "the Visionary",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 21,
+        "skinCount": 22,
         "image": {
             "full": "Hwei.png",
             "sprite": "champion1.png",
@@ -1237,7 +1237,7 @@
         "title": "Daughter of the Void",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 78,
+        "skinCount": 79,
         "image": {
             "full": "Kaisa.png",
             "sprite": "champion1.png",
@@ -1523,7 +1523,7 @@
         "title": "the Deceiver",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 59,
+        "skinCount": 61,
         "image": {
             "full": "Leblanc.png",
             "sprite": "champion2.png",
@@ -1545,7 +1545,7 @@
         "title": "the Blind Monk",
         "resource": "Energy",
         "genre": "Fighter,Assassin",
-        "skinCount": 79,
+        "skinCount": 80,
         "image": {
             "full": "LeeSin.png",
             "sprite": "champion2.png",
