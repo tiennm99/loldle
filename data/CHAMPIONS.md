@@ -1,6 +1,6 @@
 # Champions
 
-Auto-generated from [`champions.json`](./champions.json). Total: **172** champions.
+Auto-generated from [`champions.json`](./champions.json). Total: **173** champions.
 
 Columns match Loldle classic mode: Champion | Gender | Genre (class) | Range | Resource | Region | Lane | Year.
 
@@ -80,6 +80,7 @@ Columns match Loldle classic mode: Champion | Gender | Genre (class) | Range | R
 | <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Leona_0.jpg" width="32" height="32" alt="Leona"/> | **Leona**<br/><sub>the Radiant Dawn</sub> | Female | Tank, Support | Melee | Mana | Mount Targon | Support | 2011 |
 | <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Lillia_0.jpg" width="32" height="32" alt="Lillia"/> | **Lillia**<br/><sub>the Bashful Bloom</sub> | Female | Fighter, Mage | Melee | Mana | Ionia | Jungle | 2020 |
 | <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Lissandra_0.jpg" width="32" height="32" alt="Lissandra"/> | **Lissandra**<br/><sub>the Ice Witch</sub> | Female | Mage | Ranged | Mana | Freljord | Mid | 2013 |
+| <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Locke_0.jpg" width="32" height="32" alt="Locke"/> | **Locke**<br/><sub>the Ashen Exorcist</sub> | Male | Assassin, Mage | Melee | Mana | Demacia | — | — |
 | <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Lucian_0.jpg" width="32" height="32" alt="Lucian"/> | **Lucian**<br/><sub>the Purifier</sub> | Male | Marksman, Assassin | Ranged | Mana | Demacia | Bottom | 2013 |
 | <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Lulu_0.jpg" width="32" height="32" alt="Lulu"/> | **Lulu**<br/><sub>the Fae Sorceress</sub> | Female | Support, Mage | Ranged | Mana | Bandle City | Support | 2012 |
 | <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/tiles/Lux_0.jpg" width="32" height="32" alt="Lux"/> | **Lux**<br/><sub>the Lady of Luminosity</sub> | Female | Mage, Support | Ranged | Mana | Demacia | Mid, Support | 2010 |
