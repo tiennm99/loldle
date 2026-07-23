@@ -115,7 +115,7 @@
         "title": "Matriarch of War",
         "resource": "Energy",
         "genre": "Fighter,Assassin",
-        "skinCount": 8,
+        "skinCount": 15,
         "image": {
             "full": "Ambessa.png",
             "sprite": "champion0.png",
@@ -797,7 +797,7 @@
         "title": "the Colossus",
         "resource": "Mana",
         "genre": "Tank,Mage",
-        "skinCount": 47,
+        "skinCount": 54,
         "image": {
             "full": "Galio.png",
             "sprite": "champion1.png",
@@ -1851,7 +1851,7 @@
         "title": "the Bounty Hunter",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 69,
+        "skinCount": 76,
         "image": {
             "full": "MissFortune.png",
             "sprite": "champion2.png",
@@ -2423,7 +2423,7 @@
         "title": "the Pridestalker",
         "resource": "Ferocity",
         "genre": "Assassin,Fighter",
-        "skinCount": 49,
+        "skinCount": 59,
         "image": {
             "full": "Rengar.png",
             "sprite": "champion3.png",
@@ -2577,7 +2577,7 @@
         "title": "the Starry-Eyed Songstress",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 68,
+        "skinCount": 75,
         "image": {
             "full": "Seraphine.png",
             "sprite": "champion3.png",
@@ -3501,7 +3501,7 @@
         "title": "the Seneschal of Demacia",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 52,
+        "skinCount": 59,
         "image": {
             "full": "XinZhao.png",
             "sprite": "champion5.png",
@@ -3589,7 +3589,7 @@
         "title": "the Unbroken Faith",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 10,
+        "skinCount": 17,
         "image": {
             "full": "Yunara.png",
             "sprite": "champion5.png",
