@@ -1,6 +1,11 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
-import { getChampionImageUrl, getTodaySeed } from "../lib/champion-data";
+import { getChampionImageUrl, getTodaySeed } from "$lib/champion-data";
 import { AATROX, CHAMPIONS } from "./fixtures/champions";
+
+// $app/paths is a SvelteKit build-time construct with no meaning to a bare
+// Vitest run. Base-path behaviour is verified by the production preview check,
+// not here, so the identity stub is the honest unit-test substitute.
+vi.mock("$app/paths", () => ({ asset: (p) => p }));
 
 /**
  * `champions` is module-private with no reset export, so each group gets a fresh
@@ -14,7 +19,7 @@ async function freshModule({ champions = CHAMPIONS, ok = true, status = 200 } = 
     json: async () => champions,
   }));
   vi.stubGlobal("fetch", fetchMock);
-  const mod = await import("../lib/champion-data");
+  const mod = await import("$lib/champion-data");
   return { mod, fetchMock };
 }
 

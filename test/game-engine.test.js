@@ -7,7 +7,7 @@ import {
   loadUnlimitedStats,
   saveUnlimitedStats,
   submitGuess,
-} from "../lib/game-engine";
+} from "$lib/game-engine";
 import { AATROX, AHRI } from "./fixtures/champions";
 
 /** Minimal stand-in for compareChampions — the engine only stores what this returns. */
