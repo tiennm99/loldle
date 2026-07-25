@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { CLASSIC_ATTRIBUTES, compareChampions } from "../lib/classic-mode";
+import { CLASSIC_ATTRIBUTES, compareChampions } from "$lib/classic-mode";
 import { AATROX, AHRI, AKALI, BELVETH } from "./fixtures/champions";
 
 /** Pull one attribute's comparison out of the 7-entry result array. */
