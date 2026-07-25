@@ -13,12 +13,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      # LOLDLE_PAT so the subsequent push triggers sync-champions.yml;
-      # default GITHUB_TOKEN would silently skip downstream triggers.
       - name: Checkout
         uses: actions/checkout@v5
-        with:
-          token: ${{ secrets.LOLDLE_PAT }}
 
       - name: Set up Go
         uses: actions/setup-go@v6
