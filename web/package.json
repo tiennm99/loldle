@@ -8,25 +8,19 @@
     "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint",
+    "lint": "eslint .",
     "test": "vitest run",
-    "test:watch": "vitest",
-    "next:dev": "next dev",
-    "next:build": "next build"
-  },
-  "dependencies": {
-    "next": "16.2.10",
-    "react": "19.2.7",
-    "react-dom": "19.2.7"
+    "test:watch": "vitest"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@sveltejs/adapter-static": "^3.0.10",
     "@sveltejs/kit": "^2.70.1",
     "@sveltejs/vite-plugin-svelte": "^7.2.0",
-    "@tailwindcss/postcss": "^4.3.3",
     "@tailwindcss/vite": "^4.3.3",
     "eslint": "^9",
-    "eslint-config-next": "16.2.10",
+    "eslint-plugin-svelte": "^3.22.0",
+    "globals": "^17.7.0",
     "svelte": "^5.56.7",
     "tailwindcss": "^4.3.3",
     "vite": "^8.1.5",
