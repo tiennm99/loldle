@@ -22,6 +22,9 @@ chrome-dev-tools
 /.next/
 /out/
 
+# sveltekit
+/.svelte-kit/
+
 # production
 /build
 
