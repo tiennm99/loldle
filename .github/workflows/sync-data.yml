@@ -2,8 +2,9 @@ name: Sync champions data
 
 on:
   schedule:
-    # Every Monday at 06:00 UTC
-    - cron: '0 6 * * 1'
+    # Thursdays 12:00 UTC, after loldle-data's own 06:00 UTC scrape
+    # (GitHub queues scheduled runs 2-4h late, so leave a wide margin)
+    - cron: '0 12 * * 4'
   workflow_dispatch:
 
 permissions:
