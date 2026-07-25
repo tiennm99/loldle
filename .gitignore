@@ -18,10 +18,6 @@ chrome-dev-tools
 # testing
 /coverage
 
-# next.js
-/.next/
-/out/
-
 # sveltekit
 /.svelte-kit/
 

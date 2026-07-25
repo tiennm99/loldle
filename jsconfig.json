@@ -4,10 +4,6 @@
     "allowJs": true,
     "checkJs": false,
     "module": "esnext",
-    "moduleResolution": "bundler",
-    "paths": {
-      "$app/types": ["./.svelte-kit/types/index.d.ts"],
-      "@/*": ["./*"]
-    }
+    "moduleResolution": "bundler"
   }
 }

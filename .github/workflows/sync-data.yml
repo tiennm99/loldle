@@ -29,20 +29,20 @@ jobs:
           set -euo pipefail
           sha=$(gh api "repos/$SOURCE_REPO/commits/main" --jq .sha)
           gh api "repos/$SOURCE_REPO/contents/champions.json?ref=$sha" \
-            -H "Accept: application/vnd.github.raw" > public/champions.json
+            -H "Accept: application/vnd.github.raw" > static/champions.json
           echo "SOURCE_SHA=${sha:0:7}" >> "$GITHUB_ENV"
 
       - name: Commit if changed
         id: commit
         run: |
           set -euo pipefail
-          if git diff --quiet -- public/champions.json; then
-            echo "public/champions.json already matches loldle-data@$SOURCE_SHA"
+          if git diff --quiet -- static/champions.json; then
+            echo "static/champions.json already matches loldle-data@$SOURCE_SHA"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/champions.json
+          git add static/champions.json
           git commit -m "chore(data): sync champions from loldle-data@$SOURCE_SHA"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"

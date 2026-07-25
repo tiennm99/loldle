@@ -31,11 +31,11 @@ jobs:
 
       - run: pnpm build
         env:
-          NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+          BASE_PATH: /${{ github.event.repository.name }}
 
       - uses: actions/upload-pages-artifact@v5
         with:
-          path: out
+          path: build
 
   deploy:
     needs: build
