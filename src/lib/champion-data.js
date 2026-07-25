@@ -1,5 +1,7 @@
 // Data layer: load, search, and select champions
 
+import { asset } from "$app/paths";
+
 let champions = [];
 let loadPromise = null;
 
@@ -9,8 +11,7 @@ export async function loadChampions() {
   if (loadPromise) return loadPromise;
 
   loadPromise = (async () => {
-    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
-    const response = await fetch(`${basePath}/champions.json`);
+    const response = await fetch(asset("/champions.json"));
     if (!response.ok) {
       loadPromise = null;
       throw new Error(`Failed to load champions: ${response.status}`);
@@ -20,17 +21,6 @@ export async function loadChampions() {
   })();
 
   return loadPromise;
-}
-
-/** Get all loaded champions */
-export function getAllChampions() {
-  return champions;
-}
-
-/** Case-insensitive lookup by name */
-export function getChampionByName(name) {
-  const lower = name.toLowerCase();
-  return champions.find((c) => c.name.toLowerCase() === lower) || null;
 }
 
 /** Filter champions for autocomplete (prefix-first, then substring) */

@@ -68,11 +68,6 @@ export function submitGuess(game, champion) {
   return updated;
 }
 
-/** Get names of already-guessed champions */
-export function getGuessedNames(game) {
-  return game.guesses.map((g) => g.name);
-}
-
 /** Get or create a persistent seed for unlimited mode */
 export function getOrCreateUnlimitedSeed() {
   try {
