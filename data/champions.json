@@ -125,7 +125,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "support"
     },
     {
         "id": "Alistar",
@@ -145,9 +147,7 @@
         },
         "gender": "male",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "runeterra",
-        "lane": "support"
+        "region": "runeterra"
     },
     {
         "id": "Ambessa",
@@ -172,6 +172,26 @@
         "lane": "mid"
     },
     {
+        "id": "Amumu",
+        "name": "Amumu",
+        "title": "the Sad Mummy",
+        "resource": "Mana",
+        "genre": "Tank,Support",
+        "skinCount": 62,
+        "image": {
+            "full": "Amumu.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 288,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
         "id": "Jade_Amumu",
         "name": "Amumu",
         "title": "The Sad Mummy",
@@ -194,23 +214,23 @@
         "lane": "jungle"
     },
     {
-        "id": "Amumu",
-        "name": "Amumu",
-        "title": "the Sad Mummy",
+        "id": "Anivia",
+        "name": "Anivia",
+        "title": "the Cryophoenix",
         "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 62,
+        "genre": "Mage",
+        "skinCount": 55,
         "image": {
-            "full": "Amumu.png",
+            "full": "Anivia.png",
             "sprite": "champion0.png",
             "group": "champion",
-            "x": 288,
+            "x": 336,
             "y": 0,
             "w": 48,
             "h": 48
         },
-        "gender": "male",
-        "attackType": "close",
+        "gender": "female",
+        "attackType": "range",
         "region": "runeterra"
     },
     {
@@ -230,26 +250,6 @@
             "h": 48
         },
         "gender": "divers",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
-        "id": "Anivia",
-        "name": "Anivia",
-        "title": "the Cryophoenix",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 55,
-        "image": {
-            "full": "Anivia.png",
-            "sprite": "champion0.png",
-            "group": "champion",
-            "x": 336,
-            "y": 0,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "female",
         "attackType": "range",
         "releaseDate": 2009,
         "region": "freljord",
@@ -337,9 +337,7 @@
         },
         "gender": "divers",
         "attackType": "range",
-        "releaseDate": 2009,
-        "region": "freljord",
-        "lane": "bottom,support"
+        "region": "runeterra"
     },
     {
         "id": "Ashe",
@@ -359,7 +357,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "freljord",
+        "lane": "bottom,support"
     },
     {
         "id": "AurelionSol",
@@ -472,6 +472,26 @@
         "lane": "jungle"
     },
     {
+        "id": "Jade_Blitzcrank",
+        "name": "Blitzcrank",
+        "title": "The Great Steam Golem",
+        "resource": "Mana",
+        "genre": "Tank,Support",
+        "skinCount": 26,
+        "image": {
+            "full": "Jade_Blitzcrank.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 240,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
         "id": "Blitzcrank",
         "name": "Blitzcrank",
         "title": "the Great Steam Golem",
@@ -494,24 +514,26 @@
         "lane": "support"
     },
     {
-        "id": "Jade_Blitzcrank",
-        "name": "Blitzcrank",
-        "title": "The Great Steam Golem",
+        "id": "Jade_Brand",
+        "name": "Brand",
+        "title": "The Burning Vengeance",
         "resource": "Mana",
-        "genre": "Tank,Support",
-        "skinCount": 26,
+        "genre": "Mage,Support",
+        "skinCount": 25,
         "image": {
-            "full": "Jade_Blitzcrank.png",
+            "full": "Jade_Brand.png",
             "sprite": "champion1.png",
             "group": "champion",
-            "x": 240,
+            "x": 288,
             "y": 96,
             "w": 48,
             "h": 48
         },
         "gender": "divers",
-        "attackType": "close",
-        "region": "runeterra"
+        "attackType": "range",
+        "releaseDate": 2011,
+        "region": "runeterra",
+        "lane": "jungle,support"
     },
     {
         "id": "Brand",
@@ -530,28 +552,6 @@
             "h": 48
         },
         "gender": "male",
-        "attackType": "range",
-        "releaseDate": 2011,
-        "region": "runeterra",
-        "lane": "jungle,support"
-    },
-    {
-        "id": "Jade_Brand",
-        "name": "Brand",
-        "title": "The Burning Vengeance",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 25,
-        "image": {
-            "full": "Jade_Brand.png",
-            "sprite": "champion1.png",
-            "group": "champion",
-            "x": 288,
-            "y": 96,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
         "attackType": "range",
         "region": "runeterra"
     },
@@ -811,9 +811,7 @@
         },
         "gender": "male",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "zaun",
-        "lane": "top"
+        "region": "runeterra"
     },
     {
         "id": "Jade_DrMundo",
@@ -833,7 +831,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "top"
     },
     {
         "id": "Draven",
@@ -902,6 +902,26 @@
         "lane": "jungle"
     },
     {
+        "id": "Jade_Evelynn",
+        "name": "Evelynn",
+        "title": "The Widowmaker",
+        "resource": "Mana",
+        "genre": "Assassin,Mage",
+        "skinCount": 24,
+        "image": {
+            "full": "Jade_Evelynn.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
         "id": "Evelynn",
         "name": "Evelynn",
         "title": "Agony's Embrace",
@@ -924,23 +944,23 @@
         "lane": "jungle"
     },
     {
-        "id": "Jade_Evelynn",
-        "name": "Evelynn",
-        "title": "The Widowmaker",
+        "id": "Jade_Ezreal",
+        "name": "Ezreal",
+        "title": "The Prodigal Explorer",
         "resource": "Mana",
-        "genre": "Assassin,Mage",
-        "skinCount": 24,
+        "genre": "Marksman,Mage",
+        "skinCount": 29,
         "image": {
-            "full": "Jade_Evelynn.png",
+            "full": "Jade_Ezreal.png",
             "sprite": "champion2.png",
             "group": "champion",
-            "x": 0,
+            "x": 48,
             "y": 0,
             "w": 48,
             "h": 48
         },
         "gender": "divers",
-        "attackType": "close",
+        "attackType": "range",
         "region": "runeterra"
     },
     {
@@ -960,26 +980,6 @@
             "h": 48
         },
         "gender": "male",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
-        "id": "Jade_Ezreal",
-        "name": "Ezreal",
-        "title": "The Prodigal Explorer",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 29,
-        "image": {
-            "full": "Jade_Ezreal.png",
-            "sprite": "champion2.png",
-            "group": "champion",
-            "x": 48,
-            "y": 0,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
         "attackType": "range",
         "releaseDate": 2010,
         "region": "piltover",
@@ -1003,9 +1003,7 @@
         },
         "gender": "male",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "runeterra",
-        "lane": "jungle"
+        "region": "runeterra"
     },
     {
         "id": "Jade_Fiddlesticks",
@@ -1025,7 +1023,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "jungle"
     },
     {
         "id": "Fiora",
@@ -1111,7 +1111,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "bilgewater",
+        "lane": "top"
     },
     {
         "id": "Jade_Gangplank",
@@ -1131,9 +1133,7 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "bilgewater",
-        "lane": "top"
+        "region": "runeterra"
     },
     {
         "id": "Jade_Garen",
@@ -1153,9 +1153,7 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2010,
-        "region": "demacia",
-        "lane": "top"
+        "region": "runeterra"
     },
     {
         "id": "Garen",
@@ -1175,7 +1173,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2010,
+        "region": "demacia",
+        "lane": "top"
     },
     {
         "id": "Gnar",
@@ -1217,7 +1217,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2010,
+        "region": "freljord",
+        "lane": "jungle"
     },
     {
         "id": "Jade_Gragas",
@@ -1237,9 +1239,7 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2010,
-        "region": "freljord",
-        "lane": "jungle"
+        "region": "runeterra"
     },
     {
         "id": "Graves",
@@ -1308,28 +1308,6 @@
         "lane": "jungle"
     },
     {
-        "id": "Heimerdinger",
-        "name": "Heimerdinger",
-        "title": "the Revered Inventor",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 27,
-        "image": {
-            "full": "Heimerdinger.png",
-            "sprite": "champion1.png",
-            "group": "champion",
-            "x": 192,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "male",
-        "attackType": "range",
-        "releaseDate": 2009,
-        "region": "piltover",
-        "lane": "support"
-    },
-    {
         "id": "Jade_Heimerdinger",
         "name": "Heimerdinger",
         "title": "The Revered Inventor",
@@ -1346,6 +1324,28 @@
             "h": 48
         },
         "gender": "divers",
+        "attackType": "range",
+        "releaseDate": 2009,
+        "region": "piltover",
+        "lane": "support"
+    },
+    {
+        "id": "Heimerdinger",
+        "name": "Heimerdinger",
+        "title": "the Revered Inventor",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 27,
+        "image": {
+            "full": "Heimerdinger.png",
+            "sprite": "champion1.png",
+            "group": "champion",
+            "x": 192,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "male",
         "attackType": "range",
         "region": "runeterra"
     },
@@ -1438,26 +1438,6 @@
         "lane": "jungle"
     },
     {
-        "id": "Janna",
-        "name": "Janna",
-        "title": "the Storm's Fury",
-        "resource": "Mana",
-        "genre": "Support,Mage",
-        "skinCount": 67,
-        "image": {
-            "full": "Janna.png",
-            "sprite": "champion3.png",
-            "group": "champion",
-            "x": 432,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
         "id": "Jade_Janna",
         "name": "Janna",
         "title": "The Storm's Fury",
@@ -1480,26 +1460,24 @@
         "lane": "support"
     },
     {
-        "id": "JarvanIV",
-        "name": "Jarvan IV",
-        "title": "the Exemplar of Demacia",
+        "id": "Janna",
+        "name": "Janna",
+        "title": "the Storm's Fury",
         "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 55,
+        "genre": "Support,Mage",
+        "skinCount": 67,
         "image": {
-            "full": "JarvanIV.png",
+            "full": "Janna.png",
             "sprite": "champion3.png",
             "group": "champion",
-            "x": 0,
-            "y": 96,
+            "x": 432,
+            "y": 48,
             "w": 48,
             "h": 48
         },
-        "gender": "male",
-        "attackType": "close",
-        "releaseDate": 2011,
-        "region": "demacia",
-        "lane": "jungle"
+        "gender": "female",
+        "attackType": "range",
+        "region": "runeterra"
     },
     {
         "id": "Jade_JarvanIV",
@@ -1519,29 +1497,29 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2011,
+        "region": "demacia",
+        "lane": "jungle"
     },
     {
-        "id": "Jax",
-        "name": "Jax",
-        "title": "Grandmaster at Arms",
+        "id": "JarvanIV",
+        "name": "Jarvan IV",
+        "title": "the Exemplar of Demacia",
         "resource": "Mana",
-        "genre": "Fighter",
-        "skinCount": 44,
+        "genre": "Fighter,Tank",
+        "skinCount": 55,
         "image": {
-            "full": "Jax.png",
+            "full": "JarvanIV.png",
             "sprite": "champion3.png",
             "group": "champion",
-            "x": 48,
+            "x": 0,
             "y": 96,
             "w": 48,
             "h": 48
         },
         "gender": "male",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "runeterra",
-        "lane": "top,jungle"
+        "region": "runeterra"
     },
     {
         "id": "Jade_Jax",
@@ -1560,6 +1538,28 @@
             "h": 48
         },
         "gender": "divers",
+        "attackType": "close",
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "top,jungle"
+    },
+    {
+        "id": "Jax",
+        "name": "Jax",
+        "title": "Grandmaster at Arms",
+        "resource": "Mana",
+        "genre": "Fighter",
+        "skinCount": 44,
+        "image": {
+            "full": "Jax.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 48,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "male",
         "attackType": "close",
         "region": "runeterra"
     },
@@ -1735,9 +1735,7 @@
         },
         "gender": "male",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "shadow-isles",
-        "lane": "jungle"
+        "region": "runeterra"
     },
     {
         "id": "Jade_Karthus",
@@ -1757,7 +1755,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "shadow-isles",
+        "lane": "jungle"
     },
     {
         "id": "Jade_Kassadin",
@@ -1819,7 +1819,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "noxus",
+        "lane": "mid"
     },
     {
         "id": "Katarina",
@@ -1839,9 +1841,7 @@
         },
         "gender": "female",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "noxus",
-        "lane": "mid"
+        "region": "runeterra"
     },
     {
         "id": "Kayle",
@@ -1996,26 +1996,6 @@
         "lane": "top"
     },
     {
-        "id": "Jade_KogMaw",
-        "name": "Kog'Maw",
-        "title": "The Mouth of the Abyss",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 39,
-        "image": {
-            "full": "Jade_KogMaw.png",
-            "sprite": "champion2.png",
-            "group": "champion",
-            "x": 192,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
         "id": "KogMaw",
         "name": "Kog'Maw",
         "title": "the Mouth of the Abyss",
@@ -2032,6 +2012,26 @@
             "h": 48
         },
         "gender": "male",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
+        "id": "Jade_KogMaw",
+        "name": "Kog'Maw",
+        "title": "The Mouth of the Abyss",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 39,
+        "image": {
+            "full": "Jade_KogMaw.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 192,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
         "attackType": "range",
         "releaseDate": 2010,
         "region": "void",
@@ -2077,9 +2077,7 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2011,
-        "region": "ionia",
-        "lane": "jungle"
+        "region": "runeterra"
     },
     {
         "id": "LeeSin",
@@ -2099,7 +2097,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2011,
+        "region": "ionia",
+        "lane": "jungle"
     },
     {
         "id": "Jade_Leona",
@@ -2119,7 +2119,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2011,
+        "region": "mount-targon",
+        "lane": "support"
     },
     {
         "id": "Leona",
@@ -2139,9 +2141,7 @@
         },
         "gender": "female",
         "attackType": "close",
-        "releaseDate": 2011,
-        "region": "mount-targon",
-        "lane": "support"
+        "region": "runeterra"
     },
     {
         "id": "Lillia",
@@ -2247,9 +2247,7 @@
         },
         "gender": "female",
         "attackType": "range",
-        "releaseDate": 2012,
-        "region": "bandle-city",
-        "lane": "support"
+        "region": "runeterra"
     },
     {
         "id": "Jade_Lulu",
@@ -2263,6 +2261,28 @@
             "sprite": "champion2.png",
             "group": "champion",
             "x": 336,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
+        "attackType": "range",
+        "releaseDate": 2012,
+        "region": "bandle-city",
+        "lane": "support"
+    },
+    {
+        "id": "Jade_Lux",
+        "name": "Lux",
+        "title": "The Lady of Luminosity",
+        "resource": "Mana",
+        "genre": "Mage,Support",
+        "skinCount": 22,
+        "image": {
+            "full": "Jade_Lux.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 384,
             "y": 48,
             "w": 48,
             "h": 48
@@ -2289,49 +2309,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
-    },
-    {
-        "id": "Jade_Lux",
-        "name": "Lux",
-        "title": "The Lady of Luminosity",
-        "resource": "Mana",
-        "genre": "Mage,Support",
-        "skinCount": 22,
-        "image": {
-            "full": "Jade_Lux.png",
-            "sprite": "champion2.png",
-            "group": "champion",
-            "x": 384,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "range",
         "releaseDate": 2010,
         "region": "demacia",
         "lane": "mid,support"
-    },
-    {
-        "id": "Jade_Malphite",
-        "name": "Malphite",
-        "title": "Shard of the Monolith",
-        "resource": "Mana",
-        "genre": "Tank,Mage",
-        "skinCount": 24,
-        "image": {
-            "full": "Jade_Malphite.png",
-            "sprite": "champion2.png",
-            "group": "champion",
-            "x": 432,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "close",
-        "region": "runeterra"
     },
     {
         "id": "Malphite",
@@ -2351,29 +2331,29 @@
         },
         "gender": "male",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "ixtal",
-        "lane": "top"
+        "region": "runeterra"
     },
     {
-        "id": "Jade_Malzahar",
-        "name": "Malzahar",
-        "title": "The Prophet of the Void",
+        "id": "Jade_Malphite",
+        "name": "Malphite",
+        "title": "Shard of the Monolith",
         "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 15,
+        "genre": "Tank,Mage",
+        "skinCount": 24,
         "image": {
-            "full": "Jade_Malzahar.png",
+            "full": "Jade_Malphite.png",
             "sprite": "champion2.png",
             "group": "champion",
-            "x": 0,
-            "y": 96,
+            "x": 432,
+            "y": 48,
             "w": 48,
             "h": 48
         },
         "gender": "divers",
-        "attackType": "range",
-        "region": "runeterra"
+        "attackType": "close",
+        "releaseDate": 2009,
+        "region": "ixtal",
+        "lane": "top"
     },
     {
         "id": "Malzahar",
@@ -2398,6 +2378,26 @@
         "lane": "mid"
     },
     {
+        "id": "Jade_Malzahar",
+        "name": "Malzahar",
+        "title": "The Prophet of the Void",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 15,
+        "image": {
+            "full": "Jade_Malzahar.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 0,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
         "id": "Maokai",
         "name": "Maokai",
         "title": "the Twisted Treant",
@@ -2420,26 +2420,6 @@
         "lane": "support"
     },
     {
-        "id": "MasterYi",
-        "name": "Master Yi",
-        "title": "the Wuju Bladesman",
-        "resource": "Mana",
-        "genre": "Fighter,Assassin",
-        "skinCount": 90,
-        "image": {
-            "full": "MasterYi.png",
-            "sprite": "champion4.png",
-            "group": "champion",
-            "x": 48,
-            "y": 96,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
         "id": "Jade_MasterYi",
         "name": "Master Yi",
         "title": "The Wuju Bladesman",
@@ -2456,6 +2436,26 @@
             "h": 48
         },
         "gender": "divers",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "MasterYi",
+        "name": "Master Yi",
+        "title": "the Wuju Bladesman",
+        "resource": "Mana",
+        "genre": "Fighter,Assassin",
+        "skinCount": 90,
+        "image": {
+            "full": "MasterYi.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 48,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "male",
         "attackType": "close",
         "releaseDate": 2009,
         "region": "ionia",
@@ -2523,9 +2523,7 @@
         },
         "gender": "divers",
         "attackType": "range",
-        "releaseDate": 2010,
-        "region": "bilgewater",
-        "lane": "bottom"
+        "region": "runeterra"
     },
     {
         "id": "MissFortune",
@@ -2545,7 +2543,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2010,
+        "region": "bilgewater",
+        "lane": "bottom"
     },
     {
         "id": "Mordekaiser",
@@ -2587,9 +2587,7 @@
         },
         "gender": "female",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "demacia",
-        "lane": "support"
+        "region": "runeterra"
     },
     {
         "id": "Jade_Morgana",
@@ -2609,7 +2607,9 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "demacia",
+        "lane": "support"
     },
     {
         "id": "Naafiri",
@@ -2656,26 +2656,6 @@
         "lane": "support"
     },
     {
-        "id": "Jade_Nasus",
-        "name": "Nasus",
-        "title": "The Curator of the Sands",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 21,
-        "image": {
-            "full": "Jade_Nasus.png",
-            "sprite": "champion2.png",
-            "group": "champion",
-            "x": 192,
-            "y": 96,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
         "id": "Nasus",
         "name": "Nasus",
         "title": "the Curator of the Sands",
@@ -2692,6 +2672,26 @@
             "h": 48
         },
         "gender": "male",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "Jade_Nasus",
+        "name": "Nasus",
+        "title": "The Curator of the Sands",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 21,
+        "image": {
+            "full": "Jade_Nasus.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 192,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
         "attackType": "close",
         "releaseDate": 2009,
         "region": "shurima",
@@ -2742,26 +2742,6 @@
         "lane": "mid,support"
     },
     {
-        "id": "Nidalee",
-        "name": "Nidalee",
-        "title": "the Bestial Huntress",
-        "resource": "Mana",
-        "genre": "Assassin,Mage",
-        "skinCount": 67,
-        "image": {
-            "full": "Nidalee.png",
-            "sprite": "champion5.png",
-            "group": "champion",
-            "x": 144,
-            "y": 0,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "region": "runeterra"
-    },
-    {
         "id": "Jade_Nidalee",
         "name": "Nidalee",
         "title": "The Bestial Huntress",
@@ -2778,6 +2758,26 @@
             "h": 48
         },
         "gender": "divers",
+        "attackType": "range",
+        "region": "runeterra"
+    },
+    {
+        "id": "Nidalee",
+        "name": "Nidalee",
+        "title": "the Bestial Huntress",
+        "resource": "Mana",
+        "genre": "Assassin,Mage",
+        "skinCount": 67,
+        "image": {
+            "full": "Nidalee.png",
+            "sprite": "champion5.png",
+            "group": "champion",
+            "x": 144,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "female",
         "attackType": "range",
         "releaseDate": 2009,
         "region": "ixtal",
@@ -2828,26 +2828,6 @@
         "lane": "jungle"
     },
     {
-        "id": "Jade_Nunu",
-        "name": "Nunu & Willump",
-        "title": "The Yeti Rider",
-        "resource": "Mana",
-        "genre": "Tank,Mage",
-        "skinCount": 24,
-        "image": {
-            "full": "Jade_Nunu.png",
-            "sprite": "champion2.png",
-            "group": "champion",
-            "x": 288,
-            "y": 96,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
         "id": "Nunu",
         "name": "Nunu & Willump",
         "title": "the Boy and His Yeti",
@@ -2864,6 +2844,26 @@
             "h": 48
         },
         "gender": "male",
+        "attackType": "close",
+        "region": "runeterra"
+    },
+    {
+        "id": "Jade_Nunu",
+        "name": "Nunu & Willump",
+        "title": "The Yeti Rider",
+        "resource": "Mana",
+        "genre": "Tank,Mage",
+        "skinCount": 24,
+        "image": {
+            "full": "Jade_Nunu.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 288,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
         "attackType": "close",
         "releaseDate": 2009,
         "region": "freljord",
@@ -2887,9 +2887,7 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2010,
-        "region": "freljord",
-        "lane": "top"
+        "region": "runeterra"
     },
     {
         "id": "Olaf",
@@ -2909,7 +2907,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2010,
+        "region": "freljord",
+        "lane": "top"
     },
     {
         "id": "Orianna",
@@ -3125,7 +3125,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "shurima",
+        "lane": "jungle"
     },
     {
         "id": "Jade_Rammus",
@@ -3145,9 +3147,7 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "shurima",
-        "lane": "jungle"
+        "region": "runeterra"
     },
     {
         "id": "RekSai",
@@ -3304,28 +3304,6 @@
         "lane": "top"
     },
     {
-        "id": "Jade_Ryze",
-        "name": "Ryze",
-        "title": "The Rogue Mage",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 26,
-        "image": {
-            "full": "Jade_Ryze.png",
-            "sprite": "champion3.png",
-            "group": "champion",
-            "x": 0,
-            "y": 0,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "range",
-        "releaseDate": 2009,
-        "region": "runeterra",
-        "lane": "mid"
-    },
-    {
         "id": "Ryze",
         "name": "Ryze",
         "title": "the Rune Mage",
@@ -3342,6 +3320,28 @@
             "h": 48
         },
         "gender": "male",
+        "attackType": "range",
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "mid"
+    },
+    {
+        "id": "Jade_Ryze",
+        "name": "Ryze",
+        "title": "The Rogue Mage",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 26,
+        "image": {
+            "full": "Jade_Ryze.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
         "attackType": "range",
         "region": "runeterra"
     },
@@ -3473,7 +3473,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "jungle"
     },
     {
         "id": "Jade_Shaco",
@@ -3493,9 +3495,7 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "runeterra",
-        "lane": "jungle"
+        "region": "runeterra"
     },
     {
         "id": "Shen",
@@ -3542,26 +3542,6 @@
         "lane": "jungle"
     },
     {
-        "id": "Jade_Singed",
-        "name": "Singed",
-        "title": "The Mad Chemist",
-        "resource": "Mana",
-        "genre": "Tank,Mage",
-        "skinCount": 15,
-        "image": {
-            "full": "Jade_Singed.png",
-            "sprite": "champion3.png",
-            "group": "champion",
-            "x": 96,
-            "y": 0,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
         "id": "Singed",
         "name": "Singed",
         "title": "the Mad Chemist",
@@ -3582,6 +3562,26 @@
         "releaseDate": 2009,
         "region": "zaun",
         "lane": "top"
+    },
+    {
+        "id": "Jade_Singed",
+        "name": "Singed",
+        "title": "The Mad Chemist",
+        "resource": "Mana",
+        "genre": "Tank,Mage",
+        "skinCount": 15,
+        "image": {
+            "full": "Jade_Singed.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 96,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
+        "attackType": "close",
+        "region": "runeterra"
     },
     {
         "id": "Sion",
@@ -3626,28 +3626,6 @@
         "region": "runeterra"
     },
     {
-        "id": "Sivir",
-        "name": "Sivir",
-        "title": "the Battle Mistress",
-        "resource": "Mana",
-        "genre": "Marksman",
-        "skinCount": 81,
-        "image": {
-            "full": "Sivir.png",
-            "sprite": "champion6.png",
-            "group": "champion",
-            "x": 240,
-            "y": 0,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "female",
-        "attackType": "range",
-        "releaseDate": 2009,
-        "region": "shurima",
-        "lane": "bottom"
-    },
-    {
         "id": "Jade_Sivir",
         "name": "Sivir",
         "title": "The Battle Mistress",
@@ -3665,6 +3643,28 @@
         },
         "gender": "divers",
         "attackType": "close",
+        "releaseDate": 2009,
+        "region": "shurima",
+        "lane": "bottom"
+    },
+    {
+        "id": "Sivir",
+        "name": "Sivir",
+        "title": "the Battle Mistress",
+        "resource": "Mana",
+        "genre": "Marksman",
+        "skinCount": 81,
+        "image": {
+            "full": "Sivir.png",
+            "sprite": "champion6.png",
+            "group": "champion",
+            "x": 240,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "female",
+        "attackType": "range",
         "region": "runeterra"
     },
     {
@@ -3791,7 +3791,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "mount-targon",
+        "lane": "support"
     },
     {
         "id": "Jade_Soraka",
@@ -3811,9 +3813,7 @@
         },
         "gender": "divers",
         "attackType": "range",
-        "releaseDate": 2009,
-        "region": "mount-targon",
-        "lane": "support"
+        "region": "runeterra"
     },
     {
         "id": "Swain",
@@ -3965,9 +3965,7 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "mount-targon",
-        "lane": "support"
+        "region": "runeterra"
     },
     {
         "id": "Taric",
@@ -3987,6 +3985,28 @@
         },
         "gender": "male",
         "attackType": "close",
+        "releaseDate": 2009,
+        "region": "mount-targon",
+        "lane": "support"
+    },
+    {
+        "id": "Jade_Teemo",
+        "name": "Teemo",
+        "title": "The Swift Scout",
+        "resource": "Mana",
+        "genre": "Marksman,Mage",
+        "skinCount": 34,
+        "image": {
+            "full": "Jade_Teemo.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 432,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
+        "attackType": "range",
         "region": "runeterra"
     },
     {
@@ -4010,26 +4030,6 @@
         "releaseDate": 2009,
         "region": "bandle-city",
         "lane": "top"
-    },
-    {
-        "id": "Jade_Teemo",
-        "name": "Teemo",
-        "title": "The Swift Scout",
-        "resource": "Mana",
-        "genre": "Marksman,Mage",
-        "skinCount": 34,
-        "image": {
-            "full": "Jade_Teemo.png",
-            "sprite": "champion3.png",
-            "group": "champion",
-            "x": 432,
-            "y": 0,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "range",
-        "region": "runeterra"
     },
     {
         "id": "Thresh",
@@ -4118,26 +4118,6 @@
         "lane": "top"
     },
     {
-        "id": "Jade_Tryndamere",
-        "name": "Tryndamere",
-        "title": "The Barbarian King",
-        "resource": "Fury",
-        "genre": "Fighter,Assassin",
-        "skinCount": 31,
-        "image": {
-            "full": "Jade_Tryndamere.png",
-            "sprite": "champion3.png",
-            "group": "champion",
-            "x": 48,
-            "y": 48,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "divers",
-        "attackType": "close",
-        "region": "runeterra"
-    },
-    {
         "id": "Tryndamere",
         "name": "Tryndamere",
         "title": "the Barbarian King",
@@ -4158,6 +4138,26 @@
         "releaseDate": 2009,
         "region": "freljord",
         "lane": "top"
+    },
+    {
+        "id": "Jade_Tryndamere",
+        "name": "Tryndamere",
+        "title": "The Barbarian King",
+        "resource": "Fury",
+        "genre": "Fighter,Assassin",
+        "skinCount": 31,
+        "image": {
+            "full": "Jade_Tryndamere.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 48,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "divers",
+        "attackType": "close",
+        "region": "runeterra"
     },
     {
         "id": "Jade_TwistedFate",
@@ -4219,9 +4219,7 @@
         },
         "gender": "male",
         "attackType": "range",
-        "releaseDate": 2009,
-        "region": "zaun",
-        "lane": "bottom"
+        "region": "runeterra"
     },
     {
         "id": "Jade_Twitch",
@@ -4241,7 +4239,9 @@
         },
         "gender": "divers",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "bottom"
     },
     {
         "id": "Udyr",
@@ -4327,7 +4327,9 @@
         },
         "gender": "female",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2011,
+        "region": "demacia",
+        "lane": "bottom"
     },
     {
         "id": "Jade_Vayne",
@@ -4346,28 +4348,6 @@
             "h": 48
         },
         "gender": "divers",
-        "attackType": "range",
-        "releaseDate": 2011,
-        "region": "demacia",
-        "lane": "bottom"
-    },
-    {
-        "id": "Veigar",
-        "name": "Veigar",
-        "title": "the Tiny Master of Evil",
-        "resource": "Mana",
-        "genre": "Mage",
-        "skinCount": 69,
-        "image": {
-            "full": "Veigar.png",
-            "sprite": "champion6.png",
-            "group": "champion",
-            "x": 384,
-            "y": 96,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "male",
         "attackType": "range",
         "region": "runeterra"
     },
@@ -4392,6 +4372,26 @@
         "releaseDate": 2009,
         "region": "bandle-city",
         "lane": "mid"
+    },
+    {
+        "id": "Veigar",
+        "name": "Veigar",
+        "title": "the Tiny Master of Evil",
+        "resource": "Mana",
+        "genre": "Mage",
+        "skinCount": 69,
+        "image": {
+            "full": "Veigar.png",
+            "sprite": "champion6.png",
+            "group": "champion",
+            "x": 384,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "male",
+        "attackType": "range",
+        "region": "runeterra"
     },
     {
         "id": "Velkoz",
@@ -4565,7 +4565,9 @@
         },
         "gender": "male",
         "attackType": "close",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "zaun",
+        "lane": "jungle"
     },
     {
         "id": "Jade_Warwick",
@@ -4585,9 +4587,27 @@
         },
         "gender": "divers",
         "attackType": "close",
-        "releaseDate": 2009,
-        "region": "zaun",
-        "lane": "jungle"
+        "region": "runeterra"
+    },
+    {
+        "id": "MonkeyKing",
+        "name": "Wukong",
+        "title": "the Monkey King",
+        "resource": "Mana",
+        "genre": "Fighter,Tank",
+        "skinCount": 36,
+        "image": {
+            "full": "MonkeyKing.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 240,
+            "y": 96,
+            "w": 48,
+            "h": 48
+        },
+        "gender": "male",
+        "attackType": "close",
+        "region": "runeterra"
     },
     {
         "id": "Jade_Wukong",
@@ -4610,26 +4630,6 @@
         "releaseDate": 2011,
         "region": "ionia",
         "lane": "jungle"
-    },
-    {
-        "id": "MonkeyKing",
-        "name": "Wukong",
-        "title": "the Monkey King",
-        "resource": "Mana",
-        "genre": "Fighter,Tank",
-        "skinCount": 36,
-        "image": {
-            "full": "MonkeyKing.png",
-            "sprite": "champion4.png",
-            "group": "champion",
-            "x": 240,
-            "y": 96,
-            "w": 48,
-            "h": 48
-        },
-        "gender": "male",
-        "attackType": "close",
-        "region": "runeterra"
     },
     {
         "id": "Xayah",
@@ -4932,7 +4932,9 @@
         },
         "gender": "divers",
         "attackType": "range",
-        "region": "runeterra"
+        "releaseDate": 2009,
+        "region": "runeterra",
+        "lane": "support"
     },
     {
         "id": "Zilean",
@@ -4952,9 +4954,7 @@
         },
         "gender": "male",
         "attackType": "range",
-        "releaseDate": 2009,
-        "region": "runeterra",
-        "lane": "support"
+        "region": "runeterra"
     },
     {
         "id": "Zoe",
