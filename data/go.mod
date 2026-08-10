@@ -1,4 +1,4 @@
-module github.com/tiennm99/loldle-data
+module github.com/tiennm99/loldle/data
 
 go 1.25.5
 

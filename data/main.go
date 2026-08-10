@@ -7,7 +7,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/tiennm99/loldle-data/parser"
+	"github.com/tiennm99/loldle/data/parser"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tiennm99/loldle-data/parser"
+	"github.com/tiennm99/loldle/data/parser"
 )
 
 // saveMarkdown renders champions as a human-readable table matching the

@@ -1,6 +1,6 @@
 # loldle
 
-LoLdle-style League of Legends daily champion guessing game — data auto-updated from [loldle-data](https://github.com/tiennm99/loldle-data).
+LoLdle-style League of Legends daily champion guessing game — data auto-updated by the scraper in [`data/`](../data/).
 
 Live: https://tiennm99.github.io/loldle/
 

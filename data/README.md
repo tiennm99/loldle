@@ -1,6 +1,6 @@
 # loldle-data
 
-[LoLdleData](https://github.com/Kerrders/LoLdleData) rewritten in Go — fetches League of Legends champion data from Riot's Data Dragon API and outputs a structured JSON file for use in [loldle](https://github.com/tiennm99/loldle).
+[LoLdleData](https://github.com/Kerrders/LoLdleData) rewritten in Go — fetches League of Legends champion data from Riot's Data Dragon API and outputs a structured JSON file for use in the web app in [`web/`](../web/).
 
 ## What it extracts
 
@@ -44,7 +44,7 @@ A human-readable `CHAMPIONS.md` table is also generated alongside the JSON.
 
 ## Used by
 
-- [loldle](https://github.com/tiennm99/loldle) — the Wordle-style LoL guessing game that consumes this data.
+- [`web/`](../web/) — the Wordle-style LoL guessing game that consumes this data.
 
 ## License
 
