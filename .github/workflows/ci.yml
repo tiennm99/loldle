@@ -21,25 +21,24 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: pnpm/action-setup@v6
         with:
           package_json_file: web/package.json
 
       - uses: actions/setup-node@v7
         with:
           node-version: '24'
-          cache: 'pnpm'
-          cache-dependency-path: web/pnpm-lock.yaml
+          cache: 'npm'
+          cache-dependency-path: web/package-lock.json
 
-      - run: pnpm install --frozen-lockfile --ignore-scripts
+      - run: npm ci --ignore-scripts
 
-      - run: pnpm test
+      - run: npm test
 
-      - run: pnpm lint
+      - run: npm run lint
 
       # No BASE_PATH here: this checks that the app compiles. The base-path
       # behaviour is verified against a real preview before release.
-      - run: pnpm build
+      - run: npm run build
 
   scraper:
     runs-on: ubuntu-latest

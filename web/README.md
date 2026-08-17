@@ -9,18 +9,18 @@ Built with SvelteKit and Svelte 5, styled with Tailwind CSS, and prerendered to 
 ## Quick start
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 ## Commands
 
 ```bash
-pnpm dev      # dev server
-pnpm build    # static build into build/
-pnpm preview  # serve the production build
-pnpm test     # unit tests
-pnpm lint     # eslint
+npm run dev      # dev server
+npm run build    # static build into build/
+npm run preview  # serve the production build
+npm test         # unit tests
+npm run lint     # eslint
 ```
 
 Champion data lives in `static/champions.json` and is refreshed weekly by the sync workflow.
