@@ -1193,7 +1193,7 @@
         "title": "the Loose Cannon",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 64,
+        "skinCount": 73,
         "image": {
             "full": "Jinx.png",
             "sprite": "champion1.png",
@@ -1368,7 +1368,7 @@
         "name": "Kayle",
         "title": "the Righteous",
         "resource": "Mana",
-        "genre": "Mage,Marksman",
+        "genre": "Marksman,Mage",
         "skinCount": 89,
         "image": {
             "full": "Kayle.png",
@@ -2577,7 +2577,7 @@
         "title": "the Starry-Eyed Songstress",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 75,
+        "skinCount": 82,
         "image": {
             "full": "Seraphine.png",
             "sprite": "champion3.png",
@@ -2819,7 +2819,7 @@
         "title": "the Starchild",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 63,
+        "skinCount": 72,
         "image": {
             "full": "Soraka.png",
             "sprite": "champion4.png",
@@ -3631,7 +3631,7 @@
         "name": "Zaahen",
         "title": "The Unsundered",
         "resource": "Mana",
-        "genre": "Fighter,Assassin",
+        "genre": "Fighter",
         "skinCount": 10,
         "image": {
             "full": "Zaahen.png",
