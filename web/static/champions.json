@@ -27,7 +27,7 @@
         "title": "the Nine-Tailed Fox",
         "resource": "Mana",
         "genre": "Mage,Assassin",
-        "skinCount": 95,
+        "skinCount": 96,
         "image": {
             "full": "Ahri.png",
             "sprite": "champion0.png",
@@ -159,7 +159,7 @@
         "title": "the Cryophoenix",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 55,
+        "skinCount": 64,
         "image": {
             "full": "Anivia.png",
             "sprite": "champion0.png",
@@ -225,7 +225,7 @@
         "title": "the Frost Archer",
         "resource": "Mana",
         "genre": "Marksman,Support",
-        "skinCount": 93,
+        "skinCount": 94,
         "image": {
             "full": "Ashe.png",
             "sprite": "champion0.png",
@@ -1083,7 +1083,7 @@
         "title": "the Storm's Fury",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 67,
+        "skinCount": 74,
         "image": {
             "full": "Janna.png",
             "sprite": "champion1.png",
@@ -1807,7 +1807,7 @@
         "title": "the Soul's Reflection",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 12,
+        "skinCount": 21,
         "image": {
             "full": "Mel.png",
             "sprite": "champion2.png",
@@ -1895,7 +1895,7 @@
         "title": "the Fallen",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 82,
+        "skinCount": 83,
         "image": {
             "full": "Morgana.png",
             "sprite": "champion2.png",
@@ -3171,7 +3171,7 @@
         "title": "the Dreadnought",
         "resource": "Mana",
         "genre": "Fighter,Tank",
-        "skinCount": 41,
+        "skinCount": 50,
         "image": {
             "full": "Urgot.png",
             "sprite": "champion4.png",
