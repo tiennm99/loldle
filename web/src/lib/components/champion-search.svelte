@@ -1,5 +1,5 @@
 <script>
-  import { getChampionImageUrl, searchChampions } from "$lib/champion-data";
+  import { getChampionImageUrl, searchChampions } from "#lib/champion-data.js";
 
   /** Autocomplete search input for champion selection */
   let { excludeNames, onSelect, disabled } = $props();

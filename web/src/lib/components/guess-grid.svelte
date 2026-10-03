@@ -1,5 +1,5 @@
 <script>
-  import { CLASSIC_ATTRIBUTES } from "$lib/classic-mode";
+  import { CLASSIC_ATTRIBUTES } from "#lib/classic-mode.js";
   import GuessRow from "./guess-row.svelte";
 
   /** Grid with header row + guess rows */

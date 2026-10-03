@@ -4,8 +4,8 @@
     getRandomChampion,
     getTodaySeed,
     loadChampions,
-  } from "$lib/champion-data";
-  import { compareChampions } from "$lib/classic-mode";
+  } from "#lib/champion-data.js";
+  import { compareChampions } from "#lib/classic-mode.js";
   import {
     clearExpiredCache,
     clearUnlimitedState,
@@ -14,7 +14,7 @@
     loadUnlimitedStats,
     saveUnlimitedStats,
     submitGuess,
-  } from "$lib/game-engine";
+  } from "#lib/game-engine.js";
   import ChampionSearch from "./champion-search.svelte";
   import GameOver from "./game-over.svelte";
   import GuessGrid from "./guess-grid.svelte";

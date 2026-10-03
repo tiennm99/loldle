@@ -1,5 +1,5 @@
 <script>
-  import GameBoard from "$lib/components/game-board.svelte";
+  import GameBoard from "#lib/components/game-board.svelte";
 </script>
 
 <main class="flex flex-col items-center min-h-screen">

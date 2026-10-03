@@ -1,5 +1,5 @@
 <script>
-  import { getChampionImageUrl } from "$lib/champion-data";
+  import { getChampionImageUrl } from "#lib/champion-data.js";
 
   /** Win/loss message with optional new game button */
   let { isWon, target, guessCount, onNewGame } = $props();

@@ -1,5 +1,5 @@
 <script>
-  import { getChampionImageUrl } from "$lib/champion-data";
+  import { getChampionImageUrl } from "#lib/champion-data.js";
 
   /** Single guess row with colored attribute cells */
   let { champion, results } = $props();

@@ -11,7 +11,7 @@ export async function loadChampions() {
   if (loadPromise) return loadPromise;
 
   loadPromise = (async () => {
-    const response = await fetch(asset("/champions.json"));
+    const response = await fetch(asset("champions.json"));
     if (!response.ok) {
       loadPromise = null;
       throw new Error(`Failed to load champions: ${response.status}`);
