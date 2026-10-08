@@ -203,7 +203,7 @@
         "title": "the Weapon of the Faithful",
         "resource": "Mana",
         "genre": "Marksman",
-        "skinCount": 40,
+        "skinCount": 49,
         "image": {
             "full": "Aphelios.png",
             "sprite": "champion0.png",
@@ -709,7 +709,7 @@
         "title": "the Prodigal Explorer",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 77,
+        "skinCount": 86,
         "image": {
             "full": "Ezreal.png",
             "sprite": "champion1.png",
@@ -1127,7 +1127,7 @@
         "title": "Grandmaster at Arms",
         "resource": "Mana",
         "genre": "Fighter",
-        "skinCount": 44,
+        "skinCount": 45,
         "image": {
             "full": "Jax.png",
             "sprite": "champion1.png",
@@ -1215,7 +1215,7 @@
         "title": "the Pride of Nazumah",
         "resource": "Mana",
         "genre": "Tank,Fighter",
-        "skinCount": 18,
+        "skinCount": 27,
         "image": {
             "full": "KSante.png",
             "sprite": "champion2.png",
@@ -1391,7 +1391,7 @@
         "title": "the Shadow Reaper",
         "resource": "Mana",
         "genre": "Fighter,Assassin",
-        "skinCount": 31,
+        "skinCount": 36,
         "image": {
             "full": "Kayn.png",
             "sprite": "champion2.png",
@@ -1501,7 +1501,7 @@
         "title": "the Mouth of the Abyss",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 65,
+        "skinCount": 67,
         "image": {
             "full": "KogMaw.png",
             "sprite": "champion2.png",
@@ -1545,7 +1545,7 @@
         "title": "the Blind Monk",
         "resource": "Energy",
         "genre": "Fighter,Assassin",
-        "skinCount": 80,
+        "skinCount": 81,
         "image": {
             "full": "LeeSin.png",
             "sprite": "champion2.png",
@@ -2599,7 +2599,7 @@
         "title": "the Boss",
         "resource": "Grit",
         "genre": "Fighter,Tank",
-        "skinCount": 76,
+        "skinCount": 78,
         "image": {
             "full": "Sett.png",
             "sprite": "champion3.png",
@@ -3215,7 +3215,7 @@
         "title": "the Night Hunter",
         "resource": "Mana",
         "genre": "Marksman,Assassin",
-        "skinCount": 74,
+        "skinCount": 75,
         "image": {
             "full": "Vayne.png",
             "sprite": "champion4.png",
@@ -3545,7 +3545,7 @@
         "title": "the Unforgotten",
         "resource": "Flow",
         "genre": "Fighter,Assassin",
-        "skinCount": 76,
+        "skinCount": 85,
         "image": {
             "full": "Yone.png",
             "sprite": "champion5.png",
@@ -3674,7 +3674,7 @@
         "title": "the Master of Shadows",
         "resource": "Energy",
         "genre": "Assassin",
-        "skinCount": 71,
+        "skinCount": 72,
         "image": {
             "full": "Zed.png",
             "sprite": "champion5.png",
@@ -3784,7 +3784,7 @@
         "title": "Rise of the Thorns",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 74,
+        "skinCount": 75,
         "image": {
             "full": "Zyra.png",
             "sprite": "champion5.png",
