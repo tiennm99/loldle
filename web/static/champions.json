@@ -49,7 +49,7 @@
         "title": "the Rogue Assassin",
         "resource": "Energy",
         "genre": "Assassin",
-        "skinCount": 102,
+        "skinCount": 109,
         "image": {
             "full": "Akali.png",
             "sprite": "champion0.png",
@@ -643,7 +643,7 @@
         "title": "the Boy Who Shattered Time",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 59,
+        "skinCount": 61,
         "image": {
             "full": "Ekko.png",
             "sprite": "champion0.png",
@@ -2247,7 +2247,7 @@
         "title": "Empress of the Elements",
         "resource": "Mana",
         "genre": "Assassin",
-        "skinCount": 51,
+        "skinCount": 60,
         "image": {
             "full": "Qiyana.png",
             "sprite": "champion3.png",
@@ -2555,7 +2555,7 @@
         "title": "the Redeemer",
         "resource": "Mana",
         "genre": "Support,Marksman",
-        "skinCount": 80,
+        "skinCount": 89,
         "image": {
             "full": "Senna.png",
             "sprite": "champion3.png",
@@ -3523,7 +3523,7 @@
         "title": "the Unforgiven",
         "resource": "Flow",
         "genre": "Fighter,Assassin",
-        "skinCount": 97,
+        "skinCount": 103,
         "image": {
             "full": "Yasuo.png",
             "sprite": "champion5.png",
