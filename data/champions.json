@@ -27,7 +27,7 @@
         "title": "the Nine-Tailed Fox",
         "resource": "Mana",
         "genre": "Mage,Assassin",
-        "skinCount": 96,
+        "skinCount": 105,
         "image": {
             "full": "Ahri.png",
             "sprite": "champion0.png",
@@ -49,7 +49,7 @@
         "title": "the Rogue Assassin",
         "resource": "Energy",
         "genre": "Assassin",
-        "skinCount": 109,
+        "skinCount": 110,
         "image": {
             "full": "Akali.png",
             "sprite": "champion0.png",
@@ -687,7 +687,7 @@
         "title": "Agony's Embrace",
         "resource": "Mana",
         "genre": "Assassin,Mage",
-        "skinCount": 65,
+        "skinCount": 73,
         "image": {
             "full": "Evelynn.png",
             "sprite": "champion1.png",
@@ -885,7 +885,7 @@
         "title": "the Rabble Rouser",
         "resource": "Mana",
         "genre": "Fighter,Mage",
-        "skinCount": 48,
+        "skinCount": 49,
         "image": {
             "full": "Gragas.png",
             "sprite": "champion1.png",
@@ -1237,7 +1237,7 @@
         "title": "Daughter of the Void",
         "resource": "Mana",
         "genre": "Marksman,Mage",
-        "skinCount": 79,
+        "skinCount": 88,
         "image": {
             "full": "Kaisa.png",
             "sprite": "champion1.png",
