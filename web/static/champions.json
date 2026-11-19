@@ -2005,7 +2005,7 @@
         "title": "the Curious Chameleon",
         "resource": "Mana",
         "genre": "Mage,Support",
-        "skinCount": 50,
+        "skinCount": 59,
         "image": {
             "full": "Neeko.png",
             "sprite": "champion3.png",
@@ -2797,7 +2797,7 @@
         "title": "Maven of the Strings",
         "resource": "Mana",
         "genre": "Support,Mage",
-        "skinCount": 77,
+        "skinCount": 78,
         "image": {
             "full": "Sona.png",
             "sprite": "champion4.png",
@@ -3762,7 +3762,7 @@
         "title": "the Aspect of Twilight",
         "resource": "Mana",
         "genre": "Mage",
-        "skinCount": 45,
+        "skinCount": 54,
         "image": {
             "full": "Zoe.png",
             "sprite": "champion5.png",
